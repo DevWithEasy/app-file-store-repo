@@ -47,7 +47,6 @@ async function main() {
 
 async function processBook(db, book, hadithFolder) {
     const zip = new JSZip();
-    const bookFolder = zip.folder(`book_${book.id}`);
 
     // চ্যাপ্টার ডেটা
     const chapters = await new Promise((resolve, reject) => {
@@ -58,8 +57,8 @@ async function processBook(db, book, hadithFolder) {
         );
     });
 
-    // চ্যাপ্টার ফাইল সেভ করুন
-    bookFolder.file(
+    // চ্যাপ্টার ফাইল সরাসরি জিপে অ্যাড করুন (ফোল্ডার ছাড়া)
+    zip.file(
         `book_${book.id}_chapters.json`,
         JSON.stringify(chapters, null, 2)
     );
@@ -108,7 +107,8 @@ async function processBook(db, book, hadithFolder) {
             }
         }
 
-        bookFolder.file(
+        // সেকশন ফাইল সরাসরি জিপে অ্যাড করুন (ফোল্ডার ছাড়া)
+        zip.file(
             `book_${book.id}_chapter_${chapter.chapter_id}_sections.json`,
             JSON.stringify(sectionsWithHadiths, null, 2)
         );
@@ -125,12 +125,12 @@ async function processBook(db, book, hadithFolder) {
 
     const zipFilePath = path.join(hadithFolder, `book_${book.id}.zip`);
     fs.writeFileSync(zipFilePath, zipContent);
-    
+   
     const stats = fs.statSync(zipFilePath);
     const fileSizeMB = (stats.size / 1024 / 1024).toFixed(2);
     console.log(`জিপ ফাইল তৈরি হয়েছে: ${zipFilePath} (সাইজ: ${fileSizeMB} MB)`);
-    
-    return fileSizeMB; // ফাইল সাইজ রিটার্ন করুন
+   
+    return fileSizeMB;
 }
 
 main();
