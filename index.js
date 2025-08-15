@@ -2,126 +2,192 @@ const sqlite3 = require('sqlite3').verbose();
 const fs = require('fs');
 const path = require('path');
 
-// Create directories if they don't exist
-const folders = ['surah', 'ayah', 'timing', 'audio'];
-folders.forEach(folder => {
-  const dir = path.join(__dirname, folder);
-  if (!fs.existsSync(dir)) {
-    fs.mkdirSync(dir);
-    console.log(`Created directory: ${dir}`);
-  }
+async function main() {
+    try {
+        // Create the main hadith folder structure
+        const hadithFolder = './hadith';
+        const chapterFolder = path.join(hadithFolder, 'chapter');
+        const sectionFolder = path.join(hadithFolder, 'section');
+
+        // Ensure directories exist
+        if (!fs.existsSync(hadithFolder)) fs.mkdirSync(hadithFolder);
+        if (!fs.existsSync(chapterFolder)) fs.mkdirSync(chapterFolder);
+        if (!fs.existsSync(sectionFolder)) fs.mkdirSync(sectionFolder);
+
+        // Connect to SQLite database with better error handling
+        const db = await new Promise((resolve, reject) => {
+            const db = new sqlite3.Database('hadith.db', sqlite3.OPEN_READONLY, (err) => {
+                if (err) {
+                    console.error('Error opening database', err);
+                    reject(err);
+                } else {
+                    console.log('Connected to the SQLite database.');
+                    resolve(db);
+                }
+            });
+        });
+
+        // Process books
+        const books = await new Promise((resolve, reject) => {
+            db.all('SELECT * FROM books', [], (err, rows) => {
+                if (err) {
+                    console.error('Error fetching books', err);
+                    reject(err);
+                } else {
+                    resolve(rows);
+                }
+            });
+        });
+
+        // Save books.json
+        fs.writeFileSync(
+            path.join(hadithFolder, 'books.json'),
+            JSON.stringify(books, null, 2)
+        );
+
+        // Process each book sequentially to avoid memory issues
+        for (const book of books) {
+            console.log(`Processing book ${book.id}: ${book.title}`);
+            await processBook(db, book);
+        }
+
+        db.close();
+        console.log('All processing completed successfully.');
+    } catch (error) {
+        console.error('Fatal error in main process:', error);
+        process.exit(1);
+    }
+}
+
+async function processBook(db, book) {
+    try {
+        // Get all chapters for this book
+        const chapters = await new Promise((resolve, reject) => {
+            db.all(
+                'SELECT * FROM chapter WHERE book_id = ? ORDER BY number',
+                [book.id],
+                (err, rows) => {
+                    if (err) {
+                        console.error(`Error fetching chapters for book ${book.id}`, err);
+                        reject(err);
+                    } else {
+                        resolve(rows);
+                    }
+                }
+            );
+        });
+
+        // Save chapters to file
+        const chapterFileName = `book_${book.id}_chapters.json`;
+        fs.writeFileSync(
+            path.join('./hadith/chapter', chapterFileName),
+            JSON.stringify(chapters, null, 2)
+        );
+
+        // Process each chapter sequentially
+        for (const chapter of chapters) {
+            await processChapter(db, book, chapter);
+        }
+    } catch (error) {
+        console.error(`Error processing book ${book.id}:`, error);
+    }
+}
+
+async function processChapter(db, book, chapter) {
+    try {
+        console.log(`  Processing chapter ${chapter.chapter_id}: ${chapter.title}`);
+
+        // Get all sections for this chapter
+        const sections = await new Promise((resolve, reject) => {
+            db.all(
+                'SELECT * FROM section WHERE book_id = ? AND chapter_id = ? ORDER BY number',
+                [book.id, chapter.chapter_id],
+                (err, rows) => {
+                    if (err) {
+                        console.error(
+                            `Error fetching sections for book ${book.id} chapter ${chapter.chapter_id}`,
+                            err
+                        );
+                        reject(err);
+                    } else {
+                        resolve(rows);
+                    }
+                }
+            );
+        });
+
+        // Get hadiths for each section
+        const sectionsWithHadiths = [];
+        
+        if (sections.length === 0) {
+            // If no sections, get all hadiths for the chapter
+            const hadiths = await new Promise((resolve, reject) => {
+                db.all(
+                    'SELECT * FROM hadith WHERE book_id = ? AND chapter_id = ? ORDER BY hadith_id',
+                    [book.id, chapter.chapter_id],
+                    (err, rows) => {
+                        if (err) {
+                            console.error(
+                                `Error fetching hadiths for book ${book.id} chapter ${chapter.chapter_id}`,
+                                err
+                            );
+                            reject(err);
+                        } else {
+                            resolve(rows);
+                        }
+                    }
+                );
+            });
+
+            sectionsWithHadiths.push({
+                id: 0,
+                book_id: book.id,
+                chapter_id: chapter.chapter_id,
+                section_id: 0,
+                title: 'All Hadiths',
+                hadiths: hadiths,
+            });
+        } else {
+            // Process each section
+            for (const section of sections) {
+                const hadiths = await new Promise((resolve, reject) => {
+                    db.all(
+                        'SELECT * FROM hadith WHERE book_id = ? AND chapter_id = ? AND section_id = ? ORDER BY hadith_id',
+                        [book.id, chapter.chapter_id, section.section_id],
+                        (err, rows) => {
+                            if (err) {
+                                console.error(
+                                    `Error fetching hadiths for book ${book.id} chapter ${chapter.chapter_id} section ${section.section_id}`,
+                                    err
+                                );
+                                reject(err);
+                            } else {
+                                resolve(rows);
+                            }
+                        }
+                    );
+                });
+
+                sectionsWithHadiths.push({
+                    ...section,
+                    hadiths: hadiths,
+                });
+            }
+        }
+
+        // Save sections to file
+        const sectionFileName = `book_${book.id}_chapter_${chapter.chapter_id}_sections.json`;
+        fs.writeFileSync(
+            path.join('./hadith/section', sectionFileName),
+            JSON.stringify(sectionsWithHadiths, null, 2)
+        );
+    } catch (error) {
+        console.error(`Error processing chapter ${chapter.chapter_id}:`, error);
+    }
+}
+
+// Start the process
+main().catch(err => {
+    console.error('Unhandled error in main:', err);
+    process.exit(1);
 });
-
-// Open the database
-const db = new sqlite3.Database('./quran.db', sqlite3.OPEN_READONLY, (err) => {
-  if (err) {
-    console.error(err.message);
-    return;
-  }
-  console.log('Connected to the Quran database.');
-});
-
-// Function to handle database queries with promises
-function dbQuery(sql, params = []) {
-  return new Promise((resolve, reject) => {
-    db.all(sql, params, (err, rows) => {
-      if (err) reject(err);
-      else resolve(rows);
-    });
-  });
-}
-
-// Function to write JSON files in specific folders
-function writeJsonFile(folder, filename, data) {
-  const filePath = path.join(__dirname, folder, filename);
-  fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf8');
-  console.log(`Created file: ${filePath}`);
-}
-
-// Main function to process all data
-async function processData() {
-  try {
-    // Create surah.json in surah folder
-    const surahs = await dbQuery('SELECT * FROM surah ORDER BY serial');
-    writeJsonFile('surah', 'surah.json', surahs);
-
-    // Create reciters.json in audio folder
-    const reciters = await dbQuery('SELECT * FROM reciters ORDER BY id');
-    writeJsonFile('audio', 'reciters.json', reciters);
-
-    // Process audio data by reciter
-    const audioData = await dbQuery('SELECT * FROM audio ORDER BY reciter_id, surah_id');
-    const audioByReciter = {};
-    
-    audioData.forEach(item => {
-      if (!audioByReciter[item.reciter_id]) {
-        audioByReciter[item.reciter_id] = [];
-      }
-      audioByReciter[item.reciter_id].push({
-        id: item.surah_id,
-        link: item.audio_link
-      });
-    });
-
-    for (const reciterId in audioByReciter) {
-      writeJsonFile('audio', `reciter_${reciterId}.json`, audioByReciter[reciterId]);
-    }
-
-    // Process ayah data by surah
-    const ayahs = await dbQuery('SELECT * FROM ayah ORDER BY surah_id, ayah_id');
-    const ayahBySurah = {};
-    
-    ayahs.forEach(ayah => {
-      if (!ayahBySurah[ayah.surah_id]) {
-        ayahBySurah[ayah.surah_id] = [];
-      }
-      ayahBySurah[ayah.surah_id].push({
-        id: ayah.ayah_id,
-        ar: ayah.arabic,
-        tr: ayah.tr_ar,
-        bn_haque: ayah.tr_bn_haque,
-        bn_muhi: ayah.tr_bn_muhi,
-        en: ayah.tr_en
-      });
-    });
-
-    for (const surahId in ayahBySurah) {
-      writeJsonFile('ayah', `surah_${surahId}.json`, ayahBySurah[surahId]);
-    }
-
-    // Process verse timings by reciter and surah
-    const timings = await dbQuery('SELECT * FROM verse_timings ORDER BY reciter_id, surah_id, ayah');
-    const timingsByReciterSurah = {};
-    
-    timings.forEach(timing => {
-      const key = `${timing.reciter_id}_${timing.surah_id}`;
-      if (!timingsByReciterSurah[key]) {
-        timingsByReciterSurah[key] = [];
-      }
-      timingsByReciterSurah[key].push({
-        ayah: timing.ayah,
-        time: timing.time
-      });
-    });
-
-    for (const key in timingsByReciterSurah) {
-      const [reciterId, surahId] = key.split('_');
-      writeJsonFile('timing', `reciter_${reciterId}_surah_${surahId}.json`, timingsByReciterSurah[key]);
-    }
-
-    console.log('All JSON files created successfully in their respective folders!');
-  } catch (err) {
-    console.error('Error processing data:', err);
-  } finally {
-    // Close the database connection
-    db.close((err) => {
-      if (err) {
-        console.error(err.message);
-      }
-      console.log('Closed the database connection.');
-    });
-  }
-}
-
-// Run the main function
-processData();
