@@ -1,41 +1,35 @@
 const sqlite3 = require('sqlite3').verbose();
 const fs = require('fs');
 const path = require('path');
+const JSZip = require('jszip');
 
 async function main() {
     try {
-        // Create the main hadith folder structure
+        // Create the main folders structure
         const hadithFolder = './hadith';
         const chapterFolder = path.join(hadithFolder, 'chapter');
         const sectionFolder = path.join(hadithFolder, 'section');
+        const zipsFolder = path.join(hadithFolder, 'zips'); // New folder for zips
 
         // Ensure directories exist
         if (!fs.existsSync(hadithFolder)) fs.mkdirSync(hadithFolder);
         if (!fs.existsSync(chapterFolder)) fs.mkdirSync(chapterFolder);
         if (!fs.existsSync(sectionFolder)) fs.mkdirSync(sectionFolder);
+        if (!fs.existsSync(zipsFolder)) fs.mkdirSync(zipsFolder); // Create zips folder
 
-        // Connect to SQLite database with better error handling
+        // Connect to SQLite database
         const db = await new Promise((resolve, reject) => {
             const db = new sqlite3.Database('hadith.db', sqlite3.OPEN_READONLY, (err) => {
-                if (err) {
-                    console.error('Error opening database', err);
-                    reject(err);
-                } else {
-                    console.log('Connected to the SQLite database.');
-                    resolve(db);
-                }
+                if (err) reject(err);
+                else resolve(db);
             });
         });
 
         // Process books
         const books = await new Promise((resolve, reject) => {
             db.all('SELECT * FROM books', [], (err, rows) => {
-                if (err) {
-                    console.error('Error fetching books', err);
-                    reject(err);
-                } else {
-                    resolve(rows);
-                }
+                if (err) reject(err);
+                else resolve(rows);
             });
         });
 
@@ -45,23 +39,10 @@ async function main() {
             JSON.stringify(books, null, 2)
         );
 
-        // Create a map to store section file names for each book
-        const bookSectionIndex = {};
-
-        // Process each book sequentially to avoid memory issues
+        // Process each book sequentially
         for (const book of books) {
             console.log(`Processing book ${book.id}: ${book.title}`);
-            const sectionFiles = await processBook(db, book);
-            bookSectionIndex[book.id] = sectionFiles;
-        }
-
-        // Save section index files for each book
-        for (const bookId in bookSectionIndex) {
-            const indexFileName = path.join(sectionFolder, `book_${bookId}_index.json`);
-            fs.writeFileSync(
-                indexFileName,
-                JSON.stringify(bookSectionIndex[bookId], null, 2)
-            );
+            await processBook(db, book, zipsFolder); // Pass zipsFolder to processBook
         }
 
         db.close();
@@ -72,46 +53,44 @@ async function main() {
     }
 }
 
-async function processBook(db, book) {
-    const sectionFiles = [];
+async function processBook(db, book, zipsFolder) {
     try {
+        const zip = new JSZip();
+        const bookFolder = zip.folder(`book_${book.id}`);
+
         // Get all chapters for this book
         const chapters = await new Promise((resolve, reject) => {
             db.all(
                 'SELECT * FROM chapter WHERE book_id = ? ORDER BY number',
                 [book.id],
                 (err, rows) => {
-                    if (err) {
-                        console.error(`Error fetching chapters for book ${book.id}`, err);
-                        reject(err);
-                    } else {
-                        resolve(rows);
-                    }
+                    if (err) reject(err);
+                    else resolve(rows);
                 }
             );
         });
 
-        // Save chapters to file
+        // Add chapters to zip
         const chapterFileName = `book_${book.id}_chapters.json`;
-        fs.writeFileSync(
-            path.join('./hadith/chapter', chapterFileName),
-            JSON.stringify(chapters, null, 2)
-        );
+        bookFolder.file(chapterFileName, JSON.stringify(chapters, null, 2));
 
-        // Process each chapter sequentially
+        // Process each chapter
         for (const chapter of chapters) {
-            const sectionFile = await processChapter(db, book, chapter);
-            if (sectionFile) {
-                sectionFiles.push(sectionFile);
-            }
+            await processChapter(db, book, chapter, bookFolder);
         }
+
+        // Generate zip file in zips folder
+        const zipContent = await zip.generateAsync({ type: 'nodebuffer' });
+        fs.writeFileSync(path.join(zipsFolder, `book_${book.id}.zip`), zipContent);
+        
+        console.log(`Created zip file for book ${book.id} in zips folder`);
     } catch (error) {
         console.error(`Error processing book ${book.id}:`, error);
     }
-    return sectionFiles;
 }
 
-async function processChapter(db, book, chapter) {
+// processChapter function remains the same as before
+async function processChapter(db, book, chapter, bookFolder) {
     try {
         console.log(`  Processing chapter ${chapter.chapter_id}: ${chapter.title}`);
 
@@ -121,38 +100,23 @@ async function processChapter(db, book, chapter) {
                 'SELECT * FROM section WHERE book_id = ? AND chapter_id = ? ORDER BY number',
                 [book.id, chapter.chapter_id],
                 (err, rows) => {
-                    if (err) {
-                        console.error(
-                            `Error fetching sections for book ${book.id} chapter ${chapter.chapter_id}`,
-                            err
-                        );
-                        reject(err);
-                    } else {
-                        resolve(rows);
-                    }
+                    if (err) reject(err);
+                    else resolve(rows);
                 }
             );
         });
 
         // Get hadiths for each section
         const sectionsWithHadiths = [];
-        
+       
         if (sections.length === 0) {
-            // If no sections, get all hadiths for the chapter
             const hadiths = await new Promise((resolve, reject) => {
                 db.all(
                     'SELECT * FROM hadith WHERE book_id = ? AND chapter_id = ? ORDER BY hadith_id',
                     [book.id, chapter.chapter_id],
                     (err, rows) => {
-                        if (err) {
-                            console.error(
-                                `Error fetching hadiths for book ${book.id} chapter ${chapter.chapter_id}`,
-                                err
-                            );
-                            reject(err);
-                        } else {
-                            resolve(rows);
-                        }
+                        if (err) reject(err);
+                        else resolve(rows);
                     }
                 );
             });
@@ -166,22 +130,14 @@ async function processChapter(db, book, chapter) {
                 hadiths: hadiths,
             });
         } else {
-            // Process each section
             for (const section of sections) {
                 const hadiths = await new Promise((resolve, reject) => {
                     db.all(
                         'SELECT * FROM hadith WHERE book_id = ? AND chapter_id = ? AND section_id = ? ORDER BY hadith_id',
                         [book.id, chapter.chapter_id, section.section_id],
                         (err, rows) => {
-                            if (err) {
-                                console.error(
-                                    `Error fetching hadiths for book ${book.id} chapter ${chapter.chapter_id} section ${section.section_id}`,
-                                    err
-                                );
-                                reject(err);
-                            } else {
-                                resolve(rows);
-                            }
+                            if (err) reject(err);
+                            else resolve(rows);
                         }
                     );
                 });
@@ -193,17 +149,10 @@ async function processChapter(db, book, chapter) {
             }
         }
 
-        // Save sections to file
         const sectionFileName = `book_${book.id}_chapter_${chapter.chapter_id}_sections.json`;
-        fs.writeFileSync(
-            path.join('./hadith/section', sectionFileName),
-            JSON.stringify(sectionsWithHadiths, null, 2)
-        );
-
-        return sectionFileName;
+        bookFolder.file(sectionFileName, JSON.stringify(sectionsWithHadiths, null, 2));
     } catch (error) {
         console.error(`Error processing chapter ${chapter.chapter_id}:`, error);
-        return null;
     }
 }
 
