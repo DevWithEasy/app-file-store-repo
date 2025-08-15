@@ -45,10 +45,23 @@ async function main() {
             JSON.stringify(books, null, 2)
         );
 
+        // Create a map to store section file names for each book
+        const bookSectionIndex = {};
+
         // Process each book sequentially to avoid memory issues
         for (const book of books) {
             console.log(`Processing book ${book.id}: ${book.title}`);
-            await processBook(db, book);
+            const sectionFiles = await processBook(db, book);
+            bookSectionIndex[book.id] = sectionFiles;
+        }
+
+        // Save section index files for each book
+        for (const bookId in bookSectionIndex) {
+            const indexFileName = path.join(sectionFolder, `book_${bookId}_index.json`);
+            fs.writeFileSync(
+                indexFileName,
+                JSON.stringify(bookSectionIndex[bookId], null, 2)
+            );
         }
 
         db.close();
@@ -60,6 +73,7 @@ async function main() {
 }
 
 async function processBook(db, book) {
+    const sectionFiles = [];
     try {
         // Get all chapters for this book
         const chapters = await new Promise((resolve, reject) => {
@@ -86,11 +100,15 @@ async function processBook(db, book) {
 
         // Process each chapter sequentially
         for (const chapter of chapters) {
-            await processChapter(db, book, chapter);
+            const sectionFile = await processChapter(db, book, chapter);
+            if (sectionFile) {
+                sectionFiles.push(sectionFile);
+            }
         }
     } catch (error) {
         console.error(`Error processing book ${book.id}:`, error);
     }
+    return sectionFiles;
 }
 
 async function processChapter(db, book, chapter) {
@@ -181,8 +199,11 @@ async function processChapter(db, book, chapter) {
             path.join('./hadith/section', sectionFileName),
             JSON.stringify(sectionsWithHadiths, null, 2)
         );
+
+        return sectionFileName;
     } catch (error) {
         console.error(`Error processing chapter ${chapter.chapter_id}:`, error);
+        return null;
     }
 }
 

@@ -1,0 +1,506 @@
+[
+  {
+    "id": 101,
+    "chapter_id": 1,
+    "book_id": 2,
+    "title": "ঈমান",
+    "number": 1,
+    "hadis_range": "১ - ৪২১",
+    "book_name": "muslim"
+  },
+  {
+    "id": 102,
+    "chapter_id": 2,
+    "book_id": 2,
+    "title": "তাহারাত (পবিত্রতা)",
+    "number": 2,
+    "hadis_range": "৪২২ - ৫৬৫",
+    "book_name": "muslim"
+  },
+  {
+    "id": 103,
+    "chapter_id": 3,
+    "book_id": 2,
+    "title": "হায়িয (ঋতুস্রাব)",
+    "number": 3,
+    "hadis_range": "৫৬৬ - ৭২২",
+    "book_name": "muslim"
+  },
+  {
+    "id": 104,
+    "chapter_id": 4,
+    "book_id": 2,
+    "title": "সালাত",
+    "number": 4,
+    "hadis_range": "৭২৩ - ১০৪৭",
+    "book_name": "muslim"
+  },
+  {
+    "id": 106,
+    "chapter_id": 5,
+    "book_id": 2,
+    "title": "মসজিদ ও সালাতের স্থানসমূহ",
+    "number": 5,
+    "hadis_range": "১০৪৮ - ১৪৫৫",
+    "book_name": "muslim"
+  },
+  {
+    "id": 107,
+    "chapter_id": 6,
+    "book_id": 2,
+    "title": "মুসাফিরদের সালাত ও তার কসর",
+    "number": 6,
+    "hadis_range": "১৪৫৫ - ১৭২১",
+    "book_name": "muslim"
+  },
+  {
+    "id": 108,
+    "chapter_id": 7,
+    "book_id": 2,
+    "title": "কোরআনের মর্যাদাসমূহ ও এতদসংশ্লিষ্ট বিষয়",
+    "number": 7,
+    "hadis_range": "১৭২২ - ১৮৩৫",
+    "book_name": "muslim"
+  },
+  {
+    "id": 109,
+    "chapter_id": 8,
+    "book_id": 2,
+    "title": "জুমু’আ",
+    "number": 8,
+    "hadis_range": "১৮৩৬ - ১৯২৮",
+    "book_name": "muslim"
+  },
+  {
+    "id": 110,
+    "chapter_id": 9,
+    "book_id": 2,
+    "title": "দুই ঈদের সালাত",
+    "number": 9,
+    "hadis_range": "১৯২৯ - ১৯৫৪",
+    "book_name": "muslim"
+  },
+  {
+    "id": 111,
+    "chapter_id": 10,
+    "book_id": 2,
+    "title": "ইস্‌তিস্‌ক্বার সলাত",
+    "number": 10,
+    "hadis_range": "১৯৫৫ - ১৯৭৩",
+    "book_name": "muslim"
+  },
+  {
+    "id": 112,
+    "chapter_id": 11,
+    "book_id": 2,
+    "title": "সূর্যগ্রহণের বর্ণনা",
+    "number": 11,
+    "hadis_range": "১৯৭৪ - ২০০৭",
+    "book_name": "muslim"
+  },
+  {
+    "id": 113,
+    "chapter_id": 12,
+    "book_id": 2,
+    "title": "জানাযা সম্পর্কিত",
+    "number": 12,
+    "hadis_range": "২০০৮ - ২১৫২",
+    "book_name": "muslim"
+  },
+  {
+    "id": 114,
+    "chapter_id": 13,
+    "book_id": 2,
+    "title": "যাকাত",
+    "number": 13,
+    "hadis_range": "২১৫৩ - ২৩৮৪",
+    "book_name": "muslim"
+  },
+  {
+    "id": 115,
+    "chapter_id": 14,
+    "book_id": 2,
+    "title": "কিতাবুস্‌ সিয়াম (রোজা)",
+    "number": 14,
+    "hadis_range": "২৩৮৫ - ২৬৬৯",
+    "book_name": "muslim"
+  },
+  {
+    "id": 116,
+    "chapter_id": 15,
+    "book_id": 2,
+    "title": "ই’তিকাফ",
+    "number": 15,
+    "hadis_range": "২৬৭০ - ২৬৮০",
+    "book_name": "muslim"
+  },
+  {
+    "id": 117,
+    "chapter_id": 16,
+    "book_id": 2,
+    "title": "হজ্জ",
+    "number": 16,
+    "hadis_range": "২৬৮১ - ৩২৮৮",
+    "book_name": "muslim"
+  },
+  {
+    "id": 118,
+    "chapter_id": 17,
+    "book_id": 2,
+    "title": "বিবাহ",
+    "number": 17,
+    "hadis_range": "৩২৮৯ - ৩৪৫৯",
+    "book_name": "muslim"
+  },
+  {
+    "id": 119,
+    "chapter_id": 18,
+    "book_id": 2,
+    "title": "দুধপান",
+    "number": 18,
+    "hadis_range": "৩৪৬০ - ৩৫৪৩",
+    "book_name": "muslim"
+  },
+  {
+    "id": 120,
+    "chapter_id": 19,
+    "book_id": 2,
+    "title": "ত্বলাক্ব",
+    "number": 19,
+    "hadis_range": "৩৫৪৪ - ৩৬৩৪",
+    "book_name": "muslim"
+  },
+  {
+    "id": 121,
+    "chapter_id": 20,
+    "book_id": 2,
+    "title": "লি’আন",
+    "number": 20,
+    "hadis_range": "৩৬৩৫ - ৩৬৬১",
+    "book_name": "muslim"
+  },
+  {
+    "id": 122,
+    "chapter_id": 21,
+    "book_id": 2,
+    "title": "দাসমুক্তি",
+    "number": 21,
+    "hadis_range": "৩৬৬২ - ৩৬৯২",
+    "book_name": "muslim"
+  },
+  {
+    "id": 123,
+    "chapter_id": 22,
+    "book_id": 2,
+    "title": "ক্রয়-বিক্রয়",
+    "number": 22,
+    "hadis_range": "৩৬৯৩ - ৩৮৫৩",
+    "book_name": "muslim"
+  },
+  {
+    "id": 124,
+    "chapter_id": 23,
+    "book_id": 2,
+    "title": "মুসাকাহ (পানি সেচের বিনিময়ে ফসলের একটি অংশ প্রদান)",
+    "number": 23,
+    "hadis_range": "৩৮৫৪ - ৪০৩১",
+    "book_name": "muslim"
+  },
+  {
+    "id": 125,
+    "chapter_id": 24,
+    "book_id": 2,
+    "title": "ফারায়িয",
+    "number": 24,
+    "hadis_range": "৪০৩২ - ৪০৫৪",
+    "book_name": "muslim"
+  },
+  {
+    "id": 126,
+    "chapter_id": 25,
+    "book_id": 2,
+    "title": "হিবাত (দান)",
+    "number": 25,
+    "hadis_range": "৪০৫৫ - ৪০৯৫",
+    "book_name": "muslim"
+  },
+  {
+    "id": 127,
+    "chapter_id": 26,
+    "book_id": 2,
+    "title": "ওয়াসিয়্যাত",
+    "number": 26,
+    "hadis_range": "৪০৯৬ - ৪১২৬",
+    "book_name": "muslim"
+  },
+  {
+    "id": 128,
+    "chapter_id": 27,
+    "book_id": 2,
+    "title": "মানত",
+    "number": 27,
+    "hadis_range": "৪১২৭ - ৪১৪৫",
+    "book_name": "muslim"
+  },
+  {
+    "id": 129,
+    "chapter_id": 28,
+    "book_id": 2,
+    "title": "কসম",
+    "number": 28,
+    "hadis_range": "৪১৪৬ - ৪২৩৩",
+    "book_name": "muslim"
+  },
+  {
+    "id": 130,
+    "chapter_id": 29,
+    "book_id": 2,
+    "title": "‘কাসামাহ’ (খুনের ব্যপারে হলফ করা), ‘মুহারিবীন’ (শত্রু সৈন্য), ‘কিসাস” (খুনের বদলা) এবং ‘দিয়াত’ (খুনের শাস্তি স্বরূপ জরিমানা)",
+    "number": 29,
+    "hadis_range": "৪২৩৪ - ৪২৮৯",
+    "book_name": "muslim"
+  },
+  {
+    "id": 131,
+    "chapter_id": 30,
+    "book_id": 2,
+    "title": "অপরাধের (নির্ধারিত) শাস্তি",
+    "number": 30,
+    "hadis_range": "৪২৯০ - ৪৩৬১",
+    "book_name": "muslim"
+  },
+  {
+    "id": 132,
+    "chapter_id": 31,
+    "book_id": 2,
+    "title": "বিচার বিধান",
+    "number": 31,
+    "hadis_range": "৪৩৬২ - ৪৩৮৯",
+    "book_name": "muslim"
+  },
+  {
+    "id": 133,
+    "chapter_id": 32,
+    "book_id": 2,
+    "title": "হারানো বস্তু প্রাপ্তি",
+    "number": 32,
+    "hadis_range": "৪৩৯০ - ৪৪১০",
+    "book_name": "muslim"
+  },
+  {
+    "id": 134,
+    "chapter_id": 33,
+    "book_id": 2,
+    "title": "জিহাদ ও এর নীতিমালা",
+    "number": 33,
+    "hadis_range": "৪৪১১ - ৪৫৯৪",
+    "book_name": "muslim"
+  },
+  {
+    "id": 135,
+    "chapter_id": 34,
+    "book_id": 2,
+    "title": "প্রশাসন ও নেতৃত্ব",
+    "number": 34,
+    "hadis_range": "৪৫৯৫ - ৪৮৬৫",
+    "book_name": "muslim"
+  },
+  {
+    "id": 136,
+    "chapter_id": 35,
+    "book_id": 2,
+    "title": "শিকার ও যবেহকৃত জন্তু এবং যেসব পশুর গোশত খাওয়া হালাল",
+    "number": 35,
+    "hadis_range": "৪৮৬৬ - ৪৯৫৭",
+    "book_name": "muslim"
+  },
+  {
+    "id": 137,
+    "chapter_id": 36,
+    "book_id": 2,
+    "title": "কুরবানী",
+    "number": 36,
+    "hadis_range": "৪৯৫৮ - ৫০২০",
+    "book_name": "muslim"
+  },
+  {
+    "id": 138,
+    "chapter_id": 37,
+    "book_id": 2,
+    "title": "পানীয় বস্তু",
+    "number": 37,
+    "hadis_range": "৫০২১ - ৫২৭৮",
+    "book_name": "muslim"
+  },
+  {
+    "id": 139,
+    "chapter_id": 38,
+    "book_id": 2,
+    "title": "পোশাক ও সাজসজ্জা",
+    "number": 38,
+    "hadis_range": "৫২৭৯ - ৫৪৭৮",
+    "book_name": "muslim"
+  },
+  {
+    "id": 140,
+    "chapter_id": 39,
+    "book_id": 2,
+    "title": "শিষ্টাচার",
+    "number": 39,
+    "hadis_range": "৫৪৭৯ - ৫৫৩৮",
+    "book_name": "muslim"
+  },
+  {
+    "id": 141,
+    "chapter_id": 40,
+    "book_id": 2,
+    "title": "সালাম",
+    "number": 40,
+    "hadis_range": "৫৫৩৯ - ৫৭৫৪",
+    "book_name": "muslim"
+  },
+  {
+    "id": 142,
+    "chapter_id": 41,
+    "book_id": 2,
+    "title": "শব্দচয়ন ও শব্দ প্রয়োগে শিষ্টাচার",
+    "number": 41,
+    "hadis_range": "৫৭৫৫ - ৫৭৭৭",
+    "book_name": "muslim"
+  },
+  {
+    "id": 143,
+    "chapter_id": 42,
+    "book_id": 2,
+    "title": "কবিতা",
+    "number": 42,
+    "hadis_range": "৫৭৭৮ - ৫৭৮৯",
+    "book_name": "muslim"
+  },
+  {
+    "id": 144,
+    "chapter_id": 43,
+    "book_id": 2,
+    "title": "স্বপ্ন",
+    "number": 43,
+    "hadis_range": "৫৭৯০ - ৫৮৩১",
+    "book_name": "muslim"
+  },
+  {
+    "id": 145,
+    "chapter_id": 44,
+    "book_id": 2,
+    "title": "ফযীলত",
+    "number": 44,
+    "hadis_range": "৫৮৩২ - ৬০৬২",
+    "book_name": "muslim"
+  },
+  {
+    "id": 146,
+    "chapter_id": 45,
+    "book_id": 2,
+    "title": "সাহাবা (রাযিঃ)- গণের ফযীলত (মর্যাদা)",
+    "number": 45,
+    "hadis_range": "৬০৬৩ - ৬৩৯৩",
+    "book_name": "muslim"
+  },
+  {
+    "id": 147,
+    "chapter_id": 46,
+    "book_id": 2,
+    "title": "সদ্ব্যবহার, আত্মীয়তার সম্পর্ক রক্ষা ও শিষ্টাচার",
+    "number": 46,
+    "hadis_range": "৬৩৯৪ - ৬৬১৫",
+    "book_name": "muslim"
+  },
+  {
+    "id": 148,
+    "chapter_id": 47,
+    "book_id": 2,
+    "title": "তাকদীর",
+    "number": 47,
+    "hadis_range": "৬৬১৬ - ৬৬৬৭",
+    "book_name": "muslim"
+  },
+  {
+    "id": 149,
+    "chapter_id": 48,
+    "book_id": 2,
+    "title": "‘ইল্‌ম",
+    "number": 48,
+    "hadis_range": "৬৬৬৮ - ৬৬৯৭",
+    "book_name": "muslim"
+  },
+  {
+    "id": 150,
+    "chapter_id": 49,
+    "book_id": 2,
+    "title": "যিক্‌র, দু’আ, তওবা ও ইস্‌তিগফার",
+    "number": 49,
+    "hadis_range": "৬৬৯৮ - ৬৮৪৪",
+    "book_name": "muslim"
+  },
+  {
+    "id": 151,
+    "chapter_id": 50,
+    "book_id": 2,
+    "title": "তওবা",
+    "number": 50,
+    "hadis_range": "৬৮৪৫ - ৬৯১৬",
+    "book_name": "muslim"
+  },
+  {
+    "id": 152,
+    "chapter_id": 51,
+    "book_id": 2,
+    "title": "মুনাফিকদের আচরণ এবং তাদের সম্পর্কে বিধান",
+    "number": 51,
+    "hadis_range": "৬৯১৭ - ৬৯৩৭",
+    "book_name": "muslim"
+  },
+  {
+    "id": 153,
+    "chapter_id": 52,
+    "book_id": 2,
+    "title": "কিয়ামত, জান্নাত ও জাহান্নামের বর্ণনা",
+    "number": 52,
+    "hadis_range": "৬৯৩৮ - ৭০২১",
+    "book_name": "muslim"
+  },
+  {
+    "id": 154,
+    "chapter_id": 53,
+    "book_id": 2,
+    "title": "জান্নাত, জান্নাতের নি’আমাত ও জান্নাতবাসীদের বর্ণনা",
+    "number": 53,
+    "hadis_range": "৭০২২ - ৭১২৬",
+    "book_name": "muslim"
+  },
+  {
+    "id": 155,
+    "chapter_id": 54,
+    "book_id": 2,
+    "title": "ফিতনাসমুহ ও কিয়ামতের নিদর্শনাবলী",
+    "number": 54,
+    "hadis_range": "৭১২৭ - ৭৩০৬",
+    "book_name": "muslim"
+  },
+  {
+    "id": 156,
+    "chapter_id": 55,
+    "book_id": 2,
+    "title": "যুহ্‌দ ও দুনিয়ার ব্যপারে আকর্ষণহীনতা সম্পর্কিত বর্ণনা",
+    "number": 55,
+    "hadis_range": "৭৩০৭ - ৭৪১২",
+    "book_name": "muslim"
+  },
+  {
+    "id": 157,
+    "chapter_id": 56,
+    "book_id": 2,
+    "title": "তাফসীর",
+    "number": 56,
+    "hadis_range": "৭৪১৩ - ৭৪৫৩",
+    "book_name": "muslim"
+  }
+]

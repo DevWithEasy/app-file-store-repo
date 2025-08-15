@@ -1,0 +1,452 @@
+[
+  {
+    "id": 298,
+    "chapter_id": 1,
+    "book_id": 3,
+    "title": "পবিত্রতা",
+    "number": 1,
+    "hadis_range": "০১ - ৩২৪",
+    "book_name": "nasai"
+  },
+  {
+    "id": 306,
+    "chapter_id": 2,
+    "book_id": 3,
+    "title": "পানির বর্ণনা",
+    "number": 2,
+    "hadis_range": "৩২৫ - ৩৪৭",
+    "book_name": "nasai"
+  },
+  {
+    "id": 390,
+    "chapter_id": 3,
+    "book_id": 3,
+    "title": "হায়য ও ইস্তিহাযা",
+    "number": 3,
+    "hadis_range": "৩৪৮ – ৩৯৫",
+    "book_name": "nasai"
+  },
+  {
+    "id": 391,
+    "chapter_id": 4,
+    "book_id": 3,
+    "title": "গোসল ও তায়াম্মুম",
+    "number": 4,
+    "hadis_range": "৩৯৬ – ৪৪৭",
+    "book_name": "nasai"
+  },
+  {
+    "id": 392,
+    "chapter_id": 5,
+    "book_id": 3,
+    "title": "সালাত",
+    "number": 5,
+    "hadis_range": "৪৪৮ – ৪৯৩",
+    "book_name": "nasai"
+  },
+  {
+    "id": 393,
+    "chapter_id": 6,
+    "book_id": 3,
+    "title": "সালাতের ওয়াক্তসমূহ",
+    "number": 6,
+    "hadis_range": "৪৯৪ – ৬২৫",
+    "book_name": "nasai"
+  },
+  {
+    "id": 394,
+    "chapter_id": 7,
+    "book_id": 3,
+    "title": "আযান",
+    "number": 7,
+    "hadis_range": "৬২৬ – ৬৮৭",
+    "book_name": "nasai"
+  },
+  {
+    "id": 395,
+    "chapter_id": 8,
+    "book_id": 3,
+    "title": "মসজিদ",
+    "number": 8,
+    "hadis_range": "৬৮৮ – ৭৪১",
+    "book_name": "nasai"
+  },
+  {
+    "id": 396,
+    "chapter_id": 9,
+    "book_id": 3,
+    "title": "কিব্‌লা",
+    "number": 9,
+    "hadis_range": "৭৪২ – ৭৭৬",
+    "book_name": "nasai"
+  },
+  {
+    "id": 397,
+    "chapter_id": 10,
+    "book_id": 3,
+    "title": "ইমামত",
+    "number": 10,
+    "hadis_range": "৭৭৭ – ৮৭৫",
+    "book_name": "nasai"
+  },
+  {
+    "id": 398,
+    "chapter_id": 11,
+    "book_id": 3,
+    "title": "সালাত আরম্ভ করা",
+    "number": 11,
+    "hadis_range": "৮৭৬ – ১৩৬৬",
+    "book_name": "nasai"
+  },
+  {
+    "id": 399,
+    "chapter_id": 12,
+    "book_id": 3,
+    "title": "জুমু’আ",
+    "number": 12,
+    "hadis_range": "১৩৬৭ – ১৪৩২",
+    "book_name": "nasai"
+  },
+  {
+    "id": 400,
+    "chapter_id": 13,
+    "book_id": 3,
+    "title": "সফরে সালাত সংক্ষিপ্ত করা",
+    "number": 13,
+    "hadis_range": "১৪৩৩ – ১৪৫৮",
+    "book_name": "nasai"
+  },
+  {
+    "id": 401,
+    "chapter_id": 14,
+    "book_id": 3,
+    "title": "সূর্য ও চন্দ্র গ্রহণ",
+    "number": 14,
+    "hadis_range": "১৪৫৯ – ১৫০৩",
+    "book_name": "nasai"
+  },
+  {
+    "id": 402,
+    "chapter_id": 15,
+    "book_id": 3,
+    "title": "ইস্তিস্কা (বৃষ্টির জন্য দোয়া করা)",
+    "number": 15,
+    "hadis_range": "১৫০৪ – ১৫২৮",
+    "book_name": "nasai"
+  },
+  {
+    "id": 403,
+    "chapter_id": 16,
+    "book_id": 3,
+    "title": "ভয়কালীন সালাত",
+    "number": 16,
+    "hadis_range": "১৫২৯ – ১৫৫৫",
+    "book_name": "nasai"
+  },
+  {
+    "id": 404,
+    "chapter_id": 17,
+    "book_id": 3,
+    "title": "উভয় ঈদের সালাত",
+    "number": 17,
+    "hadis_range": "১৫৫৬ – ১৫৯৭",
+    "book_name": "nasai"
+  },
+  {
+    "id": 405,
+    "chapter_id": 18,
+    "book_id": 3,
+    "title": "বিতর, তাহাজ্জুদ এবং দিনের নফল সালাত",
+    "number": 18,
+    "hadis_range": "১৫৯৮ – ১৮১৭",
+    "book_name": "nasai"
+  },
+  {
+    "id": 406,
+    "chapter_id": 19,
+    "book_id": 3,
+    "title": "জানাযা পর্ব",
+    "number": 19,
+    "hadis_range": "১৮১৮ – ২০৮৯",
+    "book_name": "nasai"
+  },
+  {
+    "id": 407,
+    "chapter_id": 20,
+    "book_id": 3,
+    "title": "সাওম (রোযা)",
+    "number": 20,
+    "hadis_range": "২০৯০ – ২৪৩৪",
+    "book_name": "nasai"
+  },
+  {
+    "id": 408,
+    "chapter_id": 21,
+    "book_id": 3,
+    "title": "যাকাত",
+    "number": 21,
+    "hadis_range": "২৪৩৫ – ২৬১৮",
+    "book_name": "nasai"
+  },
+  {
+    "id": 409,
+    "chapter_id": 22,
+    "book_id": 3,
+    "title": "হজ্জের বিধি-বিধানসমূহ",
+    "number": 22,
+    "hadis_range": "২৬১৯ – ৩০৮৪",
+    "book_name": "nasai"
+  },
+  {
+    "id": 410,
+    "chapter_id": 23,
+    "book_id": 3,
+    "title": "জিহাদ",
+    "number": 23,
+    "hadis_range": "৩০৮৫ – ৩১৯৫",
+    "book_name": "nasai"
+  },
+  {
+    "id": 411,
+    "chapter_id": 24,
+    "book_id": 3,
+    "title": "নিকাহ্‌",
+    "number": 24,
+    "hadis_range": "৩১৯৬ – ৩৩৮৮",
+    "book_name": "nasai"
+  },
+  {
+    "id": 412,
+    "chapter_id": 25,
+    "book_id": 3,
+    "title": "তালাক",
+    "number": 25,
+    "hadis_range": "৩৩৮৯ – ৩৫৬০",
+    "book_name": "nasai"
+  },
+  {
+    "id": 413,
+    "chapter_id": 26,
+    "book_id": 3,
+    "title": "ঘোড়া",
+    "number": 26,
+    "hadis_range": "৩৫৬১ – ৩৫৯৩",
+    "book_name": "nasai"
+  },
+  {
+    "id": 414,
+    "chapter_id": 27,
+    "book_id": 3,
+    "title": "ওয়াক্‌ফ",
+    "number": 27,
+    "hadis_range": "৩৫৯৪ – ৩৬১০",
+    "book_name": "nasai"
+  },
+  {
+    "id": 415,
+    "chapter_id": 28,
+    "book_id": 3,
+    "title": "ওয়াসিয়াত",
+    "number": 28,
+    "hadis_range": "৩৬১১ – ৩৬৭১",
+    "book_name": "nasai"
+  },
+  {
+    "id": 416,
+    "chapter_id": 29,
+    "book_id": 3,
+    "title": "বিশেষ দান",
+    "number": 29,
+    "hadis_range": "৩৬৭২ – ৩৬৮৭",
+    "book_name": "nasai"
+  },
+  {
+    "id": 417,
+    "chapter_id": 30,
+    "book_id": 3,
+    "title": "হিবা",
+    "number": 30,
+    "hadis_range": "৩৬৮৮ – ৩৭০৫",
+    "book_name": "nasai"
+  },
+  {
+    "id": 418,
+    "chapter_id": 31,
+    "book_id": 3,
+    "title": "রুক্‌বা",
+    "number": 31,
+    "hadis_range": "৩৭০৬ – ৩৭১৯",
+    "book_name": "nasai"
+  },
+  {
+    "id": 419,
+    "chapter_id": 32,
+    "book_id": 3,
+    "title": "উমরারূপে দান করা",
+    "number": 32,
+    "hadis_range": "৩৭২০ – ৩৭৬০",
+    "book_name": "nasai"
+  },
+  {
+    "id": 420,
+    "chapter_id": 33,
+    "book_id": 3,
+    "title": "কসম ও মান্নাত",
+    "number": 33,
+    "hadis_range": "৩৭৬১ – ৩৮৫৬",
+    "book_name": "nasai"
+  },
+  {
+    "id": 421,
+    "chapter_id": 34,
+    "book_id": 3,
+    "title": "বর্গাচাষ",
+    "number": 34,
+    "hadis_range": "৩৮৫৭ – ৩৯৩৮",
+    "book_name": "nasai"
+  },
+  {
+    "id": 422,
+    "chapter_id": 35,
+    "book_id": 3,
+    "title": "স্ত্রীর সাথে ব্যবহার",
+    "number": 35,
+    "hadis_range": "৩৯৩৯ – ৩৯৬৫",
+    "book_name": "nasai"
+  },
+  {
+    "id": 423,
+    "chapter_id": 36,
+    "book_id": 3,
+    "title": "হত্যা অবৈধ হওয়া",
+    "number": 36,
+    "hadis_range": "৩৯৬৬ – ৪১৩২",
+    "book_name": "nasai"
+  },
+  {
+    "id": 424,
+    "chapter_id": 37,
+    "book_id": 3,
+    "title": "যুদ্ধলব্ধ মাল বণ্টন",
+    "number": 37,
+    "hadis_range": "৪১৩৩ – ৪১৪৮",
+    "book_name": "nasai"
+  },
+  {
+    "id": 425,
+    "chapter_id": 38,
+    "book_id": 3,
+    "title": "বায়‘আত",
+    "number": 38,
+    "hadis_range": "৪১৪৯ – ৪২১১",
+    "book_name": "nasai"
+  },
+  {
+    "id": 426,
+    "chapter_id": 39,
+    "book_id": 3,
+    "title": "আকীকা",
+    "number": 39,
+    "hadis_range": "৪২১২ – ৪২২১",
+    "book_name": "nasai"
+  },
+  {
+    "id": 427,
+    "chapter_id": 40,
+    "book_id": 3,
+    "title": "ফারা‘ এবং ‘আতীরা",
+    "number": 40,
+    "hadis_range": "৪২২২ – ৪২৬২",
+    "book_name": "nasai"
+  },
+  {
+    "id": 428,
+    "chapter_id": 41,
+    "book_id": 3,
+    "title": "শিকার ও যবেহকৃত জন্তু",
+    "number": 41,
+    "hadis_range": "৪২৬৩ – ৪৩৬০",
+    "book_name": "nasai"
+  },
+  {
+    "id": 429,
+    "chapter_id": 42,
+    "book_id": 3,
+    "title": "কুরবানী",
+    "number": 42,
+    "hadis_range": "৪৩৬১ – ৪৪৪৮",
+    "book_name": "nasai"
+  },
+  {
+    "id": 430,
+    "chapter_id": 43,
+    "book_id": 3,
+    "title": "ক্রয়-বিক্রয়",
+    "number": 43,
+    "hadis_range": "৪৪৪৯ – ৪৭০৫",
+    "book_name": "nasai"
+  },
+  {
+    "id": 431,
+    "chapter_id": 44,
+    "book_id": 3,
+    "title": "কাসামাহ",
+    "number": 44,
+    "hadis_range": "৪৭০৬ – ৪৮৬৯",
+    "book_name": "nasai"
+  },
+  {
+    "id": 432,
+    "chapter_id": 45,
+    "book_id": 3,
+    "title": "চোরের হাত কাটা",
+    "number": 45,
+    "hadis_range": "৪৮৭০ – ৪৯৮৪",
+    "book_name": "nasai"
+  },
+  {
+    "id": 433,
+    "chapter_id": 46,
+    "book_id": 3,
+    "title": "ঈমান এবং এর বিধানাবলী",
+    "number": 46,
+    "hadis_range": "৪৯৮৫ – ৫০৩৯",
+    "book_name": "nasai"
+  },
+  {
+    "id": 434,
+    "chapter_id": 47,
+    "book_id": 3,
+    "title": "সাজসজ্জা",
+    "number": 47,
+    "hadis_range": "৫০৪০ – ৫৩৭৮",
+    "book_name": "nasai"
+  },
+  {
+    "id": 435,
+    "chapter_id": 48,
+    "book_id": 3,
+    "title": "বিচারকের নীতিমালা",
+    "number": 48,
+    "hadis_range": "৫৩৭৯ – ৫৪২৭",
+    "book_name": "nasai"
+  },
+  {
+    "id": 436,
+    "chapter_id": 49,
+    "book_id": 3,
+    "title": "আল্লাহ্‌র আশ্রয় গ্রহণ করা",
+    "number": 49,
+    "hadis_range": "৫৪২৮ – ৫৫৩৯",
+    "book_name": "nasai"
+  },
+  {
+    "id": 437,
+    "chapter_id": 50,
+    "book_id": 3,
+    "title": "বিভিন্ন প্রকার পানীয় [ও তার বিধান]",
+    "number": 50,
+    "hadis_range": "৫৫৪০ – ৫৭৫৮",
+    "book_name": "nasai"
+  }
+]

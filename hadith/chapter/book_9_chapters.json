@@ -1,0 +1,101 @@
+[
+  {
+    "id": 307,
+    "chapter_id": 1,
+    "book_id": 9,
+    "title": "ঈমান (বিশ্বাস)",
+    "number": 1,
+    "hadis_range": "১-১৯৭",
+    "book_name": "mishkatul-masabih"
+  },
+  {
+    "id": 308,
+    "chapter_id": 2,
+    "book_id": 9,
+    "title": "পর্ব-২ঃ  ‘ইলম (বিদ্যা)",
+    "number": 2,
+    "hadis_range": "১৯৮-২৮০",
+    "book_name": "mishkatul-masabih"
+  },
+  {
+    "id": 309,
+    "chapter_id": 3,
+    "book_id": 9,
+    "title": "পর্ব-৩ঃ পাক-পবিত্রতা",
+    "number": 3,
+    "hadis_range": "২৮১-৫৬৩",
+    "book_name": "mishkatul-masabih"
+  },
+  {
+    "id": 310,
+    "chapter_id": 4,
+    "book_id": 9,
+    "title": "পর্ব-৪ঃ সলাত",
+    "number": 4,
+    "hadis_range": "৫৬৪-১৫২২",
+    "book_name": "mishkatul-masabih"
+  },
+  {
+    "id": 311,
+    "chapter_id": 5,
+    "book_id": 9,
+    "title": "পর্ব-৫ঃ  জানাযা",
+    "number": 5,
+    "hadis_range": "১৫২৩-১৭৭১",
+    "book_name": "mishkatul-masabih"
+  },
+  {
+    "id": 312,
+    "chapter_id": 6,
+    "book_id": 9,
+    "title": "পর্ব-৬ঃ যাকাত",
+    "number": 6,
+    "hadis_range": "১৭৭২-১৯৫৫",
+    "book_name": "mishkatul-masabih"
+  },
+  {
+    "id": 313,
+    "chapter_id": 7,
+    "book_id": 9,
+    "title": "পর্ব-৭ঃ সওম (রোযা)",
+    "number": 7,
+    "hadis_range": "১৯৫৬-২১০৮",
+    "book_name": "mishkatul-masabih"
+  },
+  {
+    "id": 314,
+    "chapter_id": 8,
+    "book_id": 9,
+    "title": "পর্ব-৮ঃ কুরআনের মর্যাদা",
+    "number": 8,
+    "hadis_range": "২১০৯-২২২২",
+    "book_name": "mishkatul-masabih"
+  },
+  {
+    "id": 315,
+    "chapter_id": 9,
+    "book_id": 9,
+    "title": "পর্ব-৯ঃ দু‘আ",
+    "number": 9,
+    "hadis_range": "২২২৩-২২৮৬",
+    "book_name": "mishkatul-masabih"
+  },
+  {
+    "id": 316,
+    "chapter_id": 10,
+    "book_id": 9,
+    "title": "পর্ব-১০. আল্লাহ তা‘আলার নামসমূহ",
+    "number": 10,
+    "hadis_range": "২২৮৭-২৫০৪",
+    "book_name": "mishkatul-masabih"
+  },
+  {
+    "id": 317,
+    "chapter_id": 11,
+    "book_id": 9,
+    "title": "পর্ব-১১ঃ হজ্জ",
+    "number": 11,
+    "hadis_range": "২৫০৫-২৭৫৮",
+    "book_name": "mishkatul-masabih"
+  }
+]
