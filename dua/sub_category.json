@@ -1,0 +1,828 @@
+[
+    {
+        "cat_id": 1,
+        "id": 1,
+        "no_of_dua": 3,
+        "subcat_id": 1,
+        "subcat_name_bn": "বান্দা তার রবের মুখাপেক্ষী"
+    },
+    {
+        "cat_id": 1,
+        "id": 2,
+        "no_of_dua": 9,
+        "subcat_id": 2,
+        "subcat_name_bn": "আল্লাহ্‌র কাছে যে জিনিসটি চাওয়া সবচাইতে বেশি গুরুত্বপূর্ণ"
+    },
+    {
+        "cat_id": 1,
+        "id": 3,
+        "no_of_dua": 2,
+        "subcat_id": 3,
+        "subcat_name_bn": "জান্নাত লাভ ও জাহান্নাম থেকে রেহাই"
+    },
+    {
+        "cat_id": 1,
+        "id": 4,
+        "no_of_dua": 3,
+        "subcat_id": 4,
+        "subcat_name_bn": "দ্বীনের উপর অটল থাকার দোয়া"
+    },
+    {
+        "cat_id": 1,
+        "id": 5,
+        "no_of_dua": 1,
+        "subcat_id": 5,
+        "subcat_name_bn": "সকল কাজে উত্তম পরিণতির দোয়া"
+    },
+    {
+        "cat_id": 1,
+        "id": 6,
+        "no_of_dua": 2,
+        "subcat_id": 6,
+        "subcat_name_bn": "নিয়ামাত বা অনুগ্রহের প্রার্থনা"
+    },
+    {
+        "cat_id": 1,
+        "id": 7,
+        "no_of_dua": 1,
+        "subcat_id": 7,
+        "subcat_name_bn": "বিভীষিকা, দুর্দশা, মন্দ পরিণতি ও শত্রুর উল্লাস থেকে আশ্রয়"
+    },
+    {
+        "cat_id": 2,
+        "id": 8,
+        "no_of_dua": 15,
+        "subcat_id": 8,
+        "subcat_name_bn": "তাসবীহ, তাহমীদ, তাহলীল ও তাকবীর-এর ফযীলত"
+    },
+    {
+        "cat_id": 3,
+        "id": 9,
+        "no_of_dua": 30,
+        "subcat_id": 9,
+        "subcat_name_bn": "দোয়া কবুলের সময় ও স্থান সমূহ"
+    },
+    {
+        "cat_id": 4,
+        "id": 10,
+        "no_of_dua": 14,
+        "subcat_id": 10,
+        "subcat_name_bn": "যাদের দোয়া কবুল হয়"
+    },
+    {
+        "cat_id": 5,
+        "id": 11,
+        "no_of_dua": 1,
+        "subcat_id": 11,
+        "subcat_name_bn": "সকাল-সন্ধ্যার যিক্‌রের ফযীলত"
+    },
+    {
+        "cat_id": 5,
+        "id": 12,
+        "no_of_dua": 45,
+        "subcat_id": 12,
+        "subcat_name_bn": "সকাল-সন্ধ্যার যিক্‌র"
+    },
+    {
+        "cat_id": 5,
+        "id": 13,
+        "no_of_dua": 7,
+        "subcat_id": 13,
+        "subcat_name_bn": "কর্মব্যস্ত অবস্থার যিক্‌র"
+    },
+    {
+        "cat_id": 6,
+        "id": 14,
+        "no_of_dua": 27,
+        "subcat_id": 14,
+        "subcat_name_bn": "ঘুমানোর আগে"
+    },
+    {
+        "cat_id": 6,
+        "id": 15,
+        "no_of_dua": 8,
+        "subcat_id": 15,
+        "subcat_name_bn": "ঘুম ভাঙার পরে"
+    },
+    {
+        "cat_id": 7,
+        "id": 16,
+        "no_of_dua": 8,
+        "subcat_id": 16,
+        "subcat_name_bn": "কাপড় পরিধান সম্পর্কিত দোয়া সমূহ"
+    },
+    {
+        "cat_id": 8,
+        "id": 17,
+        "no_of_dua": 3,
+        "subcat_id": 17,
+        "subcat_name_bn": "বাড়ি থেকে বের হওয়া"
+    },
+    {
+        "cat_id": 8,
+        "id": 18,
+        "no_of_dua": 3,
+        "subcat_id": 18,
+        "subcat_name_bn": "বাড়িতে প্রবেশ"
+    },
+    {
+        "cat_id": 9,
+        "id": 19,
+        "no_of_dua": 2,
+        "subcat_id": 19,
+        "subcat_name_bn": "টয়লেট সম্পর্কিত দোয়া সমূহ"
+    },
+    {
+        "cat_id": 10,
+        "id": 20,
+        "no_of_dua": 2,
+        "subcat_id": 20,
+        "subcat_name_bn": "আযানের সময় যা বলতে হবে"
+    },
+    {
+        "cat_id": 10,
+        "id": 21,
+        "no_of_dua": 2,
+        "subcat_id": 21,
+        "subcat_name_bn": "আযানের পরে যা বলতে হবে"
+    },
+    {
+        "cat_id": 10,
+        "id": 22,
+        "no_of_dua": 2,
+        "subcat_id": 22,
+        "subcat_name_bn": "আযান ও ইক্বামতের মধ্যবর্তী সময় দোয়া"
+    },
+    {
+        "cat_id": 10,
+        "id": 23,
+        "no_of_dua": 1,
+        "subcat_id": 23,
+        "subcat_name_bn": "ইমাম ও মুআযযিনের জন্য দোয়া"
+    },
+    {
+        "cat_id": 11,
+        "id": 24,
+        "no_of_dua": 1,
+        "subcat_id": 24,
+        "subcat_name_bn": "ওযূর শুরুতে"
+    },
+    {
+        "cat_id": 11,
+        "id": 25,
+        "no_of_dua": 3,
+        "subcat_id": 25,
+        "subcat_name_bn": "ওযূ শেষে"
+    },
+    {
+        "cat_id": 12,
+        "id": 26,
+        "no_of_dua": 2,
+        "subcat_id": 26,
+        "subcat_name_bn": "মসজিদে যাওয়ার সময়"
+    },
+    {
+        "cat_id": 12,
+        "id": 27,
+        "no_of_dua": 4,
+        "subcat_id": 27,
+        "subcat_name_bn": "মসজিদে প্রবেশ"
+    },
+    {
+        "cat_id": 12,
+        "id": 28,
+        "no_of_dua": 5,
+        "subcat_id": 28,
+        "subcat_name_bn": "মসজিদ থেকে বের হওয়া"
+    },
+    {
+        "cat_id": 12,
+        "id": 29,
+        "no_of_dua": 1,
+        "subcat_id": 29,
+        "subcat_name_bn": "মসজিদে হারানো বিজ্ঞপ্তি দেওয়া"
+    },
+    {
+        "cat_id": 12,
+        "id": 30,
+        "no_of_dua": 1,
+        "subcat_id": 30,
+        "subcat_name_bn": "মসজিদে বেচাকেনা করা"
+    },
+    {
+        "cat_id": 13,
+        "id": 31,
+        "no_of_dua": 9,
+        "subcat_id": 31,
+        "subcat_name_bn": "তাকবীরে তাহরীমার পর পঠিত দোয়া সমূহ"
+    },
+    {
+        "cat_id": 13,
+        "id": 32,
+        "no_of_dua": 1,
+        "subcat_id": 32,
+        "subcat_name_bn": "সালাতের মাঝে শয়তানের কুমন্ত্রণা হতে বাঁচার দোয়া"
+    },
+    {
+        "cat_id": 13,
+        "id": 33,
+        "no_of_dua": 10,
+        "subcat_id": 33,
+        "subcat_name_bn": "রুকুর দোয়া সমূহ"
+    },
+    {
+        "cat_id": 13,
+        "id": 34,
+        "no_of_dua": 2,
+        "subcat_id": 34,
+        "subcat_name_bn": "রুকু থেকে উঠার দোয়া"
+    },
+    {
+        "cat_id": 13,
+        "id": 35,
+        "no_of_dua": 8,
+        "subcat_id": 35,
+        "subcat_name_bn": "রুকুর পরে দণ্ডায়মান অবস্থায় দোয়া সমূহ"
+    },
+    {
+        "cat_id": 13,
+        "id": 36,
+        "no_of_dua": 12,
+        "subcat_id": 36,
+        "subcat_name_bn": "সিজদায় পঠিতব্য দোয়া সমূহ"
+    },
+    {
+        "cat_id": 13,
+        "id": 37,
+        "no_of_dua": 2,
+        "subcat_id": 37,
+        "subcat_name_bn": "দুই সিজদার মধ্যবর্তী দোয়া সমূহ"
+    },
+    {
+        "cat_id": 13,
+        "id": 38,
+        "no_of_dua": 4,
+        "subcat_id": 38,
+        "subcat_name_bn": "সিজদার আয়াত পড়ে সিজদা দেওয়ার মহত্ত্ব"
+    },
+    {
+        "cat_id": 13,
+        "id": 39,
+        "no_of_dua": 3,
+        "subcat_id": 39,
+        "subcat_name_bn": "তাশাহুদ বা বৈঠকের দোয়া"
+    },
+    {
+        "cat_id": 13,
+        "id": 40,
+        "no_of_dua": 2,
+        "subcat_id": 40,
+        "subcat_name_bn": "রাসূল (ﷺ)-এর প্রতি দরূদ (শেষ বৈঠক)"
+    },
+    {
+        "cat_id": 13,
+        "id": 41,
+        "no_of_dua": 16,
+        "subcat_id": 41,
+        "subcat_name_bn": "তাশাহুদের পর সালাম ফেরানোর আগে দোয়া সমূহ (দোয়া মাসূরা)"
+    },
+    {
+        "cat_id": 13,
+        "id": 42,
+        "no_of_dua": 2,
+        "subcat_id": 42,
+        "subcat_name_bn": "সালাতের মধ্যে দোয়া"
+    },
+    {
+        "cat_id": 13,
+        "id": 43,
+        "no_of_dua": 3,
+        "subcat_id": 43,
+        "subcat_name_bn": "ফজর ও মাগরিবের পরের দোয়া সমূহ"
+    },
+    {
+        "cat_id": 13,
+        "id": 44,
+        "no_of_dua": 8,
+        "subcat_id": 44,
+        "subcat_name_bn": "ফরয সালাতের পরে মাসনূন দোয়া-মুনাজাত"
+    },
+    {
+        "cat_id": 13,
+        "id": 45,
+        "no_of_dua": 16,
+        "subcat_id": 45,
+        "subcat_name_bn": "সালাম ফিরানোর পর পঠিতব্য দোয়া সমূহ"
+    },
+    {
+        "cat_id": 13,
+        "id": 46,
+        "no_of_dua": 2,
+        "subcat_id": 46,
+        "subcat_name_bn": "ফজরের সালাতের পর দোয়া"
+    },
+    {
+        "cat_id": 13,
+        "id": 47,
+        "no_of_dua": 2,
+        "subcat_id": 47,
+        "subcat_name_bn": "সালাত সম্পর্কিত অন্যান্য দোয়া সমূহ"
+    },
+    {
+        "cat_id": 14,
+        "id": 48,
+        "no_of_dua": 16,
+        "subcat_id": 48,
+        "subcat_name_bn": "তাহাজ্জুদ সালাত শুরুর দোয়া"
+    },
+    {
+        "cat_id": 14,
+        "id": 49,
+        "no_of_dua": 3,
+        "subcat_id": 49,
+        "subcat_name_bn": "বিতরের যিক্‌র"
+    },
+    {
+        "cat_id": 14,
+        "id": 50,
+        "no_of_dua": 3,
+        "subcat_id": 50,
+        "subcat_name_bn": "বিতর সালাতে রাসূল (ﷺ) যেসকল সূরা পড়তেন"
+    },
+    {
+        "cat_id": 14,
+        "id": 51,
+        "no_of_dua": 3,
+        "subcat_id": 51,
+        "subcat_name_bn": "মাসনূন কুনুত"
+    },
+    {
+        "cat_id": 14,
+        "id": 52,
+        "no_of_dua": 6,
+        "subcat_id": 52,
+        "subcat_name_bn": "তাহাজ্জুদ সালাত"
+    },
+    {
+        "cat_id": 14,
+        "id": 53,
+        "no_of_dua": 2,
+        "subcat_id": 53,
+        "subcat_name_bn": "বিশেষ কিছু সালাত"
+    },
+    {
+        "cat_id": 15,
+        "id": 54,
+        "no_of_dua": 1,
+        "subcat_id": 54,
+        "subcat_name_bn": "মৃৃৃতের জন্য করনীয়"
+    },
+    {
+        "cat_id": 15,
+        "id": 55,
+        "no_of_dua": 4,
+        "subcat_id": 55,
+        "subcat_name_bn": "মৃতকে কবরস্থ করা"
+    },
+    {
+        "cat_id": 15,
+        "id": 56,
+        "no_of_dua": 4,
+        "subcat_id": 56,
+        "subcat_name_bn": "কবর যিয়ারতের দোয়া সমূহ"
+    },
+    {
+        "cat_id": 15,
+        "id": 57,
+        "no_of_dua": 10,
+        "subcat_id": 57,
+        "subcat_name_bn": "জানাযার দোয়া সমূহ"
+    },
+    {
+        "cat_id": 15,
+        "id": 58,
+        "no_of_dua": 6,
+        "subcat_id": 58,
+        "subcat_name_bn": "শিশুর জানাযায় দোয়া সমূহ"
+    },
+    {
+        "cat_id": 16,
+        "id": 59,
+        "no_of_dua": 8,
+        "subcat_id": 59,
+        "subcat_name_bn": "রমজানে পঠিত দোয়া সমূহ"
+    },
+    {
+        "cat_id": 17,
+        "id": 60,
+        "no_of_dua": 22,
+        "subcat_id": 60,
+        "subcat_name_bn": "মুসাফিরের জন্য পঠিতব্য দোয়া সমূহ"
+    },
+    {
+        "cat_id": 18,
+        "id": 61,
+        "no_of_dua": 25,
+        "subcat_id": 61,
+        "subcat_name_bn": "হাজীদের জন্য পঠিতব্য দোয়া সমূহ"
+    },
+    {
+        "cat_id": 19,
+        "id": 62,
+        "no_of_dua": 5,
+        "subcat_id": 62,
+        "subcat_name_bn": "কুরবানী দানকারীর জন্য পঠিতব্য দোয়া সমূহ"
+    },
+    {
+        "cat_id": 20,
+        "id": 63,
+        "no_of_dua": 9,
+        "subcat_id": 63,
+        "subcat_name_bn": "শয়তান ও তার কুমন্ত্রণা তাড়ানোর দোয়া সমূহ"
+    },
+    {
+        "cat_id": 20,
+        "id": 64,
+        "no_of_dua": 4,
+        "subcat_id": 64,
+        "subcat_name_bn": "সন্তানের নিরাপত্তা সম্পর্কিত দোয়া সমূহ"
+    },
+    {
+        "cat_id": 20,
+        "id": 65,
+        "no_of_dua": 5,
+        "subcat_id": 65,
+        "subcat_name_bn": "অনিষ্ট সম্পর্কিত অন্যান্য দোয়া সমূহ"
+    },
+    {
+        "cat_id": 20,
+        "id": 66,
+        "no_of_dua": 4,
+        "subcat_id": 66,
+        "subcat_name_bn": "অন্তরে কুমন্ত্রণা অনুভব করলে"
+    },
+    {
+        "cat_id": 20,
+        "id": 67,
+        "no_of_dua": 1,
+        "subcat_id": 67,
+        "subcat_name_bn": "দাজ্জালের অনিষ্ট থেকে আশ্রয়"
+    },
+    {
+        "cat_id": 20,
+        "id": 68,
+        "no_of_dua": 3,
+        "subcat_id": 68,
+        "subcat_name_bn": "রাগান্বিত অবস্থায় দোয়া সমূহ"
+    },
+    {
+        "cat_id": 21,
+        "id": 69,
+        "no_of_dua": 1,
+        "subcat_id": 70,
+        "subcat_name_bn": "ক্ষমা প্রার্থনার শ্রেষ্ঠ দোয়া - সাইয়্যেদুল ইস্তিগফার"
+    },
+    {
+        "cat_id": 21,
+        "id": 70,
+        "no_of_dua": 22,
+        "subcat_id": 69,
+        "subcat_name_bn": "যেসকল ইস্তেগফার হাদীসে বর্ণিত হয়েছে"
+    },
+    {
+        "cat_id": 21,
+        "id": 71,
+        "no_of_dua": 16,
+        "subcat_id": 117,
+        "subcat_name_bn": "যেসকল ইস্তেগফার কুরআনে বর্ণিত হয়েছে"
+    },
+    {
+        "cat_id": 21,
+        "id": 72,
+        "no_of_dua": 7,
+        "subcat_id": 71,
+        "subcat_name_bn": "তাওবার ব্যপারে কুরআন ও হাদীসের বাণী"
+    },
+    {
+        "cat_id": 22,
+        "id": 73,
+        "no_of_dua": 1,
+        "subcat_id": 72,
+        "subcat_name_bn": "বিয়ের খুতবা"
+    },
+    {
+        "cat_id": 22,
+        "id": 74,
+        "no_of_dua": 5,
+        "subcat_id": 73,
+        "subcat_name_bn": "বিবাহ পরবর্তী দোয়া সমূহ"
+    },
+    {
+        "cat_id": 22,
+        "id": 75,
+        "no_of_dua": 2,
+        "subcat_id": 74,
+        "subcat_name_bn": "নবজাতক সম্পর্কিত দোয়া সমূহ"
+    },
+    {
+        "cat_id": 23,
+        "id": 76,
+        "no_of_dua": 15,
+        "subcat_id": 75,
+        "subcat_name_bn": "পরিবারের জন্য পঠিতব্য দোয়া সমূহ"
+    },
+    {
+        "cat_id": 24,
+        "id": 77,
+        "no_of_dua": 11,
+        "subcat_id": 76,
+        "subcat_name_bn": "ঋণমুক্তির দোয়া সমূহ"
+    },
+    {
+        "cat_id": 25,
+        "id": 78,
+        "no_of_dua": 11,
+        "subcat_id": 77,
+        "subcat_name_bn": "দুশ্চিন্তাগ্রস্তের জন্য পঠিতব্য দোয়া সমূহ"
+    },
+    {
+        "cat_id": 26,
+        "id": 79,
+        "no_of_dua": 2,
+        "subcat_id": 78,
+        "subcat_name_bn": "ব্যর্থতার সময়ের দোয়া সমূহ"
+    },
+    {
+        "cat_id": 26,
+        "id": 80,
+        "no_of_dua": 3,
+        "subcat_id": 79,
+        "subcat_name_bn": "ক্ষতির আশঙ্কার সময়ের দোয়া সমূহ"
+    },
+    {
+        "cat_id": 26,
+        "id": 81,
+        "no_of_dua": 17,
+        "subcat_id": 80,
+        "subcat_name_bn": "বিপদ-কষ্টে নিপতিত হলে পঠিতব্য দোয়া সমূহ"
+    },
+    {
+        "cat_id": 27,
+        "id": 82,
+        "no_of_dua": 3,
+        "subcat_id": 81,
+        "subcat_name_bn": "নিন্দায় ও প্রশংসায় পঠিতব্য দোয়া সমূহ"
+    },
+    {
+        "cat_id": 27,
+        "id": 83,
+        "no_of_dua": 13,
+        "subcat_id": 82,
+        "subcat_name_bn": "অপরের কল্যাণ কামনায় পঠিতব্য দোয়া সমূহ"
+    },
+    {
+        "cat_id": 28,
+        "id": 84,
+        "no_of_dua": 6,
+        "subcat_id": 83,
+        "subcat_name_bn": "হাঁচি ও হাই তোলার ক্ষেত্রে শিষ্টাচার"
+    },
+    {
+        "cat_id": 28,
+        "id": 85,
+        "no_of_dua": 6,
+        "subcat_id": 84,
+        "subcat_name_bn": "হাঁচির আদব ও দোয়া সমূহ"
+    },
+    {
+        "cat_id": 28,
+        "id": 86,
+        "no_of_dua": 2,
+        "subcat_id": 85,
+        "subcat_name_bn": "মজলিস / বৈঠক শেষের দোয়া"
+    },
+    {
+        "cat_id": 28,
+        "id": 87,
+        "no_of_dua": 2,
+        "subcat_id": 86,
+        "subcat_name_bn": "আনন্দদায়ক অথবা ক্ষতিকারক কিছু দেখলে পঠিতব্য দোয়া সমূহ"
+    },
+    {
+        "cat_id": 28,
+        "id": 88,
+        "no_of_dua": 2,
+        "subcat_id": 87,
+        "subcat_name_bn": "প্রশংসা বিষয়ে দোয়া সমূহ"
+    },
+    {
+        "cat_id": 28,
+        "id": 89,
+        "no_of_dua": 5,
+        "subcat_id": 88,
+        "subcat_name_bn": "সালাম বিষয়ক আদব"
+    },
+    {
+        "cat_id": 28,
+        "id": 90,
+        "no_of_dua": 14,
+        "subcat_id": 89,
+        "subcat_name_bn": "বিবিধ আদব ও শিষ্টাচার বিষয়ক দোয়া সমূহ"
+    },
+    {
+        "cat_id": 29,
+        "id": 91,
+        "no_of_dua": 5,
+        "subcat_id": 90,
+        "subcat_name_bn": "বৈঠককারীর জন্য পঠিতব্য দোয়া সমূহ"
+    },
+    {
+        "cat_id": 30,
+        "id": 92,
+        "no_of_dua": 1,
+        "subcat_id": 91,
+        "subcat_name_bn": "খাবার ও পানীয় গ্রহণের শিষ্টাচার"
+    },
+    {
+        "cat_id": 30,
+        "id": 93,
+        "no_of_dua": 2,
+        "subcat_id": 92,
+        "subcat_name_bn": "খাওয়ার শুরুতে দোয়া সমূহ"
+    },
+    {
+        "cat_id": 30,
+        "id": 94,
+        "no_of_dua": 1,
+        "subcat_id": 93,
+        "subcat_name_bn": "শুরুতে আল্লাহ্‌র নাম বলতে ভুলে গেলে"
+    },
+    {
+        "cat_id": 30,
+        "id": 95,
+        "no_of_dua": 1,
+        "subcat_id": 94,
+        "subcat_name_bn": "খাওয়া ও পান করার মাঝের দোয়া"
+    },
+    {
+        "cat_id": 30,
+        "id": 96,
+        "no_of_dua": 7,
+        "subcat_id": 95,
+        "subcat_name_bn": "খাওয়া শেষে দোয়া সমূহ"
+    },
+    {
+        "cat_id": 30,
+        "id": 97,
+        "no_of_dua": 3,
+        "subcat_id": 96,
+        "subcat_name_bn": "যে পানাহার করালো তার জন্য দোয়া"
+    },
+    {
+        "cat_id": 31,
+        "id": 98,
+        "no_of_dua": 6,
+        "subcat_id": 97,
+        "subcat_name_bn": "পশু-পাখি সম্পর্কিত দোয়া সমূহ"
+    },
+    {
+        "cat_id": 32,
+        "id": 99,
+        "no_of_dua": 21,
+        "subcat_id": 98,
+        "subcat_name_bn": "প্রকৃতি সম্পর্কিত দোয়া সমূহ"
+    },
+    {
+        "cat_id": 33,
+        "id": 100,
+        "no_of_dua": 33,
+        "subcat_id": 99,
+        "subcat_name_bn": "অসুস্থ ব্যক্তির জন্য দোয়া সমূহ"
+    },
+    {
+        "cat_id": 33,
+        "id": 101,
+        "no_of_dua": 2,
+        "subcat_id": 100,
+        "subcat_name_bn": "মৃত ব্যক্তির জন্য দোয়া সমূহ"
+    },
+    {
+        "cat_id": 33,
+        "id": 102,
+        "no_of_dua": 8,
+        "subcat_id": 101,
+        "subcat_name_bn": "বদনজর সম্পর্কিত দোয়া সমূহ"
+    },
+    {
+        "cat_id": 34,
+        "id": 103,
+        "no_of_dua": 20,
+        "subcat_id": 102,
+        "subcat_name_bn": "জ্বিন, জাদু ও রোগের চিকিৎসায় যা করণীয়"
+    },
+    {
+        "cat_id": 34,
+        "id": 104,
+        "no_of_dua": 15,
+        "subcat_id": 103,
+        "subcat_name_bn": "জ্বিনগ্রস্ত নিশ্চিত হওয়ার পর করণীয়"
+    },
+    {
+        "cat_id": 35,
+        "id": 105,
+        "no_of_dua": 11,
+        "subcat_id": 104,
+        "subcat_name_bn": "মজলুম সম্পর্কিত দোয়া সমূহ"
+    },
+    {
+        "cat_id": 35,
+        "id": 106,
+        "no_of_dua": 14,
+        "subcat_id": 105,
+        "subcat_name_bn": "ক্ষমা প্রার্থনা সম্পর্কিত দোয়া সমূহ"
+    },
+    {
+        "cat_id": 35,
+        "id": 107,
+        "no_of_dua": 17,
+        "subcat_id": 106,
+        "subcat_name_bn": "সাধারণ দোয়া সমূহ"
+    },
+    {
+        "cat_id": 35,
+        "id": 108,
+        "no_of_dua": 42,
+        "subcat_id": 107,
+        "subcat_name_bn": "অন্যান্য দোয়া সমূহ"
+    },
+    {
+        "cat_id": 36,
+        "id": 109,
+        "no_of_dua": 7,
+        "subcat_id": 108,
+        "subcat_name_bn": "আল্লাহ্‌র নামের ওসীলার দোয়া সমূহ"
+    },
+    {
+        "cat_id": 37,
+        "id": 110,
+        "no_of_dua": 11,
+        "subcat_id": 109,
+        "subcat_name_bn": "নবী-রাসুলগণ যেভাবে দোয়া করেছিলেন"
+    },
+    {
+        "cat_id": 38,
+        "id": 111,
+        "no_of_dua": 91,
+        "subcat_id": 110,
+        "subcat_name_bn": "রাসূল (ﷺ) এবং সাহাবীগণ যেভাবে দোয়া করেছিলেন"
+    },
+    {
+        "cat_id": 39,
+        "id": 112,
+        "no_of_dua": 18,
+        "subcat_id": 111,
+        "subcat_name_bn": "মুহাম্মাদ (ﷺ) ও তাঁর সাহাবীগণ (রাঃ) এর সম্পর্কে"
+    },
+    {
+        "cat_id": 40,
+        "id": 113,
+        "no_of_dua": 15,
+        "subcat_id": 112,
+        "subcat_name_bn": "হাদিসে বর্ণিত কিছু দোয়া সমূহ"
+    },
+    {
+        "cat_id": 41,
+        "id": 114,
+        "no_of_dua": 27,
+        "subcat_id": 113,
+        "subcat_name_bn": "বিবিধ বিষয়ের দোয়া সমূহ"
+    },
+    {
+        "cat_id": 42,
+        "id": 115,
+        "no_of_dua": 22,
+        "subcat_id": 114,
+        "subcat_name_bn": "প্রতিদিনের সুন্নাহ বাক্য সমূহ"
+    },
+    {
+        "cat_id": 26,
+        "id": 116,
+        "no_of_dua": 5,
+        "subcat_id": 115,
+        "subcat_name_bn": "যুদ্ধ সম্পর্কিত দোয়া সমূহ"
+    },
+    {
+        "cat_id": 43,
+        "id": 117,
+        "no_of_dua": 4,
+        "subcat_id": 116,
+        "subcat_name_bn": "ঈদের দিনে পঠিতব্য দোয়া"
+    },
+    {
+        "cat_id": 44,
+        "id": 118,
+        "no_of_dua": 40,
+        "subcat_id": 118,
+        "subcat_name_bn": "রাব্বানা দোয়াসমূহ"
+    }
+]
