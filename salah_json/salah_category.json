@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "পবিত্রতা",
+        "image": "shower.png"
+    },
+    {
+        "id": 2,
+        "name": "ওযু",
+        "image": "wudu.png"
+    },
+    {
+        "id": 3,
+        "name": "তায়াম্মুম",
+        "image": "tayammum.png"
+    },
+    {
+        "id": 4,
+        "name": "আযান",
+        "image": "adhan.png"
+    },
+    {
+        "id": 5,
+        "name": "নামাযের ওয়াক্ত ও রাকাত",
+        "image": "salah.png"
+    },
+    {
+        "id": 6,
+        "name": "সালাত আদায়ের পদ্ধতি",
+        "image": "salah.png"
+    },
+    {
+        "id": 7,
+        "name": "সালাত আদায়ে ধাপ",
+        "image": "salah.png"
+    },
+    {
+        "id": 8,
+        "name": "বিভিন্ন সালাতের পদ্ধতি",
+        "image": "salah.png"
+    }
+]

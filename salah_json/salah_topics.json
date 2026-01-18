@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "cat_id": 1,
+    "topic_id": 1,
+    "title": "গোসল",
+    "image": "shower.png",
+    "description": "সম্পূর্ণ শরীর ধৌত করার ইসলামী পদ্ধতি ও গুরুত্ব"
+  },
+  {
+    "id": 2,
+    "cat_id": 1,
+    "topic_id": 2,
+    "title": "গোসলের ফরজ ও সুন্নত",
+    "image": "shower.png",
+    "description": "গোসলের আবশ্যকীয় ও ঐচ্ছিক কাজগুলোর বিস্তারিত"
+  },
+  {
+    "id": 3,
+    "cat_id": 1,
+    "topic_id": 3,
+    "title": "গোসল কখন ফরজ",
+    "image": "shower.png",
+    "description": "গোসল ফরজ হওয়ার বিভিন্ন শর্ত ও অবস্থা"
+  },
+  {
+    "id": 4,
+    "cat_id": 2,
+    "topic_id": 1,
+    "title": "ওযু",
+    "image": "wudu.png",
+    "description": "নামাজের পূর্বে পবিত্রতা অর্জনের প্রাথমিক পদ্ধতি"
+  },
+  {
+    "id": 5,
+    "cat_id": 2,
+    "topic_id": 2,
+    "title": "ওযুর বিবরণ",
+    "image": "wudu.png",
+    "description": "ওযুর ধাপে ধাপে সম্পূর্ণ বর্ণনা ও নিয়ম"
+  },
+  {
+    "id": 6,
+    "cat_id": 2,
+    "topic_id": 3,
+    "title": "ওযু ভাঙ্গার কারণ",
+    "image": "wudu.png",
+    "description": "ওযু নষ্ট হওয়ার বিভিন্ন কারণ ও অবস্থা"
+  },
+  {
+    "id": 7,
+    "cat_id": 3,
+    "topic_id": 1,
+    "title": "তায়াম্মুম",
+    "image": "tayammum.png",
+    "description": "পানির অভাবে মাটি দ্বারা পবিত্রতা অর্জনের পদ্ধতি"
+  },
+  {
+    "id": 8,
+    "cat_id": 3,
+    "topic_id": 2,
+    "title": "তায়াম্মুমের বিবরণ",
+    "image": "tayammum.png",
+    "description": "তায়াম্মুমের সম্পূর্ণ পদ্ধতি ও শর্তাবলী"
+  },
+  {
+    "id": 9,
+    "cat_id": 3,
+    "topic_id": 3,
+    "title": "তায়াম্মুমের কারণ",
+    "image": "tayammum.png",
+    "description": "তায়াম্মুম করার বৈধ কারণ ও পরিস্থিতি"
+  },
+  {
+    "id": 10,
+    "cat_id": 4,
+    "topic_id": 1,
+    "title": "আযান",
+    "image": "adhan.png",
+    "description": "নামাজের জন্য আহ্বান ও এর গুরুত্ব"
+  },
+  {
+    "id": 11,
+    "cat_id": 4,
+    "topic_id": 2,
+    "title": "আযানের কালেমা সমূহ",
+    "image": "adhan.png",
+    "description": "আযানের প্রতিটি শব্দের অর্থ ও গুরুত্ব"
+  },
+  {
+    "id": 12,
+    "cat_id": 4,
+    "topic_id": 3,
+    "title": "আযানের পরে দোয়া",
+    "image": "adhan.png",
+    "description": "আযান শোনার পর পড়ার বিশেষ দোয়া ও ফজিলত"
+  },
+  {
+    "id": 13,
+    "cat_id": 4,
+    "topic_id": 4,
+    "title": "আযানের জওয়াব",
+    "image": "adhan.png",
+    "description": "আযানের প্রতিউত্তর দেওয়ার সঠিক পদ্ধতি"
+  },
+  {
+    "id": 14,
+    "cat_id": 4,
+    "topic_id": 5,
+    "title": "এক্বামত",
+    "image": "adhan.png",
+    "description": "নামাজ শুরু হওয়ার সংকেত ও এর নিয়ম"
+  },
+  {
+    "id": 15,
+    "cat_id": 4,
+    "topic_id": 6,
+    "title": "আযানের পরে দোয়া",
+    "image": "adhan.png",
+    "description": "আযান শেষে পড়ার মাসনুন দোয়া ও আমল"
+  },
+  {
+    "id": 16,
+    "cat_id": 4,
+    "topic_id": 7,
+    "title": "আযানের অন্যান্য পরিত্যাজ্য বিষয়",
+    "image": "adhan.png",
+    "description": "আযান সম্পর্কিত ভুল ও পরিত্যাজ্য কাজসমূহ"
+  },
+  {
+    "id": 17,
+    "cat_id": 4,
+    "topic_id": 8,
+    "title": "আযানের অন্যান্য মাসায়েল",
+    "image": "adhan.png",
+    "description": "আযান সংক্রান্ত বিভিন্ন বিধান ও মাসায়েল"
+  },
+  {
+    "id": 18,
+    "cat_id": 5,
+    "topic_id": 1,
+    "title": "ফজর ওয়াক্ত",
+    "image": "salah.png",
+    "description": "ফজর নামাজের সময়সীমা ও গুরুত্ব"
+  },
+  {
+    "id": 19,
+    "cat_id": 5,
+    "topic_id": 2,
+    "title": "যোহর ওয়াক্ত",
+    "image": "salah.png",
+    "description": "যোহর নামাজের সময় ও বিশেষত্ব"
+  },
+  {
+    "id": 20,
+    "cat_id": 5,
+    "topic_id": 3,
+    "title": "আসর ওয়াক্ত",
+    "image": "salah.png",
+    "description": "আসর নামাজের সময়সীমা ও ফজিলত"
+  },
+  {
+    "id": 21,
+    "cat_id": 5,
+    "topic_id": 4,
+    "title": "মাগরিব ওয়াক্ত",
+    "image": "salah.png",
+    "description": "মাগরিব নামাজের সময় ও গুরুত্ব"
+  },
+  {
+    "id": 22,
+    "cat_id": 5,
+    "topic_id": 5,
+    "title": "এশা ওয়াক্ত",
+    "image": "salah.png",
+    "description": "এশা নামাজের সময়সীমা ও বিশেষ আমল"
+  },
+  {
+    "id": 23,
+    "cat_id": 6,
+    "topic_id": 1,
+    "title": "দুই রাকাত সালাত",
+    "image": "salah.png",
+    "description": "দুই রাকাত নামাজের সম্পূর্ণ পদ্ধতি"
+  },
+  {
+    "id": 24,
+    "cat_id": 6,
+    "topic_id": 2,
+    "title": "চার রাকাত সালাত",
+    "image": "salah.png",
+    "description": "চার রাকাত নামাজের ধাপে ধাপে বর্ণনা"
+  },
+  {
+    "id": 25,
+    "cat_id": 6,
+    "topic_id": 3,
+    "title": "তিন রাকাত সালাত",
+    "image": "salah.png",
+    "description": "তিন রাকাত নামাজের বিশেষ পদ্ধতি"
+  },
+  {
+    "id": 26,
+    "cat_id": 6,
+    "topic_id": 4,
+    "title": "বিতর সালাত",
+    "image": "salah.png",
+    "description": "বিতর নামাজের নিয়ম ও ফজিলত"
+  },
+  {
+    "id": 27,
+    "cat_id": 7,
+    "topic_id": 1,
+    "title": "নিয়ত",
+    "image": "niyat.png",
+    "description": "নামাজের নিয়তের সঠিক পদ্ধতি ও গুরুত্ব"
+  },
+  {
+    "id": 28,
+    "cat_id": 7,
+    "topic_id": 2,
+    "title": "তাকবিরে তাহরিমা",
+    "image": "takber.png",
+    "description": "নামাজ শুরু করার তাকবিরের নিয়ম"
+  },
+  {
+    "id": 29,
+    "cat_id": 7,
+    "topic_id": 3,
+    "title": "সানা",
+    "image": "sana.png",
+    "description": "নামাজের শুরুতে পড়ার দোয়া ও অর্থ"
+  },
+  {
+    "id": 30,
+    "cat_id": 7,
+    "topic_id": 4,
+    "title": "ক্বিরাত",
+    "image": "sana.png",
+    "description": "নামাজে কুরআন তিলাওয়াতের পদ্ধতি"
+  },
+  {
+    "id": 31,
+    "cat_id": 7,
+    "topic_id": 5,
+    "title": "রুকু",
+    "image": "ruku.png",
+    "description": "রুকুর সঠিক পদ্ধতি ও দোয়া"
+  },
+  {
+    "id": 32,
+    "cat_id": 7,
+    "topic_id": 6,
+    "title": "ক্বওমা",
+    "image": "niyat.png",
+    "description": "রুকু থেকে দাঁড়ানোর নিয়ম ও দোয়া"
+  },
+  {
+    "id": 33,
+    "cat_id": 7,
+    "topic_id": 7,
+    "title": "সিজদা",
+    "image": "sajdah.png",
+    "description": "সিজদার সঠিক পদ্ধতি ও ফজিলত"
+  },
+  {
+    "id": 34,
+    "cat_id": 7,
+    "topic_id": 8,
+    "title": "তাশাহাদুদ",
+    "image": "tasahadud.png",
+    "description": "বৈঠকে তাশাহহুদ পড়ার পদ্ধতি"
+  },
+  {
+    "id": 35,
+    "cat_id": 7,
+    "topic_id": 9,
+    "title": "শেষ বৈঠক",
+    "image": "tasahadud.png",
+    "description": "নামাজের শেষ বৈঠকের নিয়ম ও দোয়া"
+  },
+  {
+    "id": 36,
+    "cat_id": 7,
+    "topic_id": 10,
+    "title": "সালাম",
+    "image": "salam.png",
+    "description": "নামাজ শেষে সালাম ফেরানোর পদ্ধতি"
+  },
+  {
+    "id": 37,
+    "cat_id": 7,
+    "topic_id": 11,
+    "title": "সালামের পরে দোয়া",
+    "image": "dua.png",
+    "description": "নামাজ শেষে পড়ার বিশেষ দোয়া ও আমল"
+  },
+  {
+    "id": 38,
+    "cat_id": 8,
+    "topic_id": 1,
+    "title": "বিতর সালাত",
+    "image": "salah.png",
+    "description": "বিতর নামাজের বিশেষ নিয়ম ও ফজিলত"
+  },
+  {
+    "id": 39,
+    "cat_id": 8,
+    "topic_id": 2,
+    "title": "তারাবীহ ও তাহাজ্জুদ",
+    "image": "salah.png",
+    "description": "রমজানের বিশেষ নামাজের পদ্ধতি"
+  },
+  {
+    "id": 40,
+    "cat_id": 8,
+    "topic_id": 3,
+    "title": "সফরের সালাত",
+    "image": "salah.png",
+    "description": "সফরকালীন নামাজের সংক্ষিপ্ত পদ্ধতি"
+  },
+  {
+    "id": 41,
+    "cat_id": 8,
+    "topic_id": 4,
+    "title": "জুম‘আর সালাত",
+    "image": "salah.png",
+    "description": "জুমার নামাজের বিশেষ নিয়ম ও গুরুত্ব"
+  },
+  {
+    "id": 42,
+    "cat_id": 8,
+    "topic_id": 5,
+    "title": "ঈদায়নের সালাত",
+    "image": "salah.png",
+    "description": "ঈদের নামাজের সম্পূর্ণ পদ্ধতি"
+  },
+  {
+    "id": 43,
+    "cat_id": 8,
+    "topic_id": 6,
+    "title": "জানাযার সালাত",
+    "image": "salah.png",
+    "description": "জানাযার নামাজের বিশেষ নিয়ম"
+  },
+  {
+    "id": 44,
+    "cat_id": 8,
+    "topic_id": 7,
+    "title": "ইশরাক্ব ও চাশতের সালাত",
+    "image": "salah.png",
+    "description": "সূর্যোদয়ের পরের নামাজের ফজিলত"
+  },
+  {
+    "id": 45,
+    "cat_id": 8,
+    "topic_id": 8,
+    "title": "সূর্য ও চন্দ্র গ্রহণের সালাত",
+    "image": "salah.png",
+    "description": "গ্রহণকালীন নামাজের বিশেষ পদ্ধতি"
+  },
+  {
+    "id": 46,
+    "cat_id": 8,
+    "topic_id": 9,
+    "title": "সালাতুল ইস্তিস্ক্বা",
+    "image": "salah.png",
+    "description": "বৃষ্টির জন্য নামাজের নিয়ম"
+  },
+  {
+    "id": 47,
+    "cat_id": 8,
+    "topic_id": 10,
+    "title": "সালাতুল হাজত",
+    "image": "salah.png",
+    "description": "প্রয়োজন পূরণের নামাজের পদ্ধতি"
+  },
+  {
+    "id": 48,
+    "cat_id": 8,
+    "topic_id": 11,
+    "title": "সালাতুত তাওবাহ",
+    "image": "salah.png",
+    "description": "তাওবার নামাজের বিশেষ ফজিলত"
+  },
+  {
+    "id": 49,
+    "cat_id": 8,
+    "topic_id": 12,
+    "title": "সালাতুল ইস্তেখারাহ",
+    "image": "salah.png",
+    "description": "পরামর্শের নামাজের পদ্ধতি ও দোয়া"
+  },
+  {
+    "id": 50,
+    "cat_id": 8,
+    "topic_id": 13,
+    "title": "সালাতুত তাসবীহ",
+    "image": "salah.png",
+    "description": "তাসবিহের নামাজের বিশেষ নিয়ম"
+  }
+]
