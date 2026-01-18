@@ -1,0 +1,354 @@
+[
+    {
+        "cat_icon": "duar_gurutto",
+        "cat_id": 1,
+        "cat_name_bn": "দোয়ার গুরুত্ব",
+        "id": 1,
+        "no_of_dua": 21,
+        "no_of_subcat": 7
+    },
+    {
+        "cat_icon": "zikirer_fozilot",
+        "cat_id": 2,
+        "cat_name_bn": "যিকিরের ফযীলত",
+        "id": 2,
+        "no_of_dua": 15,
+        "no_of_subcat": 1
+    },
+    {
+        "cat_icon": "dua_kobuler_somoy",
+        "cat_id": 3,
+        "cat_name_bn": "দোয়া কবুলের সময়",
+        "id": 3,
+        "no_of_dua": 30,
+        "no_of_subcat": 1
+    },
+    {
+        "cat_icon": "jader_dua_kobul_hoy",
+        "cat_id": 4,
+        "cat_name_bn": "দোয়া কবুল হওয়া",
+        "id": 4,
+        "no_of_dua": 14,
+        "no_of_subcat": 1
+    },
+    {
+        "cat_icon": "zikirer_fozilot",
+        "cat_id": 42,
+        "cat_name_bn": "কখন কি বলা সুন্নাহ",
+        "id": 5,
+        "no_of_dua": 22,
+        "no_of_subcat": 1
+    },
+    {
+        "cat_icon": "sokal_sondha",
+        "cat_id": 5,
+        "cat_name_bn": "সকাল-সন্ধ্যার যিক্‌র",
+        "id": 6,
+        "no_of_dua": 53,
+        "no_of_subcat": 3
+    },
+    {
+        "cat_icon": "borkotmoy_masnun_dua",
+        "cat_id": 40,
+        "cat_name_bn": "বরকতময় মাসনূন দোয়া",
+        "id": 7,
+        "no_of_dua": 15,
+        "no_of_subcat": 1
+    },
+    {
+        "cat_icon": "rabbana",
+        "cat_id": 44,
+        "cat_name_bn": "৪০ রাব্বানা দোয়া",
+        "id": 8,
+        "no_of_dua": 40,
+        "no_of_subcat": 1
+    },
+    {
+        "cat_icon": "ghum",
+        "cat_id": 6,
+        "cat_name_bn": "ঘুম",
+        "id": 9,
+        "no_of_dua": 35,
+        "no_of_subcat": 2
+    },
+    {
+        "cat_icon": "poshak",
+        "cat_id": 7,
+        "cat_name_bn": "কাপড় পরিধান",
+        "id": 10,
+        "no_of_dua": 8,
+        "no_of_subcat": 1
+    },
+    {
+        "cat_icon": "bari",
+        "cat_id": 8,
+        "cat_name_bn": "ঘর-বাড়ি",
+        "id": 11,
+        "no_of_dua": 6,
+        "no_of_subcat": 2
+    },
+    {
+        "cat_icon": "toilet",
+        "cat_id": 9,
+        "cat_name_bn": "টয়লেট",
+        "id": 12,
+        "no_of_dua": 2,
+        "no_of_subcat": 1
+    },
+    {
+        "cat_icon": "azan_ikamot",
+        "cat_id": 10,
+        "cat_name_bn": "আযান ও ইকামত",
+        "id": 13,
+        "no_of_dua": 7,
+        "no_of_subcat": 4
+    },
+    {
+        "cat_icon": "oju",
+        "cat_id": 11,
+        "cat_name_bn": "ওযূ ও গোসল",
+        "id": 14,
+        "no_of_dua": 4,
+        "no_of_subcat": 2
+    },
+    {
+        "cat_icon": "masjid",
+        "cat_id": 12,
+        "cat_name_bn": "মসজিদ",
+        "id": 15,
+        "no_of_dua": 13,
+        "no_of_subcat": 5
+    },
+    {
+        "cat_icon": "salat",
+        "cat_id": 13,
+        "cat_name_bn": "সালাত",
+        "id": 16,
+        "no_of_dua": 102,
+        "no_of_subcat": 17
+    },
+    {
+        "cat_icon": "bitorer_namaz",
+        "cat_id": 14,
+        "cat_name_bn": "বিতর ও অন্যান্য সালাত",
+        "id": 17,
+        "no_of_dua": 33,
+        "no_of_subcat": 6
+    },
+    {
+        "cat_icon": "osusthota",
+        "cat_id": 33,
+        "cat_name_bn": "অসুস্থতা ও চিকিৎসা",
+        "id": 18,
+        "no_of_dua": 43,
+        "no_of_subcat": 3
+    },
+    {
+        "cat_icon": "jin_jadu",
+        "cat_id": 34,
+        "cat_name_bn": "জ্বিন / জাদু ও রোগ",
+        "id": 19,
+        "no_of_dua": 35,
+        "no_of_subcat": 2
+    },
+    {
+        "cat_icon": "isme_ajom",
+        "cat_id": 36,
+        "cat_name_bn": "আল্লাহ্‌র ইসমে আযম",
+        "id": 20,
+        "no_of_dua": 7,
+        "no_of_subcat": 1
+    },
+    {
+        "cat_icon": "towba_istegfar",
+        "cat_id": 21,
+        "cat_name_bn": "তাওবা-ইসতিগফার",
+        "id": 21,
+        "no_of_dua": 46,
+        "no_of_subcat": 4
+    },
+    {
+        "cat_icon": "shoytaner_onisto",
+        "cat_id": 20,
+        "cat_name_bn": "শয়তান থেকে আশ্রয়",
+        "id": 22,
+        "no_of_dua": 26,
+        "no_of_subcat": 6
+    },
+    {
+        "cat_icon": "mrito_janaja",
+        "cat_id": 15,
+        "cat_name_bn": "মৃত / কবর / জানাযা",
+        "id": 23,
+        "no_of_dua": 25,
+        "no_of_subcat": 5
+    },
+    {
+        "cat_icon": "khaddo_panio",
+        "cat_id": 30,
+        "cat_name_bn": "খাদ্য / মেহমানদারি",
+        "id": 24,
+        "no_of_dua": 15,
+        "no_of_subcat": 6
+    },
+    {
+        "cat_icon": "siam_iftar",
+        "cat_id": 16,
+        "cat_name_bn": "সিয়াম ও ইফতার",
+        "id": 25,
+        "no_of_dua": 8,
+        "no_of_subcat": 1
+    },
+    {
+        "cat_icon": "dua_kobuler_somoy",
+        "cat_id": 43,
+        "cat_name_bn": "ঈদ",
+        "id": 26,
+        "no_of_dua": 4,
+        "no_of_subcat": 1
+    },
+    {
+        "cat_icon": "hajj_omra",
+        "cat_id": 18,
+        "cat_name_bn": "হজ্জ ও উমরা",
+        "id": 27,
+        "no_of_dua": 25,
+        "no_of_subcat": 1
+    },
+    {
+        "cat_icon": "korbani",
+        "cat_id": 19,
+        "cat_name_bn": "কুরবানী",
+        "id": 28,
+        "no_of_dua": 5,
+        "no_of_subcat": 1
+    },
+    {
+        "cat_icon": "sofor",
+        "cat_id": 17,
+        "cat_name_bn": "সফর",
+        "id": 29,
+        "no_of_dua": 22,
+        "no_of_subcat": 1
+    },
+    {
+        "cat_icon": "bibaho",
+        "cat_id": 22,
+        "cat_name_bn": "বিবাহ",
+        "id": 30,
+        "no_of_dua": 8,
+        "no_of_subcat": 3
+    },
+    {
+        "cat_icon": "paribarik_dua",
+        "cat_id": 23,
+        "cat_name_bn": "পারিবারিক দোয়া",
+        "id": 31,
+        "no_of_dua": 15,
+        "no_of_subcat": 1
+    },
+    {
+        "cat_icon": "rin",
+        "cat_id": 24,
+        "cat_name_bn": "ঋণ",
+        "id": 32,
+        "no_of_dua": 11,
+        "no_of_subcat": 1
+    },
+    {
+        "cat_icon": "duschinta",
+        "cat_id": 25,
+        "cat_name_bn": "দুশ্চিন্তা ও পেরেশানি",
+        "id": 33,
+        "no_of_dua": 11,
+        "no_of_subcat": 1
+    },
+    {
+        "cat_icon": "shotruta_julum",
+        "cat_id": 26,
+        "cat_name_bn": "শক্রতা / বিপদাপদ / জুলুম",
+        "id": 34,
+        "no_of_dua": 27,
+        "no_of_subcat": 4
+    },
+    {
+        "cat_icon": "ninda_kollan_kamonay",
+        "cat_id": 27,
+        "cat_name_bn": "নিন্দা / কল্যাণ কামনা",
+        "id": 35,
+        "no_of_dua": 16,
+        "no_of_subcat": 2
+    },
+    {
+        "cat_icon": "adob_akhlak",
+        "cat_id": 28,
+        "cat_name_bn": "আদব-শিষ্টাচার",
+        "id": 36,
+        "no_of_dua": 37,
+        "no_of_subcat": 7
+    },
+    {
+        "cat_icon": "boithoke_bosle",
+        "cat_id": 29,
+        "cat_name_bn": "বৈঠকে বসলে",
+        "id": 37,
+        "no_of_dua": 5,
+        "no_of_subcat": 1
+    },
+    {
+        "cat_icon": "poshu_pakhi",
+        "cat_id": 31,
+        "cat_name_bn": "পশু-পাখি",
+        "id": 38,
+        "no_of_dua": 6,
+        "no_of_subcat": 1
+    },
+    {
+        "cat_icon": "jhor_bristi",
+        "cat_id": 32,
+        "cat_name_bn": "ঝড় / বৃষ্টি / প্রকৃতি",
+        "id": 39,
+        "no_of_dua": 21,
+        "no_of_subcat": 1
+    },
+    {
+        "cat_icon": "quraner_dua",
+        "cat_id": 35,
+        "cat_name_bn": "কুরআনের দোয়া সমূহ",
+        "id": 40,
+        "no_of_dua": 84,
+        "no_of_subcat": 4
+    },
+    {
+        "cat_icon": "nobi_rasuler_dua",
+        "cat_id": 37,
+        "cat_name_bn": "নবী-রাসূলগণের দোয়া",
+        "id": 41,
+        "no_of_dua": 11,
+        "no_of_subcat": 1
+    },
+    {
+        "cat_icon": "hadiser_dua",
+        "cat_id": 38,
+        "cat_name_bn": "হাদীসের দোয়া",
+        "id": 42,
+        "no_of_dua": 91,
+        "no_of_subcat": 1
+    },
+    {
+        "cat_icon": "nobi_rasuler_dua",
+        "cat_id": 39,
+        "cat_name_bn": "রাসূল (ﷺ) ও সাহাবীগণ",
+        "id": 43,
+        "no_of_dua": 18,
+        "no_of_subcat": 1
+    },
+    {
+        "cat_icon": "bibidho",
+        "cat_id": 41,
+        "cat_name_bn": "বিবিধ দোয়া",
+        "id": 44,
+        "no_of_dua": 27,
+        "no_of_subcat": 1
+    }
+]

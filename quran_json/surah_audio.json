@@ -1,0 +1,2738 @@
+[
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/001.mp3",
+        "id": 1,
+        "reciter_id": 1,
+        "surah_id": 1
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/002.mp3",
+        "id": 2,
+        "reciter_id": 1,
+        "surah_id": 2
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/003.mp3",
+        "id": 3,
+        "reciter_id": 1,
+        "surah_id": 3
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/004.mp3",
+        "id": 4,
+        "reciter_id": 1,
+        "surah_id": 4
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/005.mp3",
+        "id": 5,
+        "reciter_id": 1,
+        "surah_id": 5
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/006.mp3",
+        "id": 6,
+        "reciter_id": 1,
+        "surah_id": 6
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/007.mp3",
+        "id": 7,
+        "reciter_id": 1,
+        "surah_id": 7
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/008.mp3",
+        "id": 8,
+        "reciter_id": 1,
+        "surah_id": 8
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/009.mp3",
+        "id": 9,
+        "reciter_id": 1,
+        "surah_id": 9
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/010.mp3",
+        "id": 10,
+        "reciter_id": 1,
+        "surah_id": 10
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/011.mp3",
+        "id": 11,
+        "reciter_id": 1,
+        "surah_id": 11
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/012.mp3",
+        "id": 12,
+        "reciter_id": 1,
+        "surah_id": 12
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/013.mp3",
+        "id": 13,
+        "reciter_id": 1,
+        "surah_id": 13
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/014.mp3",
+        "id": 14,
+        "reciter_id": 1,
+        "surah_id": 14
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/015.mp3",
+        "id": 15,
+        "reciter_id": 1,
+        "surah_id": 15
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/016.mp3",
+        "id": 16,
+        "reciter_id": 1,
+        "surah_id": 16
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/017.mp3",
+        "id": 17,
+        "reciter_id": 1,
+        "surah_id": 17
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/018.mp3",
+        "id": 18,
+        "reciter_id": 1,
+        "surah_id": 18
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/019.mp3",
+        "id": 19,
+        "reciter_id": 1,
+        "surah_id": 19
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/020.mp3",
+        "id": 20,
+        "reciter_id": 1,
+        "surah_id": 20
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/021.mp3",
+        "id": 21,
+        "reciter_id": 1,
+        "surah_id": 21
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/022.mp3",
+        "id": 22,
+        "reciter_id": 1,
+        "surah_id": 22
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/023.mp3",
+        "id": 23,
+        "reciter_id": 1,
+        "surah_id": 23
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/024.mp3",
+        "id": 24,
+        "reciter_id": 1,
+        "surah_id": 24
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/025.mp3",
+        "id": 25,
+        "reciter_id": 1,
+        "surah_id": 25
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/026.mp3",
+        "id": 26,
+        "reciter_id": 1,
+        "surah_id": 26
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/027.mp3",
+        "id": 27,
+        "reciter_id": 1,
+        "surah_id": 27
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/028.mp3",
+        "id": 28,
+        "reciter_id": 1,
+        "surah_id": 28
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/029.mp3",
+        "id": 29,
+        "reciter_id": 1,
+        "surah_id": 29
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/030.mp3",
+        "id": 30,
+        "reciter_id": 1,
+        "surah_id": 30
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/031.mp3",
+        "id": 31,
+        "reciter_id": 1,
+        "surah_id": 31
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/032.mp3",
+        "id": 32,
+        "reciter_id": 1,
+        "surah_id": 32
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/033.mp3",
+        "id": 33,
+        "reciter_id": 1,
+        "surah_id": 33
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/034.mp3",
+        "id": 34,
+        "reciter_id": 1,
+        "surah_id": 34
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/035.mp3",
+        "id": 35,
+        "reciter_id": 1,
+        "surah_id": 35
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/036.mp3",
+        "id": 36,
+        "reciter_id": 1,
+        "surah_id": 36
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/037.mp3",
+        "id": 37,
+        "reciter_id": 1,
+        "surah_id": 37
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/038.mp3",
+        "id": 38,
+        "reciter_id": 1,
+        "surah_id": 38
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/039.mp3",
+        "id": 39,
+        "reciter_id": 1,
+        "surah_id": 39
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/040.mp3",
+        "id": 40,
+        "reciter_id": 1,
+        "surah_id": 40
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/041.mp3",
+        "id": 41,
+        "reciter_id": 1,
+        "surah_id": 41
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/042.mp3",
+        "id": 42,
+        "reciter_id": 1,
+        "surah_id": 42
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/043.mp3",
+        "id": 43,
+        "reciter_id": 1,
+        "surah_id": 43
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/044.mp3",
+        "id": 44,
+        "reciter_id": 1,
+        "surah_id": 44
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/045.mp3",
+        "id": 45,
+        "reciter_id": 1,
+        "surah_id": 45
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/046.mp3",
+        "id": 46,
+        "reciter_id": 1,
+        "surah_id": 46
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/047.mp3",
+        "id": 47,
+        "reciter_id": 1,
+        "surah_id": 47
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/048.mp3",
+        "id": 48,
+        "reciter_id": 1,
+        "surah_id": 48
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/049.mp3",
+        "id": 49,
+        "reciter_id": 1,
+        "surah_id": 49
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/050.mp3",
+        "id": 50,
+        "reciter_id": 1,
+        "surah_id": 50
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/051.mp3",
+        "id": 51,
+        "reciter_id": 1,
+        "surah_id": 51
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/052.mp3",
+        "id": 52,
+        "reciter_id": 1,
+        "surah_id": 52
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/053.mp3",
+        "id": 53,
+        "reciter_id": 1,
+        "surah_id": 53
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/054.mp3",
+        "id": 54,
+        "reciter_id": 1,
+        "surah_id": 54
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/055.mp3",
+        "id": 55,
+        "reciter_id": 1,
+        "surah_id": 55
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/056.mp3",
+        "id": 56,
+        "reciter_id": 1,
+        "surah_id": 56
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/057.mp3",
+        "id": 57,
+        "reciter_id": 1,
+        "surah_id": 57
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/058.mp3",
+        "id": 58,
+        "reciter_id": 1,
+        "surah_id": 58
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/059.mp3",
+        "id": 59,
+        "reciter_id": 1,
+        "surah_id": 59
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/060.mp3",
+        "id": 60,
+        "reciter_id": 1,
+        "surah_id": 60
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/061.mp3",
+        "id": 61,
+        "reciter_id": 1,
+        "surah_id": 61
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/062.mp3",
+        "id": 62,
+        "reciter_id": 1,
+        "surah_id": 62
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/063.mp3",
+        "id": 63,
+        "reciter_id": 1,
+        "surah_id": 63
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/064.mp3",
+        "id": 64,
+        "reciter_id": 1,
+        "surah_id": 64
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/065.mp3",
+        "id": 65,
+        "reciter_id": 1,
+        "surah_id": 65
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/066.mp3",
+        "id": 66,
+        "reciter_id": 1,
+        "surah_id": 66
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/067.mp3",
+        "id": 67,
+        "reciter_id": 1,
+        "surah_id": 67
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/068.mp3",
+        "id": 68,
+        "reciter_id": 1,
+        "surah_id": 68
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/069.mp3",
+        "id": 69,
+        "reciter_id": 1,
+        "surah_id": 69
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/070.mp3",
+        "id": 70,
+        "reciter_id": 1,
+        "surah_id": 70
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/071.mp3",
+        "id": 71,
+        "reciter_id": 1,
+        "surah_id": 71
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/072.mp3",
+        "id": 72,
+        "reciter_id": 1,
+        "surah_id": 72
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/073.mp3",
+        "id": 73,
+        "reciter_id": 1,
+        "surah_id": 73
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/074.mp3",
+        "id": 74,
+        "reciter_id": 1,
+        "surah_id": 74
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/075.mp3",
+        "id": 75,
+        "reciter_id": 1,
+        "surah_id": 75
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/076.mp3",
+        "id": 76,
+        "reciter_id": 1,
+        "surah_id": 76
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/077.mp3",
+        "id": 77,
+        "reciter_id": 1,
+        "surah_id": 77
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/078.mp3",
+        "id": 78,
+        "reciter_id": 1,
+        "surah_id": 78
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/079.mp3",
+        "id": 79,
+        "reciter_id": 1,
+        "surah_id": 79
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/080.mp3",
+        "id": 80,
+        "reciter_id": 1,
+        "surah_id": 80
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/081.mp3",
+        "id": 81,
+        "reciter_id": 1,
+        "surah_id": 81
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/082.mp3",
+        "id": 82,
+        "reciter_id": 1,
+        "surah_id": 82
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/083.mp3",
+        "id": 83,
+        "reciter_id": 1,
+        "surah_id": 83
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/084.mp3",
+        "id": 84,
+        "reciter_id": 1,
+        "surah_id": 84
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/085.mp3",
+        "id": 85,
+        "reciter_id": 1,
+        "surah_id": 85
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/086.mp3",
+        "id": 86,
+        "reciter_id": 1,
+        "surah_id": 86
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/087.mp3",
+        "id": 87,
+        "reciter_id": 1,
+        "surah_id": 87
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/088.mp3",
+        "id": 88,
+        "reciter_id": 1,
+        "surah_id": 88
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/089.mp3",
+        "id": 89,
+        "reciter_id": 1,
+        "surah_id": 89
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/090.mp3",
+        "id": 90,
+        "reciter_id": 1,
+        "surah_id": 90
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/091.mp3",
+        "id": 91,
+        "reciter_id": 1,
+        "surah_id": 91
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/092.mp3",
+        "id": 92,
+        "reciter_id": 1,
+        "surah_id": 92
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/093.mp3",
+        "id": 93,
+        "reciter_id": 1,
+        "surah_id": 93
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/094.mp3",
+        "id": 94,
+        "reciter_id": 1,
+        "surah_id": 94
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/095.mp3",
+        "id": 95,
+        "reciter_id": 1,
+        "surah_id": 95
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/096.mp3",
+        "id": 96,
+        "reciter_id": 1,
+        "surah_id": 96
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/097.mp3",
+        "id": 97,
+        "reciter_id": 1,
+        "surah_id": 97
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/098.mp3",
+        "id": 98,
+        "reciter_id": 1,
+        "surah_id": 98
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/099.mp3",
+        "id": 99,
+        "reciter_id": 1,
+        "surah_id": 99
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/100.mp3",
+        "id": 100,
+        "reciter_id": 1,
+        "surah_id": 100
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/101.mp3",
+        "id": 101,
+        "reciter_id": 1,
+        "surah_id": 101
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/102.mp3",
+        "id": 102,
+        "reciter_id": 1,
+        "surah_id": 102
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/103.mp3",
+        "id": 103,
+        "reciter_id": 1,
+        "surah_id": 103
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/104.mp3",
+        "id": 104,
+        "reciter_id": 1,
+        "surah_id": 104
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/105.mp3",
+        "id": 105,
+        "reciter_id": 1,
+        "surah_id": 105
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/106.mp3",
+        "id": 106,
+        "reciter_id": 1,
+        "surah_id": 106
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/107.mp3",
+        "id": 107,
+        "reciter_id": 1,
+        "surah_id": 107
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/108.mp3",
+        "id": 108,
+        "reciter_id": 1,
+        "surah_id": 108
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/109.mp3",
+        "id": 109,
+        "reciter_id": 1,
+        "surah_id": 109
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/110.mp3",
+        "id": 110,
+        "reciter_id": 1,
+        "surah_id": 110
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/111.mp3",
+        "id": 111,
+        "reciter_id": 1,
+        "surah_id": 111
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/112.mp3",
+        "id": 112,
+        "reciter_id": 1,
+        "surah_id": 112
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/113.mp3",
+        "id": 113,
+        "reciter_id": 1,
+        "surah_id": 113
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/114.mp3",
+        "id": 114,
+        "reciter_id": 1,
+        "surah_id": 114
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/001.mp3",
+        "id": 115,
+        "reciter_id": 2,
+        "surah_id": 1
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/002.mp3",
+        "id": 116,
+        "reciter_id": 2,
+        "surah_id": 2
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/003.mp3",
+        "id": 117,
+        "reciter_id": 2,
+        "surah_id": 3
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/004.mp3",
+        "id": 118,
+        "reciter_id": 2,
+        "surah_id": 4
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/005.mp3",
+        "id": 119,
+        "reciter_id": 2,
+        "surah_id": 5
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/006.mp3",
+        "id": 120,
+        "reciter_id": 2,
+        "surah_id": 6
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/007.mp3",
+        "id": 121,
+        "reciter_id": 2,
+        "surah_id": 7
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/008.mp3",
+        "id": 122,
+        "reciter_id": 2,
+        "surah_id": 8
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/009.mp3",
+        "id": 123,
+        "reciter_id": 2,
+        "surah_id": 9
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+        "id": 124,
+        "reciter_id": 2,
+        "surah_id": 10
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/011.mp3",
+        "id": 125,
+        "reciter_id": 2,
+        "surah_id": 11
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/012.mp3",
+        "id": 126,
+        "reciter_id": 2,
+        "surah_id": 12
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/013.mp3",
+        "id": 127,
+        "reciter_id": 2,
+        "surah_id": 13
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/014.mp3",
+        "id": 128,
+        "reciter_id": 2,
+        "surah_id": 14
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/015.mp3",
+        "id": 129,
+        "reciter_id": 2,
+        "surah_id": 15
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/016.mp3",
+        "id": 130,
+        "reciter_id": 2,
+        "surah_id": 16
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/017.mp3",
+        "id": 131,
+        "reciter_id": 2,
+        "surah_id": 17
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/018.mp3",
+        "id": 132,
+        "reciter_id": 2,
+        "surah_id": 18
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/019.mp3",
+        "id": 133,
+        "reciter_id": 2,
+        "surah_id": 19
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/020.mp3",
+        "id": 134,
+        "reciter_id": 2,
+        "surah_id": 20
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/021.mp3",
+        "id": 135,
+        "reciter_id": 2,
+        "surah_id": 21
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/022.mp3",
+        "id": 136,
+        "reciter_id": 2,
+        "surah_id": 22
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/023.mp3",
+        "id": 137,
+        "reciter_id": 2,
+        "surah_id": 23
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/024.mp3",
+        "id": 138,
+        "reciter_id": 2,
+        "surah_id": 24
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/025.mp3",
+        "id": 139,
+        "reciter_id": 2,
+        "surah_id": 25
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/026.mp3",
+        "id": 140,
+        "reciter_id": 2,
+        "surah_id": 26
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/027.mp3",
+        "id": 141,
+        "reciter_id": 2,
+        "surah_id": 27
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/028.mp3",
+        "id": 142,
+        "reciter_id": 2,
+        "surah_id": 28
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/029.mp3",
+        "id": 143,
+        "reciter_id": 2,
+        "surah_id": 29
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/030.mp3",
+        "id": 144,
+        "reciter_id": 2,
+        "surah_id": 30
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/031.mp3",
+        "id": 145,
+        "reciter_id": 2,
+        "surah_id": 31
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/032.mp3",
+        "id": 146,
+        "reciter_id": 2,
+        "surah_id": 32
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/033.mp3",
+        "id": 147,
+        "reciter_id": 2,
+        "surah_id": 33
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/034.mp3",
+        "id": 148,
+        "reciter_id": 2,
+        "surah_id": 34
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/035.mp3",
+        "id": 149,
+        "reciter_id": 2,
+        "surah_id": 35
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/036.mp3",
+        "id": 150,
+        "reciter_id": 2,
+        "surah_id": 36
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/037.mp3",
+        "id": 151,
+        "reciter_id": 2,
+        "surah_id": 37
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/038.mp3",
+        "id": 152,
+        "reciter_id": 2,
+        "surah_id": 38
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/039.mp3",
+        "id": 153,
+        "reciter_id": 2,
+        "surah_id": 39
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/040.mp3",
+        "id": 154,
+        "reciter_id": 2,
+        "surah_id": 40
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/041.mp3",
+        "id": 155,
+        "reciter_id": 2,
+        "surah_id": 41
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/042.mp3",
+        "id": 156,
+        "reciter_id": 2,
+        "surah_id": 42
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/043.mp3",
+        "id": 157,
+        "reciter_id": 2,
+        "surah_id": 43
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/044.mp3",
+        "id": 158,
+        "reciter_id": 2,
+        "surah_id": 44
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/045.mp3",
+        "id": 159,
+        "reciter_id": 2,
+        "surah_id": 45
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/046.mp3",
+        "id": 160,
+        "reciter_id": 2,
+        "surah_id": 46
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/047.mp3",
+        "id": 161,
+        "reciter_id": 2,
+        "surah_id": 47
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/048.mp3",
+        "id": 162,
+        "reciter_id": 2,
+        "surah_id": 48
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/049.mp3",
+        "id": 163,
+        "reciter_id": 2,
+        "surah_id": 49
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/050.mp3",
+        "id": 164,
+        "reciter_id": 2,
+        "surah_id": 50
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/051.mp3",
+        "id": 165,
+        "reciter_id": 2,
+        "surah_id": 51
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/052.mp3",
+        "id": 166,
+        "reciter_id": 2,
+        "surah_id": 52
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/053.mp3",
+        "id": 167,
+        "reciter_id": 2,
+        "surah_id": 53
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/054.mp3",
+        "id": 168,
+        "reciter_id": 2,
+        "surah_id": 54
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/055.mp3",
+        "id": 169,
+        "reciter_id": 2,
+        "surah_id": 55
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/056.mp3",
+        "id": 170,
+        "reciter_id": 2,
+        "surah_id": 56
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/057.mp3",
+        "id": 171,
+        "reciter_id": 2,
+        "surah_id": 57
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/058.mp3",
+        "id": 172,
+        "reciter_id": 2,
+        "surah_id": 58
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/059.mp3",
+        "id": 173,
+        "reciter_id": 2,
+        "surah_id": 59
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/060.mp3",
+        "id": 174,
+        "reciter_id": 2,
+        "surah_id": 60
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/061.mp3",
+        "id": 175,
+        "reciter_id": 2,
+        "surah_id": 61
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/062.mp3",
+        "id": 176,
+        "reciter_id": 2,
+        "surah_id": 62
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/063.mp3",
+        "id": 177,
+        "reciter_id": 2,
+        "surah_id": 63
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/064.mp3",
+        "id": 178,
+        "reciter_id": 2,
+        "surah_id": 64
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/065.mp3",
+        "id": 179,
+        "reciter_id": 2,
+        "surah_id": 65
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/066.mp3",
+        "id": 180,
+        "reciter_id": 2,
+        "surah_id": 66
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/067.mp3",
+        "id": 181,
+        "reciter_id": 2,
+        "surah_id": 67
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/068.mp3",
+        "id": 182,
+        "reciter_id": 2,
+        "surah_id": 68
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/069.mp3",
+        "id": 183,
+        "reciter_id": 2,
+        "surah_id": 69
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/070.mp3",
+        "id": 184,
+        "reciter_id": 2,
+        "surah_id": 70
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/071.mp3",
+        "id": 185,
+        "reciter_id": 2,
+        "surah_id": 71
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/072.mp3",
+        "id": 186,
+        "reciter_id": 2,
+        "surah_id": 72
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/073.mp3",
+        "id": 187,
+        "reciter_id": 2,
+        "surah_id": 73
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/074.mp3",
+        "id": 188,
+        "reciter_id": 2,
+        "surah_id": 74
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/075.mp3",
+        "id": 189,
+        "reciter_id": 2,
+        "surah_id": 75
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/076.mp3",
+        "id": 190,
+        "reciter_id": 2,
+        "surah_id": 76
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/077.mp3",
+        "id": 191,
+        "reciter_id": 2,
+        "surah_id": 77
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/078.mp3",
+        "id": 192,
+        "reciter_id": 2,
+        "surah_id": 78
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/079.mp3",
+        "id": 193,
+        "reciter_id": 2,
+        "surah_id": 79
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/080.mp3",
+        "id": 194,
+        "reciter_id": 2,
+        "surah_id": 80
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/081.mp3",
+        "id": 195,
+        "reciter_id": 2,
+        "surah_id": 81
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/082.mp3",
+        "id": 196,
+        "reciter_id": 2,
+        "surah_id": 82
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/083.mp3",
+        "id": 197,
+        "reciter_id": 2,
+        "surah_id": 83
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/084.mp3",
+        "id": 198,
+        "reciter_id": 2,
+        "surah_id": 84
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/085.mp3",
+        "id": 199,
+        "reciter_id": 2,
+        "surah_id": 85
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/086.mp3",
+        "id": 200,
+        "reciter_id": 2,
+        "surah_id": 86
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/087.mp3",
+        "id": 201,
+        "reciter_id": 2,
+        "surah_id": 87
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/088.mp3",
+        "id": 202,
+        "reciter_id": 2,
+        "surah_id": 88
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/089.mp3",
+        "id": 203,
+        "reciter_id": 2,
+        "surah_id": 89
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/090.mp3",
+        "id": 204,
+        "reciter_id": 2,
+        "surah_id": 90
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/091.mp3",
+        "id": 205,
+        "reciter_id": 2,
+        "surah_id": 91
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/092.mp3",
+        "id": 206,
+        "reciter_id": 2,
+        "surah_id": 92
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/093.mp3",
+        "id": 207,
+        "reciter_id": 2,
+        "surah_id": 93
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/094.mp3",
+        "id": 208,
+        "reciter_id": 2,
+        "surah_id": 94
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/095.mp3",
+        "id": 209,
+        "reciter_id": 2,
+        "surah_id": 95
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/096.mp3",
+        "id": 210,
+        "reciter_id": 2,
+        "surah_id": 96
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/097.mp3",
+        "id": 211,
+        "reciter_id": 2,
+        "surah_id": 97
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/098.mp3",
+        "id": 212,
+        "reciter_id": 2,
+        "surah_id": 98
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/099.mp3",
+        "id": 213,
+        "reciter_id": 2,
+        "surah_id": 99
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/100.mp3",
+        "id": 214,
+        "reciter_id": 2,
+        "surah_id": 100
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/101.mp3",
+        "id": 215,
+        "reciter_id": 2,
+        "surah_id": 101
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/102.mp3",
+        "id": 216,
+        "reciter_id": 2,
+        "surah_id": 102
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/103.mp3",
+        "id": 217,
+        "reciter_id": 2,
+        "surah_id": 103
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/104.mp3",
+        "id": 218,
+        "reciter_id": 2,
+        "surah_id": 104
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/105.mp3",
+        "id": 219,
+        "reciter_id": 2,
+        "surah_id": 105
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/106.mp3",
+        "id": 220,
+        "reciter_id": 2,
+        "surah_id": 106
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/107.mp3",
+        "id": 221,
+        "reciter_id": 2,
+        "surah_id": 107
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/108.mp3",
+        "id": 222,
+        "reciter_id": 2,
+        "surah_id": 108
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/109.mp3",
+        "id": 223,
+        "reciter_id": 2,
+        "surah_id": 109
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/110.mp3",
+        "id": 224,
+        "reciter_id": 2,
+        "surah_id": 110
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/111.mp3",
+        "id": 225,
+        "reciter_id": 2,
+        "surah_id": 111
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/112.mp3",
+        "id": 226,
+        "reciter_id": 2,
+        "surah_id": 112
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/113.mp3",
+        "id": 227,
+        "reciter_id": 2,
+        "surah_id": 113
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/114.mp3",
+        "id": 228,
+        "reciter_id": 2,
+        "surah_id": 114
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/001.mp3",
+        "id": 229,
+        "reciter_id": 3,
+        "surah_id": 1
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/002.mp3",
+        "id": 230,
+        "reciter_id": 3,
+        "surah_id": 2
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/003.mp3",
+        "id": 231,
+        "reciter_id": 3,
+        "surah_id": 3
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/004.mp3",
+        "id": 232,
+        "reciter_id": 3,
+        "surah_id": 4
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/005.mp3",
+        "id": 233,
+        "reciter_id": 3,
+        "surah_id": 5
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/006.mp3",
+        "id": 234,
+        "reciter_id": 3,
+        "surah_id": 6
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/007.mp3",
+        "id": 235,
+        "reciter_id": 3,
+        "surah_id": 7
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/008.mp3",
+        "id": 236,
+        "reciter_id": 3,
+        "surah_id": 8
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/009.mp3",
+        "id": 237,
+        "reciter_id": 3,
+        "surah_id": 9
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/010.mp3",
+        "id": 238,
+        "reciter_id": 3,
+        "surah_id": 10
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/011.mp3",
+        "id": 239,
+        "reciter_id": 3,
+        "surah_id": 11
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/012.mp3",
+        "id": 240,
+        "reciter_id": 3,
+        "surah_id": 12
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/013.mp3",
+        "id": 241,
+        "reciter_id": 3,
+        "surah_id": 13
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/014.mp3",
+        "id": 242,
+        "reciter_id": 3,
+        "surah_id": 14
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/015.mp3",
+        "id": 243,
+        "reciter_id": 3,
+        "surah_id": 15
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/016.mp3",
+        "id": 244,
+        "reciter_id": 3,
+        "surah_id": 16
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/017.mp3",
+        "id": 245,
+        "reciter_id": 3,
+        "surah_id": 17
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/018.mp3",
+        "id": 246,
+        "reciter_id": 3,
+        "surah_id": 18
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/019.mp3",
+        "id": 247,
+        "reciter_id": 3,
+        "surah_id": 19
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/020.mp3",
+        "id": 248,
+        "reciter_id": 3,
+        "surah_id": 20
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/021.mp3",
+        "id": 249,
+        "reciter_id": 3,
+        "surah_id": 21
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/022.mp3",
+        "id": 250,
+        "reciter_id": 3,
+        "surah_id": 22
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/023.mp3",
+        "id": 251,
+        "reciter_id": 3,
+        "surah_id": 23
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/024.mp3",
+        "id": 252,
+        "reciter_id": 3,
+        "surah_id": 24
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/025.mp3",
+        "id": 253,
+        "reciter_id": 3,
+        "surah_id": 25
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/026.mp3",
+        "id": 254,
+        "reciter_id": 3,
+        "surah_id": 26
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/027.mp3",
+        "id": 255,
+        "reciter_id": 3,
+        "surah_id": 27
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/028.mp3",
+        "id": 256,
+        "reciter_id": 3,
+        "surah_id": 28
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/029.mp3",
+        "id": 257,
+        "reciter_id": 3,
+        "surah_id": 29
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/030.mp3",
+        "id": 258,
+        "reciter_id": 3,
+        "surah_id": 30
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/031.mp3",
+        "id": 259,
+        "reciter_id": 3,
+        "surah_id": 31
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/032.mp3",
+        "id": 260,
+        "reciter_id": 3,
+        "surah_id": 32
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/033.mp3",
+        "id": 261,
+        "reciter_id": 3,
+        "surah_id": 33
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/034.mp3",
+        "id": 262,
+        "reciter_id": 3,
+        "surah_id": 34
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/035.mp3",
+        "id": 263,
+        "reciter_id": 3,
+        "surah_id": 35
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/036.mp3",
+        "id": 264,
+        "reciter_id": 3,
+        "surah_id": 36
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/037.mp3",
+        "id": 265,
+        "reciter_id": 3,
+        "surah_id": 37
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/038.mp3",
+        "id": 266,
+        "reciter_id": 3,
+        "surah_id": 38
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/039.mp3",
+        "id": 267,
+        "reciter_id": 3,
+        "surah_id": 39
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/040.mp3",
+        "id": 268,
+        "reciter_id": 3,
+        "surah_id": 40
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/041.mp3",
+        "id": 269,
+        "reciter_id": 3,
+        "surah_id": 41
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/042.mp3",
+        "id": 270,
+        "reciter_id": 3,
+        "surah_id": 42
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/043.mp3",
+        "id": 271,
+        "reciter_id": 3,
+        "surah_id": 43
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/044.mp3",
+        "id": 272,
+        "reciter_id": 3,
+        "surah_id": 44
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/045.mp3",
+        "id": 273,
+        "reciter_id": 3,
+        "surah_id": 45
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/046.mp3",
+        "id": 274,
+        "reciter_id": 3,
+        "surah_id": 46
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/047.mp3",
+        "id": 275,
+        "reciter_id": 3,
+        "surah_id": 47
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/048.mp3",
+        "id": 276,
+        "reciter_id": 3,
+        "surah_id": 48
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/049.mp3",
+        "id": 277,
+        "reciter_id": 3,
+        "surah_id": 49
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/050.mp3",
+        "id": 278,
+        "reciter_id": 3,
+        "surah_id": 50
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/051.mp3",
+        "id": 279,
+        "reciter_id": 3,
+        "surah_id": 51
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/052.mp3",
+        "id": 280,
+        "reciter_id": 3,
+        "surah_id": 52
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/053.mp3",
+        "id": 281,
+        "reciter_id": 3,
+        "surah_id": 53
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/054.mp3",
+        "id": 282,
+        "reciter_id": 3,
+        "surah_id": 54
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/055.mp3",
+        "id": 283,
+        "reciter_id": 3,
+        "surah_id": 55
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/056.mp3",
+        "id": 284,
+        "reciter_id": 3,
+        "surah_id": 56
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/057.mp3",
+        "id": 285,
+        "reciter_id": 3,
+        "surah_id": 57
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/058.mp3",
+        "id": 286,
+        "reciter_id": 3,
+        "surah_id": 58
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/059.mp3",
+        "id": 287,
+        "reciter_id": 3,
+        "surah_id": 59
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/060.mp3",
+        "id": 288,
+        "reciter_id": 3,
+        "surah_id": 60
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/061.mp3",
+        "id": 289,
+        "reciter_id": 3,
+        "surah_id": 61
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/062.mp3",
+        "id": 290,
+        "reciter_id": 3,
+        "surah_id": 62
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/063.mp3",
+        "id": 291,
+        "reciter_id": 3,
+        "surah_id": 63
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/064.mp3",
+        "id": 292,
+        "reciter_id": 3,
+        "surah_id": 64
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/065.mp3",
+        "id": 293,
+        "reciter_id": 3,
+        "surah_id": 65
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/066.mp3",
+        "id": 294,
+        "reciter_id": 3,
+        "surah_id": 66
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/067.mp3",
+        "id": 295,
+        "reciter_id": 3,
+        "surah_id": 67
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/068.mp3",
+        "id": 296,
+        "reciter_id": 3,
+        "surah_id": 68
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/069.mp3",
+        "id": 297,
+        "reciter_id": 3,
+        "surah_id": 69
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/070.mp3",
+        "id": 298,
+        "reciter_id": 3,
+        "surah_id": 70
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/071.mp3",
+        "id": 299,
+        "reciter_id": 3,
+        "surah_id": 71
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/072.mp3",
+        "id": 300,
+        "reciter_id": 3,
+        "surah_id": 72
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/073.mp3",
+        "id": 301,
+        "reciter_id": 3,
+        "surah_id": 73
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/074.mp3",
+        "id": 302,
+        "reciter_id": 3,
+        "surah_id": 74
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/075.mp3",
+        "id": 303,
+        "reciter_id": 3,
+        "surah_id": 75
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/076.mp3",
+        "id": 304,
+        "reciter_id": 3,
+        "surah_id": 76
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/077.mp3",
+        "id": 305,
+        "reciter_id": 3,
+        "surah_id": 77
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/078.mp3",
+        "id": 306,
+        "reciter_id": 3,
+        "surah_id": 78
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/079.mp3",
+        "id": 307,
+        "reciter_id": 3,
+        "surah_id": 79
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/080.mp3",
+        "id": 308,
+        "reciter_id": 3,
+        "surah_id": 80
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/081.mp3",
+        "id": 309,
+        "reciter_id": 3,
+        "surah_id": 81
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/082.mp3",
+        "id": 310,
+        "reciter_id": 3,
+        "surah_id": 82
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/083.mp3",
+        "id": 311,
+        "reciter_id": 3,
+        "surah_id": 83
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/084.mp3",
+        "id": 312,
+        "reciter_id": 3,
+        "surah_id": 84
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/085.mp3",
+        "id": 313,
+        "reciter_id": 3,
+        "surah_id": 85
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/086.mp3",
+        "id": 314,
+        "reciter_id": 3,
+        "surah_id": 86
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/087.mp3",
+        "id": 315,
+        "reciter_id": 3,
+        "surah_id": 87
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/088.mp3",
+        "id": 316,
+        "reciter_id": 3,
+        "surah_id": 88
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/089.mp3",
+        "id": 317,
+        "reciter_id": 3,
+        "surah_id": 89
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/090.mp3",
+        "id": 318,
+        "reciter_id": 3,
+        "surah_id": 90
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/091.mp3",
+        "id": 319,
+        "reciter_id": 3,
+        "surah_id": 91
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/092.mp3",
+        "id": 320,
+        "reciter_id": 3,
+        "surah_id": 92
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/093.mp3",
+        "id": 321,
+        "reciter_id": 3,
+        "surah_id": 93
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/094.mp3",
+        "id": 322,
+        "reciter_id": 3,
+        "surah_id": 94
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/095.mp3",
+        "id": 323,
+        "reciter_id": 3,
+        "surah_id": 95
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/096.mp3",
+        "id": 324,
+        "reciter_id": 3,
+        "surah_id": 96
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/097.mp3",
+        "id": 325,
+        "reciter_id": 3,
+        "surah_id": 97
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/098.mp3",
+        "id": 326,
+        "reciter_id": 3,
+        "surah_id": 98
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/099.mp3",
+        "id": 327,
+        "reciter_id": 3,
+        "surah_id": 99
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/100.mp3",
+        "id": 328,
+        "reciter_id": 3,
+        "surah_id": 100
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/101.mp3",
+        "id": 329,
+        "reciter_id": 3,
+        "surah_id": 101
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/102.mp3",
+        "id": 330,
+        "reciter_id": 3,
+        "surah_id": 102
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/103.mp3",
+        "id": 331,
+        "reciter_id": 3,
+        "surah_id": 103
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/104.mp3",
+        "id": 332,
+        "reciter_id": 3,
+        "surah_id": 104
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/105.mp3",
+        "id": 333,
+        "reciter_id": 3,
+        "surah_id": 105
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/106.mp3",
+        "id": 334,
+        "reciter_id": 3,
+        "surah_id": 106
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/107.mp3",
+        "id": 335,
+        "reciter_id": 3,
+        "surah_id": 107
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/108.mp3",
+        "id": 336,
+        "reciter_id": 3,
+        "surah_id": 108
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/109.mp3",
+        "id": 337,
+        "reciter_id": 3,
+        "surah_id": 109
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/110.mp3",
+        "id": 338,
+        "reciter_id": 3,
+        "surah_id": 110
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/111.mp3",
+        "id": 339,
+        "reciter_id": 3,
+        "surah_id": 111
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/112.mp3",
+        "id": 340,
+        "reciter_id": 3,
+        "surah_id": 112
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/113.mp3",
+        "id": 341,
+        "reciter_id": 3,
+        "surah_id": 113
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/abdul_basit_murattal/114.mp3",
+        "id": 342,
+        "reciter_id": 3,
+        "surah_id": 114
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/001.mp3",
+        "id": 343,
+        "reciter_id": 4,
+        "surah_id": 1
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/002.mp3",
+        "id": 344,
+        "reciter_id": 4,
+        "surah_id": 2
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/003.mp3",
+        "id": 345,
+        "reciter_id": 4,
+        "surah_id": 3
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/004.mp3",
+        "id": 346,
+        "reciter_id": 4,
+        "surah_id": 4
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/005.mp3",
+        "id": 347,
+        "reciter_id": 4,
+        "surah_id": 5
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/006.mp3",
+        "id": 348,
+        "reciter_id": 4,
+        "surah_id": 6
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/007.mp3",
+        "id": 349,
+        "reciter_id": 4,
+        "surah_id": 7
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/008.mp3",
+        "id": 350,
+        "reciter_id": 4,
+        "surah_id": 8
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/009.mp3",
+        "id": 351,
+        "reciter_id": 4,
+        "surah_id": 9
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/010.mp3",
+        "id": 352,
+        "reciter_id": 4,
+        "surah_id": 10
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/011.mp3",
+        "id": 353,
+        "reciter_id": 4,
+        "surah_id": 11
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/012.mp3",
+        "id": 354,
+        "reciter_id": 4,
+        "surah_id": 12
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/013.mp3",
+        "id": 355,
+        "reciter_id": 4,
+        "surah_id": 13
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/014.mp3",
+        "id": 356,
+        "reciter_id": 4,
+        "surah_id": 14
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/015.mp3",
+        "id": 357,
+        "reciter_id": 4,
+        "surah_id": 15
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/016.mp3",
+        "id": 358,
+        "reciter_id": 4,
+        "surah_id": 16
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/017.mp3",
+        "id": 359,
+        "reciter_id": 4,
+        "surah_id": 17
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/018.mp3",
+        "id": 360,
+        "reciter_id": 4,
+        "surah_id": 18
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/019.mp3",
+        "id": 361,
+        "reciter_id": 4,
+        "surah_id": 19
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/020.mp3",
+        "id": 362,
+        "reciter_id": 4,
+        "surah_id": 20
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/021.mp3",
+        "id": 363,
+        "reciter_id": 4,
+        "surah_id": 21
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/022.mp3",
+        "id": 364,
+        "reciter_id": 4,
+        "surah_id": 22
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/023.mp3",
+        "id": 365,
+        "reciter_id": 4,
+        "surah_id": 23
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/024.mp3",
+        "id": 366,
+        "reciter_id": 4,
+        "surah_id": 24
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/025.mp3",
+        "id": 367,
+        "reciter_id": 4,
+        "surah_id": 25
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/026.mp3",
+        "id": 368,
+        "reciter_id": 4,
+        "surah_id": 26
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/027.mp3",
+        "id": 369,
+        "reciter_id": 4,
+        "surah_id": 27
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/028.mp3",
+        "id": 370,
+        "reciter_id": 4,
+        "surah_id": 28
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/029.mp3",
+        "id": 371,
+        "reciter_id": 4,
+        "surah_id": 29
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/030.mp3",
+        "id": 372,
+        "reciter_id": 4,
+        "surah_id": 30
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/031.mp3",
+        "id": 373,
+        "reciter_id": 4,
+        "surah_id": 31
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/032.mp3",
+        "id": 374,
+        "reciter_id": 4,
+        "surah_id": 32
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/033.mp3",
+        "id": 375,
+        "reciter_id": 4,
+        "surah_id": 33
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/034.mp3",
+        "id": 376,
+        "reciter_id": 4,
+        "surah_id": 34
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/035.mp3",
+        "id": 377,
+        "reciter_id": 4,
+        "surah_id": 35
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/036.mp3",
+        "id": 378,
+        "reciter_id": 4,
+        "surah_id": 36
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/037.mp3",
+        "id": 379,
+        "reciter_id": 4,
+        "surah_id": 37
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/038.mp3",
+        "id": 380,
+        "reciter_id": 4,
+        "surah_id": 38
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/039.mp3",
+        "id": 381,
+        "reciter_id": 4,
+        "surah_id": 39
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/040.mp3",
+        "id": 382,
+        "reciter_id": 4,
+        "surah_id": 40
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/041.mp3",
+        "id": 383,
+        "reciter_id": 4,
+        "surah_id": 41
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/042.mp3",
+        "id": 384,
+        "reciter_id": 4,
+        "surah_id": 42
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/043.mp3",
+        "id": 385,
+        "reciter_id": 4,
+        "surah_id": 43
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/044.mp3",
+        "id": 386,
+        "reciter_id": 4,
+        "surah_id": 44
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/045.mp3",
+        "id": 387,
+        "reciter_id": 4,
+        "surah_id": 45
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/046.mp3",
+        "id": 388,
+        "reciter_id": 4,
+        "surah_id": 46
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/047.mp3",
+        "id": 389,
+        "reciter_id": 4,
+        "surah_id": 47
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/048.mp3",
+        "id": 390,
+        "reciter_id": 4,
+        "surah_id": 48
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/049.mp3",
+        "id": 391,
+        "reciter_id": 4,
+        "surah_id": 49
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/050.mp3",
+        "id": 392,
+        "reciter_id": 4,
+        "surah_id": 50
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/051.mp3",
+        "id": 393,
+        "reciter_id": 4,
+        "surah_id": 51
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/052.mp3",
+        "id": 394,
+        "reciter_id": 4,
+        "surah_id": 52
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/053.mp3",
+        "id": 395,
+        "reciter_id": 4,
+        "surah_id": 53
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/054.mp3",
+        "id": 396,
+        "reciter_id": 4,
+        "surah_id": 54
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/055.mp3",
+        "id": 397,
+        "reciter_id": 4,
+        "surah_id": 55
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/056.mp3",
+        "id": 398,
+        "reciter_id": 4,
+        "surah_id": 56
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/057.mp3",
+        "id": 399,
+        "reciter_id": 4,
+        "surah_id": 57
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/058.mp3",
+        "id": 400,
+        "reciter_id": 4,
+        "surah_id": 58
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/059.mp3",
+        "id": 401,
+        "reciter_id": 4,
+        "surah_id": 59
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/060.mp3",
+        "id": 402,
+        "reciter_id": 4,
+        "surah_id": 60
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/061.mp3",
+        "id": 403,
+        "reciter_id": 4,
+        "surah_id": 61
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/062.mp3",
+        "id": 404,
+        "reciter_id": 4,
+        "surah_id": 62
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/063.mp3",
+        "id": 405,
+        "reciter_id": 4,
+        "surah_id": 63
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/064.mp3",
+        "id": 406,
+        "reciter_id": 4,
+        "surah_id": 64
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/065.mp3",
+        "id": 407,
+        "reciter_id": 4,
+        "surah_id": 65
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/066.mp3",
+        "id": 408,
+        "reciter_id": 4,
+        "surah_id": 66
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/067.mp3",
+        "id": 409,
+        "reciter_id": 4,
+        "surah_id": 67
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/068.mp3",
+        "id": 410,
+        "reciter_id": 4,
+        "surah_id": 68
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/069.mp3",
+        "id": 411,
+        "reciter_id": 4,
+        "surah_id": 69
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/070.mp3",
+        "id": 412,
+        "reciter_id": 4,
+        "surah_id": 70
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/071.mp3",
+        "id": 413,
+        "reciter_id": 4,
+        "surah_id": 71
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/072.mp3",
+        "id": 414,
+        "reciter_id": 4,
+        "surah_id": 72
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/073.mp3",
+        "id": 415,
+        "reciter_id": 4,
+        "surah_id": 73
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/074.mp3",
+        "id": 416,
+        "reciter_id": 4,
+        "surah_id": 74
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/075.mp3",
+        "id": 417,
+        "reciter_id": 4,
+        "surah_id": 75
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/076.mp3",
+        "id": 418,
+        "reciter_id": 4,
+        "surah_id": 76
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/077.mp3",
+        "id": 419,
+        "reciter_id": 4,
+        "surah_id": 77
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/078.mp3",
+        "id": 420,
+        "reciter_id": 4,
+        "surah_id": 78
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/079.mp3",
+        "id": 421,
+        "reciter_id": 4,
+        "surah_id": 79
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/080.mp3",
+        "id": 422,
+        "reciter_id": 4,
+        "surah_id": 80
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/081.mp3",
+        "id": 423,
+        "reciter_id": 4,
+        "surah_id": 81
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/082.mp3",
+        "id": 424,
+        "reciter_id": 4,
+        "surah_id": 82
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/083.mp3",
+        "id": 425,
+        "reciter_id": 4,
+        "surah_id": 83
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/084.mp3",
+        "id": 426,
+        "reciter_id": 4,
+        "surah_id": 84
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/085.mp3",
+        "id": 427,
+        "reciter_id": 4,
+        "surah_id": 85
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/086.mp3",
+        "id": 428,
+        "reciter_id": 4,
+        "surah_id": 86
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/087.mp3",
+        "id": 429,
+        "reciter_id": 4,
+        "surah_id": 87
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/088.mp3",
+        "id": 430,
+        "reciter_id": 4,
+        "surah_id": 88
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/089.mp3",
+        "id": 431,
+        "reciter_id": 4,
+        "surah_id": 89
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/090.mp3",
+        "id": 432,
+        "reciter_id": 4,
+        "surah_id": 90
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/091.mp3",
+        "id": 433,
+        "reciter_id": 4,
+        "surah_id": 91
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/092.mp3",
+        "id": 434,
+        "reciter_id": 4,
+        "surah_id": 92
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/093.mp3",
+        "id": 435,
+        "reciter_id": 4,
+        "surah_id": 93
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/094.mp3",
+        "id": 436,
+        "reciter_id": 4,
+        "surah_id": 94
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/095.mp3",
+        "id": 437,
+        "reciter_id": 4,
+        "surah_id": 95
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/096.mp3",
+        "id": 438,
+        "reciter_id": 4,
+        "surah_id": 96
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/097.mp3",
+        "id": 439,
+        "reciter_id": 4,
+        "surah_id": 97
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/098.mp3",
+        "id": 440,
+        "reciter_id": 4,
+        "surah_id": 98
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/099.mp3",
+        "id": 441,
+        "reciter_id": 4,
+        "surah_id": 99
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/100.mp3",
+        "id": 442,
+        "reciter_id": 4,
+        "surah_id": 100
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/101.mp3",
+        "id": 443,
+        "reciter_id": 4,
+        "surah_id": 101
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/102.mp3",
+        "id": 444,
+        "reciter_id": 4,
+        "surah_id": 102
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/103.mp3",
+        "id": 445,
+        "reciter_id": 4,
+        "surah_id": 103
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/104.mp3",
+        "id": 446,
+        "reciter_id": 4,
+        "surah_id": 104
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/105.mp3",
+        "id": 447,
+        "reciter_id": 4,
+        "surah_id": 105
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/106.mp3",
+        "id": 448,
+        "reciter_id": 4,
+        "surah_id": 106
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/107.mp3",
+        "id": 449,
+        "reciter_id": 4,
+        "surah_id": 107
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/108.mp3",
+        "id": 450,
+        "reciter_id": 4,
+        "surah_id": 108
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/109.mp3",
+        "id": 451,
+        "reciter_id": 4,
+        "surah_id": 109
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/110.mp3",
+        "id": 452,
+        "reciter_id": 4,
+        "surah_id": 110
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/111.mp3",
+        "id": 453,
+        "reciter_id": 4,
+        "surah_id": 111
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/112.mp3",
+        "id": 454,
+        "reciter_id": 4,
+        "surah_id": 112
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/113.mp3",
+        "id": 455,
+        "reciter_id": 4,
+        "surah_id": 113
+    },
+    {
+        "audio_url": "https://download.quranicaudio.com/quran/rifai/114.mp3",
+        "id": 456,
+        "reciter_id": 4,
+        "surah_id": 114
+    }
+]

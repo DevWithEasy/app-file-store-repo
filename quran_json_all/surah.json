@@ -1,0 +1,1142 @@
+[
+  {
+    "serial": 1,
+    "total_ayah": 7,
+    "name": "الفاتحة",
+    "name_en": "Al-Faatiha",
+    "meaning": "The Opening",
+    "type": "Meccan",
+    "name_bn": "আল-ফাতিহা",
+    "meaning_bn": "সূচনা"
+  },
+  {
+    "serial": 2,
+    "total_ayah": 286,
+    "name": "البقرة",
+    "name_en": "Al-Baqara",
+    "meaning": "The Cow",
+    "type": "Medinan",
+    "name_bn": "আল-বাকারাহ",
+    "meaning_bn": "বকনা-বাছুর"
+  },
+  {
+    "serial": 3,
+    "total_ayah": 200,
+    "name": "آل عمران",
+    "name_en": "Aal-i-Imraan",
+    "meaning": "The Family of Imraan",
+    "type": "Medinan",
+    "name_bn": "আলে-ইমরান",
+    "meaning_bn": "ইমরানের পরিবার"
+  },
+  {
+    "serial": 4,
+    "total_ayah": 176,
+    "name": "النساء",
+    "name_en": "An-Nisaa",
+    "meaning": "The Women",
+    "type": "Medinan",
+    "name_bn": "আন-নিসা",
+    "meaning_bn": "নারী"
+  },
+  {
+    "serial": 5,
+    "total_ayah": 120,
+    "name": "المائدة",
+    "name_en": "Al-Maaida",
+    "meaning": "The Table",
+    "type": "Medinan",
+    "name_bn": "আল-মায়িদাহ",
+    "meaning_bn": "খাদ্য পরিবেশিত টেবিল"
+  },
+  {
+    "serial": 6,
+    "total_ayah": 165,
+    "name": "الأنعام",
+    "name_en": "Al-An'aam",
+    "meaning": "The Cattle",
+    "type": "Meccan",
+    "name_bn": "আল-আন'আম",
+    "meaning_bn": "গৃহপালিত পশু"
+  },
+  {
+    "serial": 7,
+    "total_ayah": 206,
+    "name": "الأعراف",
+    "name_en": "Al-A'raaf",
+    "meaning": "The Heights",
+    "type": "Meccan",
+    "name_bn": "আল-আ'রাফ",
+    "meaning_bn": "উচু স্থানসমূহ"
+  },
+  {
+    "serial": 8,
+    "total_ayah": 75,
+    "name": "الأنفال",
+    "name_en": "Al-Anfaal",
+    "meaning": "The Spoils of War",
+    "type": "Medinan",
+    "name_bn": "আল-আনফাল",
+    "meaning_bn": "যুদ্ধে-লব্ধ ধনসম্পদ"
+  },
+  {
+    "serial": 9,
+    "total_ayah": 129,
+    "name": "التوبة",
+    "name_en": "At-Tawba",
+    "meaning": "The Repentance",
+    "type": "Medinan",
+    "name_bn": "আত-তাওবাহ",
+    "meaning_bn": "অনুশোচনা"
+  },
+  {
+    "serial": 10,
+    "total_ayah": 109,
+    "name": "يونس",
+    "name_en": "Yunus",
+    "meaning": "Jonas",
+    "type": "Meccan",
+    "name_bn": "ইউনুস",
+    "meaning_bn": "নবী ইউনুস"
+  },
+  {
+    "serial": 11,
+    "total_ayah": 123,
+    "name": "هود",
+    "name_en": "Hud",
+    "meaning": "Hud",
+    "type": "Meccan",
+    "name_bn": "হুদ",
+    "meaning_bn": "নবী হুদ"
+  },
+  {
+    "serial": 12,
+    "total_ayah": 111,
+    "name": "يوسف",
+    "name_en": "Yusuf",
+    "meaning": "Joseph",
+    "type": "Meccan",
+    "name_bn": "ইউসুফ",
+    "meaning_bn": "নবী ইউসুফ"
+  },
+  {
+    "serial": 13,
+    "total_ayah": 43,
+    "name": "الرعد",
+    "name_en": "Ar-Ra'd",
+    "meaning": "The Thunder",
+    "type": "Medinan",
+    "name_bn": "আর-রাদ",
+    "meaning_bn": "বজ্রনাদ"
+  },
+  {
+    "serial": 14,
+    "total_ayah": 52,
+    "name": "ابراهيم",
+    "name_en": "Ibrahim",
+    "meaning": "Abraham",
+    "type": "Meccan",
+    "name_bn": "ইবরাহীম",
+    "meaning_bn": "নবী ইব্রাহিম"
+  },
+  {
+    "serial": 15,
+    "total_ayah": 99,
+    "name": "الحجر",
+    "name_en": "Al-Hijr",
+    "meaning": "The Rock",
+    "type": "Meccan",
+    "name_bn": "আল-হিজর",
+    "meaning_bn": "পাথুরে পাহাড়"
+  },
+  {
+    "serial": 16,
+    "total_ayah": 128,
+    "name": "النحل",
+    "name_en": "An-Nahl",
+    "meaning": "The Bee",
+    "type": "Meccan",
+    "name_bn": "আন্‌-নাহল",
+    "meaning_bn": "মৌমাছি"
+  },
+  {
+    "serial": 17,
+    "total_ayah": 111,
+    "name": "الإسراء",
+    "name_en": "Al-Israa",
+    "meaning": "The Night Journey",
+    "type": "Meccan",
+    "name_bn": "বানী ইসরাঈল",
+    "meaning_bn": "ইসরায়েলের বংশধর"
+  },
+  {
+    "serial": 18,
+    "total_ayah": 110,
+    "name": "الكهف",
+    "name_en": "Al-Kahf",
+    "meaning": "The Cave",
+    "type": "Meccan",
+    "name_bn": "আল-কাহফ",
+    "meaning_bn": "গুহা"
+  },
+  {
+    "serial": 19,
+    "total_ayah": 98,
+    "name": "مريم",
+    "name_en": "Maryam",
+    "meaning": "Mary",
+    "type": "Meccan",
+    "name_bn": "মারইয়াম",
+    "meaning_bn": "মারিয়াম (নবী ঈসার মা)"
+  },
+  {
+    "serial": 20,
+    "total_ayah": 135,
+    "name": "طه",
+    "name_en": "Taa-Haa",
+    "meaning": "Taa-Haa",
+    "type": "Meccan",
+    "name_bn": "ত্ব-হা",
+    "meaning_bn": "ত্বোয়া-হা"
+  },
+  {
+    "serial": 21,
+    "total_ayah": 112,
+    "name": "الأنبياء",
+    "name_en": "Al-Anbiyaa",
+    "meaning": "The Prophets",
+    "type": "Meccan",
+    "name_bn": "আল-আম্বিয়া",
+    "meaning_bn": "নবীগণ"
+  },
+  {
+    "serial": 22,
+    "total_ayah": 78,
+    "name": "الحج",
+    "name_en": "Al-Hajj",
+    "meaning": "The Pilgrimage",
+    "type": "Medinan",
+    "name_bn": "আল-হাজ্জ",
+    "meaning_bn": "হাজ্জ"
+  },
+  {
+    "serial": 23,
+    "total_ayah": 118,
+    "name": "المؤمنون",
+    "name_en": "Al-Muminoon",
+    "meaning": "The Believers",
+    "type": "Meccan",
+    "name_bn": "আল-মু’মিনুন",
+    "meaning_bn": "মুমিনগণ"
+  },
+  {
+    "serial": 24,
+    "total_ayah": 64,
+    "name": "النور",
+    "name_en": "An-Noor",
+    "meaning": "The Light",
+    "type": "Medinan",
+    "name_bn": "আন্‌-নূর",
+    "meaning_bn": "আলো"
+  },
+  {
+    "serial": 25,
+    "total_ayah": 77,
+    "name": "الفرقان",
+    "name_en": "Al-Furqaan",
+    "meaning": "The Criterion",
+    "type": "Meccan",
+    "name_bn": "আল-ফুরক্বান",
+    "meaning_bn": "সত্য মিথ্যার পার্থক্য নির্ধারণকারী গ্রম্থ"
+  },
+  {
+    "serial": 26,
+    "total_ayah": 227,
+    "name": "الشعراء",
+    "name_en": "Ash-Shu'araa",
+    "meaning": "The Poets",
+    "type": "Meccan",
+    "name_bn": "আশ-শু'আরা",
+    "meaning_bn": "কবিগণ"
+  },
+  {
+    "serial": 27,
+    "total_ayah": 93,
+    "name": "النمل",
+    "name_en": "An-Naml",
+    "meaning": "The Ant",
+    "type": "Meccan",
+    "name_bn": "আন্‌-নামাল",
+    "meaning_bn": "পিপীলিকা"
+  },
+  {
+    "serial": 28,
+    "total_ayah": 88,
+    "name": "القصص",
+    "name_en": "Al-Qasas",
+    "meaning": "The Stories",
+    "type": "Meccan",
+    "name_bn": "আল-কাসাস",
+    "meaning_bn": "কাহিনী"
+  },
+  {
+    "serial": 29,
+    "total_ayah": 69,
+    "name": "العنكبوت",
+    "name_en": "Al-Ankaboot",
+    "meaning": "The Spider",
+    "type": "Meccan",
+    "name_bn": "আল-'আনকাবূত",
+    "meaning_bn": "মাকড়সা"
+  },
+  {
+    "serial": 30,
+    "total_ayah": 60,
+    "name": "الروم",
+    "name_en": "Ar-Room",
+    "meaning": "The Romans",
+    "type": "Meccan",
+    "name_bn": "আর-রুম",
+    "meaning_bn": "রোমান জাতি"
+  },
+  {
+    "serial": 31,
+    "total_ayah": 34,
+    "name": "لقمان",
+    "name_en": "Luqman",
+    "meaning": "Luqman",
+    "type": "Meccan",
+    "name_bn": "লুকমান",
+    "meaning_bn": "একজন জ্ঞানী ব্যক্তি"
+  },
+  {
+    "serial": 32,
+    "total_ayah": 30,
+    "name": "السجدة",
+    "name_en": "As-Sajda",
+    "meaning": "The Prostration",
+    "type": "Meccan",
+    "name_bn": "আস-সাজদাহ",
+    "meaning_bn": "সিজদাহ"
+  },
+  {
+    "serial": 33,
+    "total_ayah": 73,
+    "name": "الأحزاب",
+    "name_en": "Al-Ahzaab",
+    "meaning": "The Clans",
+    "type": "Medinan",
+    "name_bn": "আল-আহযাব",
+    "meaning_bn": "জোট"
+  },
+  {
+    "serial": 34,
+    "total_ayah": 54,
+    "name": "سبإ",
+    "name_en": "Saba",
+    "meaning": "Sheba",
+    "type": "Meccan",
+    "name_bn": "সাবা",
+    "meaning_bn": "রানী সাবা"
+  },
+  {
+    "serial": 35,
+    "total_ayah": 45,
+    "name": "فاطر",
+    "name_en": "Faatir",
+    "meaning": "The Originator",
+    "type": "Meccan",
+    "name_bn": "ফাত্বির",
+    "meaning_bn": "আদি স্রষ্টা"
+  },
+  {
+    "serial": 36,
+    "total_ayah": 83,
+    "name": "يس",
+    "name_en": "Yaseen",
+    "meaning": "Yaseen",
+    "type": "Meccan",
+    "name_bn": "ইয়া-সীন",
+    "meaning_bn": "ইয়াসীন"
+  },
+  {
+    "serial": 37,
+    "total_ayah": 182,
+    "name": "الصافات",
+    "name_en": "As-Saaffaat",
+    "meaning": "Those drawn up in Ranks",
+    "type": "Meccan",
+    "name_bn": "আস-সাফফাত",
+    "meaning_bn": "সারিবদ্ধভাবে দাড়ানো"
+  },
+  {
+    "serial": 38,
+    "total_ayah": 88,
+    "name": "ص",
+    "name_en": "Saad",
+    "meaning": "The letter Saad",
+    "type": "Meccan",
+    "name_bn": "সোয়াদ",
+    "meaning_bn": "আরবি বর্ণ"
+  },
+  {
+    "serial": 39,
+    "total_ayah": 75,
+    "name": "الزمر",
+    "name_en": "Az-Zumar",
+    "meaning": "The Groups",
+    "type": "Meccan",
+    "name_bn": "আয-যুমার",
+    "meaning_bn": "দল-বদ্ধ জনতা"
+  },
+  {
+    "serial": 40,
+    "total_ayah": 85,
+    "name": "غافر",
+    "name_en": "Al-Ghaafir",
+    "meaning": "The Forgiver",
+    "type": "Meccan",
+    "name_bn": "আল-মু'মিন বা গাফির",
+    "meaning_bn": "বিশ্বাসী"
+  },
+  {
+    "serial": 41,
+    "total_ayah": 54,
+    "name": "فصلت",
+    "name_en": "Fussilat",
+    "meaning": "Explained in detail",
+    "type": "Meccan",
+    "name_bn": "ফুসসিলাত",
+    "meaning_bn": "সুস্পষ্ট বিবরণ"
+  },
+  {
+    "serial": 42,
+    "total_ayah": 53,
+    "name": "الشورى",
+    "name_en": "Ash-Shura",
+    "meaning": "Consultation",
+    "type": "Meccan",
+    "name_bn": "আশ-শুরা",
+    "meaning_bn": "পরামর্শ"
+  },
+  {
+    "serial": 43,
+    "total_ayah": 89,
+    "name": "الزخرف",
+    "name_en": "Az-Zukhruf",
+    "meaning": "Ornaments of gold",
+    "type": "Meccan",
+    "name_bn": "আয-যুখরুফ",
+    "meaning_bn": "সোনাদানা"
+  },
+  {
+    "serial": 44,
+    "total_ayah": 59,
+    "name": "الدخان",
+    "name_en": "Ad-Dukhaan",
+    "meaning": "The Smoke",
+    "type": "Meccan",
+    "name_bn": "আদ-দুখান",
+    "meaning_bn": "ধোঁয়া"
+  },
+  {
+    "serial": 45,
+    "total_ayah": 37,
+    "name": "الجاثية",
+    "name_en": "Al-Jaathiya",
+    "meaning": "Crouching",
+    "type": "Meccan",
+    "name_bn": "আল-জাসিয়া",
+    "meaning_bn": "নতজানু"
+  },
+  {
+    "serial": 46,
+    "total_ayah": 35,
+    "name": "الأحقاف",
+    "name_en": "Al-Ahqaf",
+    "meaning": "The Dunes",
+    "type": "Meccan",
+    "name_bn": "আল-আহকাফ",
+    "meaning_bn": "বালুর পাহাড়"
+  },
+  {
+    "serial": 47,
+    "total_ayah": 38,
+    "name": "محمد",
+    "name_en": "Muhammad",
+    "meaning": "Muhammad",
+    "type": "Medinan",
+    "name_bn": "মুহাম্মাদ",
+    "meaning_bn": "নবী মুহাম্মদ"
+  },
+  {
+    "serial": 48,
+    "total_ayah": 29,
+    "name": "الفتح",
+    "name_en": "Al-Fath",
+    "meaning": "The Victory",
+    "type": "Medinan",
+    "name_bn": "আল-ফাতহ",
+    "meaning_bn": "বিজয় (মক্কা বিজয়)"
+  },
+  {
+    "serial": 49,
+    "total_ayah": 18,
+    "name": "الحجرات",
+    "name_en": "Al-Hujuraat",
+    "meaning": "The Inner Apartments",
+    "type": "Medinan",
+    "name_bn": "আল-হুজুরাত",
+    "meaning_bn": "বাসগৃহসমুহ"
+  },
+  {
+    "serial": 50,
+    "total_ayah": 45,
+    "name": "ق",
+    "name_en": "Qaaf",
+    "meaning": "The letter Qaaf",
+    "type": "Meccan",
+    "name_bn": "ক্বা-ফ",
+    "meaning_bn": "আরবি বর্ণ ক্বাফ"
+  },
+  {
+    "serial": 51,
+    "total_ayah": 60,
+    "name": "الذاريات",
+    "name_en": "Adh-Dhaariyat",
+    "meaning": "The Winnowing Winds",
+    "type": "Meccan",
+    "name_bn": "আয-যারিয়াত",
+    "meaning_bn": "বিক্ষেপকারী বাতাস"
+  },
+  {
+    "serial": 52,
+    "total_ayah": 49,
+    "name": "الطور",
+    "name_en": "At-Tur",
+    "meaning": "The Mount",
+    "type": "Meccan",
+    "name_bn": "আত-তূর",
+    "meaning_bn": "পাহাড়"
+  },
+  {
+    "serial": 53,
+    "total_ayah": 62,
+    "name": "النجم",
+    "name_en": "An-Najm",
+    "meaning": "The Star",
+    "type": "Meccan",
+    "name_bn": "আন-নাজম",
+    "meaning_bn": "তারা"
+  },
+  {
+    "serial": 54,
+    "total_ayah": 55,
+    "name": "القمر",
+    "name_en": "Al-Qamar",
+    "meaning": "The Moon",
+    "type": "Meccan",
+    "name_bn": "আল-কামার",
+    "meaning_bn": "চন্দ্র"
+  },
+  {
+    "serial": 55,
+    "total_ayah": 78,
+    "name": "الرحمن",
+    "name_en": "Ar-Rahmaan",
+    "meaning": "The Beneficent",
+    "type": "Medinan",
+    "name_bn": "আর-রহমান",
+    "meaning_bn": "পরম করুণাময়"
+  },
+  {
+    "serial": 56,
+    "total_ayah": 96,
+    "name": "الواقعة",
+    "name_en": "Al-Waaqia",
+    "meaning": "The Inevitable",
+    "type": "Meccan",
+    "name_bn": "আল-ওয়াকিয়া",
+    "meaning_bn": "নিশ্চিত ঘটনা"
+  },
+  {
+    "serial": 57,
+    "total_ayah": 29,
+    "name": "الحديد",
+    "name_en": "Al-Hadid",
+    "meaning": "The Iron",
+    "type": "Medinan",
+    "name_bn": "আল-হাদীদ",
+    "meaning_bn": "লোহা"
+  },
+  {
+    "serial": 58,
+    "total_ayah": 22,
+    "name": "المجادلة",
+    "name_en": "Al-Mujaadila",
+    "meaning": "The Pleading Woman",
+    "type": "Medinan",
+    "name_bn": "আল-মুজাদালাহ",
+    "meaning_bn": "অনুযোগকারিণী"
+  },
+  {
+    "serial": 59,
+    "total_ayah": 24,
+    "name": "الحشر",
+    "name_en": "Al-Hashr",
+    "meaning": "The Exile",
+    "type": "Medinan",
+    "name_bn": "আল-হাশর",
+    "meaning_bn": "সমাবেশ"
+  },
+  {
+    "serial": 60,
+    "total_ayah": 13,
+    "name": "الممتحنة",
+    "name_en": "Al-Mumtahana",
+    "meaning": "She that is to be examined",
+    "type": "Medinan",
+    "name_bn": "আল-মুমতাহিনাহ",
+    "meaning_bn": "নারী, যাকে পরিক্ষা করা হবে"
+  },
+  {
+    "serial": 61,
+    "total_ayah": 14,
+    "name": "الصف",
+    "name_en": "As-Saff",
+    "meaning": "The Ranks",
+    "type": "Medinan",
+    "name_bn": "আস-সফ",
+    "meaning_bn": "সারবন্দী সৈন্যদল"
+  },
+  {
+    "serial": 62,
+    "total_ayah": 11,
+    "name": "الجمعة",
+    "name_en": "Al-Jumu'a",
+    "meaning": "Friday",
+    "type": "Medinan",
+    "name_bn": "আল-জুমু'আহ",
+    "meaning_bn": "সম্মেলন/শুক্রবার"
+  },
+  {
+    "serial": 63,
+    "total_ayah": 11,
+    "name": "المنافقون",
+    "name_en": "Al-Munaafiqoon",
+    "meaning": "The Hypocrites",
+    "type": "Medinan",
+    "name_bn": "আল-মুনাফিকুন",
+    "meaning_bn": "কপট বিশ্বাসীগণ"
+  },
+  {
+    "serial": 64,
+    "total_ayah": 18,
+    "name": "التغابن",
+    "name_en": "At-Taghaabun",
+    "meaning": "Mutual Disillusion",
+    "type": "Medinan",
+    "name_bn": "আত-তাগাবুন",
+    "meaning_bn": "মোহ অপসারণ"
+  },
+  {
+    "serial": 65,
+    "total_ayah": 12,
+    "name": "الطلاق",
+    "name_en": "At-Talaaq",
+    "meaning": "Divorce",
+    "type": "Medinan",
+    "name_bn": "আত-তালাক্ব",
+    "meaning_bn": "তালাক"
+  },
+  {
+    "serial": 66,
+    "total_ayah": 12,
+    "name": "التحريم",
+    "name_en": "At-Tahrim",
+    "meaning": "The Prohibition",
+    "type": "Medinan",
+    "name_bn": "আত-তাহরিম",
+    "meaning_bn": "নিষিদ্ধকরণ"
+  },
+  {
+    "serial": 67,
+    "total_ayah": 30,
+    "name": "الملك",
+    "name_en": "Al-Mulk",
+    "meaning": "The Sovereignty",
+    "type": "Meccan",
+    "name_bn": "আল-মুলক",
+    "meaning_bn": "সার্বভৌম কর্তৃত্ব"
+  },
+  {
+    "serial": 68,
+    "total_ayah": 52,
+    "name": "القلم",
+    "name_en": "Al-Qalam",
+    "meaning": "The Pen",
+    "type": "Meccan",
+    "name_bn": "আল-ক্বালাম",
+    "meaning_bn": "কলম"
+  },
+  {
+    "serial": 69,
+    "total_ayah": 52,
+    "name": "الحاقة",
+    "name_en": "Al-Haaqqa",
+    "meaning": "The Reality",
+    "type": "Meccan",
+    "name_bn": "আল-হাক্বাহ",
+    "meaning_bn": "নিশ্চিত সত্য"
+  },
+  {
+    "serial": 70,
+    "total_ayah": 44,
+    "name": "المعارج",
+    "name_en": "Al-Ma'aarij",
+    "meaning": "The Ascending Stairways",
+    "type": "Meccan",
+    "name_bn": "আল-মাআরিজ",
+    "meaning_bn": "উন্নয়নের সোপান"
+  },
+  {
+    "serial": 71,
+    "total_ayah": 28,
+    "name": "نوح",
+    "name_en": "Nooh",
+    "meaning": "Noah",
+    "type": "Meccan",
+    "name_bn": "নুহ",
+    "meaning_bn": "নবী নূহ"
+  },
+  {
+    "serial": 72,
+    "total_ayah": 28,
+    "name": "الجن",
+    "name_en": "Al-Jinn",
+    "meaning": "The Jinn",
+    "type": "Meccan",
+    "name_bn": "আল-জীন",
+    "meaning_bn": "জ্বিন সম্প্রদায়"
+  },
+  {
+    "serial": 73,
+    "total_ayah": 20,
+    "name": "المزمل",
+    "name_en": "Al-Muzzammil",
+    "meaning": "The Enshrouded One",
+    "type": "Meccan",
+    "name_bn": "আল-মুযযাম্মিল",
+    "meaning_bn": "বস্ত্রাচ্ছাদনকারী"
+  },
+  {
+    "serial": 74,
+    "total_ayah": 56,
+    "name": "المدثر",
+    "name_en": "Al-Muddaththir",
+    "meaning": "The Cloaked One",
+    "type": "Meccan",
+    "name_bn": "আল-মুদ্দাস্‌সির",
+    "meaning_bn": "পোশাক পরিহিত"
+  },
+  {
+    "serial": 75,
+    "total_ayah": 40,
+    "name": "القيامة",
+    "name_en": "Al-Qiyaama",
+    "meaning": "The Resurrection",
+    "type": "Meccan",
+    "name_bn": "আল-ক্বিয়ামাহ",
+    "meaning_bn": "পুনরু্ত্তান"
+  },
+  {
+    "serial": 76,
+    "total_ayah": 31,
+    "name": "الانسان",
+    "name_en": "Al-Insaan",
+    "meaning": "Man",
+    "type": "Medinan",
+    "name_bn": "আল-ইনসান",
+    "meaning_bn": "মানুষ"
+  },
+  {
+    "serial": 77,
+    "total_ayah": 50,
+    "name": "المرسلات",
+    "name_en": "Al-Mursalaat",
+    "meaning": "The Emissaries",
+    "type": "Meccan",
+    "name_bn": "আল-মুরসালাত",
+    "meaning_bn": "প্রেরিত পুরুষগণ"
+  },
+  {
+    "serial": 78,
+    "total_ayah": 40,
+    "name": "النبإ",
+    "name_en": "An-Naba",
+    "meaning": "The Announcement",
+    "type": "Meccan",
+    "name_bn": "আন-নাবা",
+    "meaning_bn": "মহাসংবাদ"
+  },
+  {
+    "serial": 79,
+    "total_ayah": 46,
+    "name": "النازعات",
+    "name_en": "An-Naazi'aat",
+    "meaning": "Those who drag forth",
+    "type": "Meccan",
+    "name_bn": "আন-নাযি'আত",
+    "meaning_bn": "প্রচেষ্টাকারী"
+  },
+  {
+    "serial": 80,
+    "total_ayah": 42,
+    "name": "عبس",
+    "name_en": "Abasa",
+    "meaning": "He frowned",
+    "type": "Meccan",
+    "name_bn": "আবাসা",
+    "meaning_bn": "তিনি ভ্রুকুটি করলেন"
+  },
+  {
+    "serial": 81,
+    "total_ayah": 29,
+    "name": "التكوير",
+    "name_en": "At-Takwir",
+    "meaning": "The Overthrowing",
+    "type": "Meccan",
+    "name_bn": "আত-তাকভীর",
+    "meaning_bn": "অন্ধকারাচ্ছন্ন"
+  },
+  {
+    "serial": 82,
+    "total_ayah": 19,
+    "name": "الإنفطار",
+    "name_en": "Al-Infitaar",
+    "meaning": "The Cleaving",
+    "type": "Meccan",
+    "name_bn": "আল-ইনফিতার",
+    "meaning_bn": "বিদীর্ণ করা"
+  },
+  {
+    "serial": 83,
+    "total_ayah": 36,
+    "name": "المطففين",
+    "name_en": "Al-Mutaffifin",
+    "meaning": "Defrauding",
+    "type": "Meccan",
+    "name_bn": "আল-মুতাফফিফীন",
+    "meaning_bn": "প্রতারণা করা"
+  },
+  {
+    "serial": 84,
+    "total_ayah": 25,
+    "name": "الإنشقاق",
+    "name_en": "Al-Inshiqaaq",
+    "meaning": "The Splitting Open",
+    "type": "Meccan",
+    "name_bn": "আল-ইনশিক্বাক্ব",
+    "meaning_bn": "খন্ড-বিখন্ড করণ"
+  },
+  {
+    "serial": 85,
+    "total_ayah": 22,
+    "name": "البروج",
+    "name_en": "Al-Burooj",
+    "meaning": "The Constellations",
+    "type": "Meccan",
+    "name_bn": "আল-বুরুজ",
+    "meaning_bn": "নক্ষত্রপুন্জ"
+  },
+  {
+    "serial": 86,
+    "total_ayah": 17,
+    "name": "الطارق",
+    "name_en": "At-Taariq",
+    "meaning": "The Morning Star",
+    "type": "Meccan",
+    "name_bn": "আত-তারিক্ব",
+    "meaning_bn": "রাতের আগন্তুক"
+  },
+  {
+    "serial": 87,
+    "total_ayah": 19,
+    "name": "الأعلى",
+    "name_en": "Al-A'laa",
+    "meaning": "The Most High",
+    "type": "Meccan",
+    "name_bn": "আল-আ'লা",
+    "meaning_bn": "সর্বোন্নত"
+  },
+  {
+    "serial": 88,
+    "total_ayah": 26,
+    "name": "الغاشية",
+    "name_en": "Al-Ghaashiya",
+    "meaning": "The Overwhelming",
+    "type": "Meccan",
+    "name_bn": "আল-গাশিয়াহ",
+    "meaning_bn": "বিহ্বলকর ঘটনা"
+  },
+  {
+    "serial": 89,
+    "total_ayah": 30,
+    "name": "الفجر",
+    "name_en": "Al-Fajr",
+    "meaning": "The Dawn",
+    "type": "Meccan",
+    "name_bn": "আল-ফাজ্‌র",
+    "meaning_bn": "ভোরবেলা"
+  },
+  {
+    "serial": 90,
+    "total_ayah": 20,
+    "name": "البلد",
+    "name_en": "Al-Balad",
+    "meaning": "The City",
+    "type": "Meccan",
+    "name_bn": "আল-বালাদ",
+    "meaning_bn": "নগর"
+  },
+  {
+    "serial": 91,
+    "total_ayah": 15,
+    "name": "الشمس",
+    "name_en": "Ash-Shams",
+    "meaning": "The Sun",
+    "type": "Meccan",
+    "name_bn": "আশ-শামস",
+    "meaning_bn": "সূর্য"
+  },
+  {
+    "serial": 92,
+    "total_ayah": 21,
+    "name": "الليل",
+    "name_en": "Al-Lail",
+    "meaning": "The Night",
+    "type": "Meccan",
+    "name_bn": "আল-লাইল",
+    "meaning_bn": "রাত্রি"
+  },
+  {
+    "serial": 93,
+    "total_ayah": 11,
+    "name": "الضحى",
+    "name_en": "Ad-Dhuhaa",
+    "meaning": "The Morning Hours",
+    "type": "Meccan",
+    "name_bn": "আদ-দুহা",
+    "meaning_bn": "পূর্বাহ্নের সুর্যকিরণ"
+  },
+  {
+    "serial": 94,
+    "total_ayah": 8,
+    "name": "الشرح",
+    "name_en": "Ash-Sharh",
+    "meaning": "The Consolation",
+    "type": "Meccan",
+    "name_bn": "আল-ইন'শিরাহ",
+    "meaning_bn": "বক্ষ প্রশস্তকরণ"
+  },
+  {
+    "serial": 95,
+    "total_ayah": 8,
+    "name": "التين",
+    "name_en": "At-Tin",
+    "meaning": "The Fig",
+    "type": "Meccan",
+    "name_bn": "আত-ত্বীন",
+    "meaning_bn": "ডুমুর"
+  },
+  {
+    "serial": 96,
+    "total_ayah": 19,
+    "name": "العلق",
+    "name_en": "Al-Alaq",
+    "meaning": "The Clot",
+    "type": "Meccan",
+    "name_bn": "আল-আলাক্ব",
+    "meaning_bn": "রক্তপিন্ড"
+  },
+  {
+    "serial": 97,
+    "total_ayah": 5,
+    "name": "القدر",
+    "name_en": "Al-Qadr",
+    "meaning": "The Power, Fate",
+    "type": "Meccan",
+    "name_bn": "আল-ক্বাদর",
+    "meaning_bn": "মহিমান্বিত"
+  },
+  {
+    "serial": 98,
+    "total_ayah": 8,
+    "name": "البينة",
+    "name_en": "Al-Bayyina",
+    "meaning": "The Evidence",
+    "type": "Medinan",
+    "name_bn": "আল-বাইয়্যিনাহ",
+    "meaning_bn": "সুস্পষ্ট প্রমাণ"
+  },
+  {
+    "serial": 99,
+    "total_ayah": 8,
+    "name": "الزلزلة",
+    "name_en": "Az-Zalzala",
+    "meaning": "The Earthquake",
+    "type": "Medinan",
+    "name_bn": "আল-যিলযাল",
+    "meaning_bn": "ভূমিকম্প"
+  },
+  {
+    "serial": 100,
+    "total_ayah": 11,
+    "name": "العاديات",
+    "name_en": "Al-Aadiyaat",
+    "meaning": "The Chargers",
+    "type": "Meccan",
+    "name_bn": "আল-আদিয়াত",
+    "meaning_bn": "অভিযানকারী"
+  },
+  {
+    "serial": 101,
+    "total_ayah": 11,
+    "name": "القارعة",
+    "name_en": "Al-Qaari'a",
+    "meaning": "The Calamity",
+    "type": "Meccan",
+    "name_bn": "আল-ক্বারি'আহ",
+    "meaning_bn": "মহাসংকট"
+  },
+  {
+    "serial": 102,
+    "total_ayah": 8,
+    "name": "التكاثر",
+    "name_en": "At-Takaathur",
+    "meaning": "Competition",
+    "type": "Meccan",
+    "name_bn": "আত-তাকাসুর",
+    "meaning_bn": "প্রাচুর্যের প্রতিযোগিতা"
+  },
+  {
+    "serial": 103,
+    "total_ayah": 3,
+    "name": "العصر",
+    "name_en": "Al-Asr",
+    "meaning": "The Declining Day, Epoch",
+    "type": "Meccan",
+    "name_bn": "আল-আসর",
+    "meaning_bn": "সময়"
+  },
+  {
+    "serial": 104,
+    "total_ayah": 9,
+    "name": "الهمزة",
+    "name_en": "Al-Humaza",
+    "meaning": "The Traducer",
+    "type": "Meccan",
+    "name_bn": "আল-হুমাযাহ",
+    "meaning_bn": "পরনিন্দাকারী"
+  },
+  {
+    "serial": 105,
+    "total_ayah": 5,
+    "name": "الفيل",
+    "name_en": "Al-Fil",
+    "meaning": "The Elephant",
+    "type": "Meccan",
+    "name_bn": "আল-ফীল",
+    "meaning_bn": "হাতি"
+  },
+  {
+    "serial": 106,
+    "total_ayah": 4,
+    "name": "قريش",
+    "name_en": "Quraish",
+    "meaning": "Quraysh",
+    "type": "Meccan",
+    "name_bn": "কুরাইশ",
+    "meaning_bn": "কুরাইশ গোত্র"
+  },
+  {
+    "serial": 107,
+    "total_ayah": 7,
+    "name": "الماعون",
+    "name_en": "Al-Maa'un",
+    "meaning": "Almsgiving",
+    "type": "Meccan",
+    "name_bn": "আল-মাউন",
+    "meaning_bn": "সাহায্য-সহায়তা"
+  },
+  {
+    "serial": 108,
+    "total_ayah": 3,
+    "name": "الكوثر",
+    "name_en": "Al-Kawthar",
+    "meaning": "Abundance",
+    "type": "Meccan",
+    "name_bn": "আল-কাউসার",
+    "meaning_bn": "প্রাচুর্য"
+  },
+  {
+    "serial": 109,
+    "total_ayah": 6,
+    "name": "الكافرون",
+    "name_en": "Al-Kaafiroon",
+    "meaning": "The Disbelievers",
+    "type": "Meccan",
+    "name_bn": "আল-কাফিরুন",
+    "meaning_bn": "অবিশ্বাসী গোষ্ঠী"
+  },
+  {
+    "serial": 110,
+    "total_ayah": 3,
+    "name": "النصر",
+    "name_en": "An-Nasr",
+    "meaning": "Divine Support",
+    "type": "Medinan",
+    "name_bn": "আন-নাসর",
+    "meaning_bn": "স্বর্গীয় সাহায্য"
+  },
+  {
+    "serial": 111,
+    "total_ayah": 5,
+    "name": "المسد",
+    "name_en": "Al-Masad",
+    "meaning": "The Palm Fibre",
+    "type": "Meccan",
+    "name_bn": "লাহাব",
+    "meaning_bn": "জ্বলন্ত অঙ্গার"
+  },
+  {
+    "serial": 112,
+    "total_ayah": 4,
+    "name": "الإخلاص",
+    "name_en": "Al-Ikhlaas",
+    "meaning": "Sincerity",
+    "type": "Meccan",
+    "name_bn": "আল-ইখলাস",
+    "meaning_bn": "একত্ব"
+  },
+  {
+    "serial": 113,
+    "total_ayah": 5,
+    "name": "الفلق",
+    "name_en": "Al-Falaq",
+    "meaning": "The Dawn",
+    "type": "Meccan",
+    "name_bn": "আল-ফালাক্ক",
+    "meaning_bn": "নিশিভোর"
+  },
+  {
+    "serial": 114,
+    "total_ayah": 6,
+    "name": "الناس",
+    "name_en": "An-Naas",
+    "meaning": "Mankind",
+    "type": "Meccan",
+    "name_bn": "আন-নাস",
+    "meaning_bn": "মানবজাতি"
+  }
+]
