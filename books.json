@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "সহিহ বুখারী",
+    "title_ar": "صحيح البخاري",
+    "number_of_hadis": 7563,
+    "abvr_code": "B",
+    "book_name": "bukhari",
+    "color_code": "#70bb65",
+    "file_size": "5.67"
+  },
+  {
+    "id": 2,
+    "title": "সহিহ মুসলিম",
+    "title_ar": "صحيح مسلم",
+    "number_of_hadis": 7453,
+    "abvr_code": "M",
+    "book_name": "muslim",
+    "color_code": "#2d91c2",
+    "file_size": "3.97"
+  },
+  {
+    "id": 3,
+    "title": "সুনানে আন-নাসায়ী",
+    "title_ar": "سنن النسائي",
+    "number_of_hadis": 5758,
+    "abvr_code": "N",
+    "book_name": "nasai",
+    "color_code": "#27b5e5",
+    "file_size": "2.61"
+  },
+  {
+    "id": 4,
+    "title": "সুনানে আবু দাউদ",
+    "title_ar": "سنن أبي داود",
+    "number_of_hadis": 5274,
+    "abvr_code": "AD",
+    "book_name": "abu-dawud",
+    "color_code": "#8e44ad",
+    "file_size": "3.05"
+  },
+  {
+    "id": 5,
+    "title": "জামে' আত-তিরমিজি",
+    "title_ar": "جامع الترمذي",
+    "number_of_hadis": 3956,
+    "abvr_code": "T",
+    "book_name": "tirmidhi",
+    "color_code": "#4570e5",
+    "file_size": "3.14"
+  },
+  {
+    "id": 6,
+    "title": "সুনানে ইবনে মাজাহ",
+    "title_ar": "سنن ابن ماجه",
+    "number_of_hadis": 4341,
+    "abvr_code": "IM",
+    "book_name": "ibn-majah",
+    "color_code": "#ea622e",
+    "file_size": "2.50"
+  },
+  {
+    "id": 7,
+    "title": "মুয়াত্তা ইমাম মালিক",
+    "title_ar": "موطأ مالك",
+    "number_of_hadis": 1832,
+    "abvr_code": "MI",
+    "book_name": "muwatta-malik",
+    "color_code": "#6eb6f0",
+    "file_size": "1.37"
+  },
+  {
+    "id": 8,
+    "title": "রিয়াদুস সলেহিন",
+    "title_ar": "رياض الصالحين",
+    "number_of_hadis": 1905,
+    "abvr_code": "RS",
+    "book_name": "riyadus-salihin",
+    "color_code": "#ef5090",
+    "file_size": "1.13"
+  },
+  {
+    "id": 9,
+    "title": "মিশকাতুল মাসাবিহ",
+    "title_ar": "مشكاة المصابيح",
+    "number_of_hadis": 2758,
+    "abvr_code": "MM",
+    "book_name": "mishkatul-masabih",
+    "color_code": "#616161",
+    "file_size": "1.42"
+  },
+  {
+    "id": 10,
+    "title": "৪০ হাদিস",
+    "title_ar": "الأربعينات",
+    "number_of_hadis": 42,
+    "abvr_code": "40",
+    "book_name": "40-hadith",
+    "color_code": "#98876f",
+    "file_size": "0.03"
+  },
+  {
+    "id": 11,
+    "title": "সহিহ ফাযায়েলে আমল",
+    "title_ar": "صحيح فضايل امل",
+    "number_of_hadis": 151,
+    "abvr_code": "FA",
+    "book_name": "fazayele-amal",
+    "color_code": "#607d8b",
+    "file_size": "0.03"
+  }
+]
