@@ -1,4 +1,14 @@
 [
+    {
+    "name": "T Sports HD",
+    "image": "https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",
+    "servers": [
+      "https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1781086443&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5a675df2f459fd00fdbdd811bc125827",
+      "https://tvsen7.aynaott.com/tsports-hd/index.m3u8",
+      "https://tvsen7.aynaott.com/tsportsfhd/index.m3u8",
+      "https://edge2.roarzone.net:8447/roarzone/edge1/1/index.ll.m3u8?token=29a9864bf28be9572ec77862e1d149870778506e-72446962d2e66eb51956128f35e26b00-1781096108-1781085308"
+    ]
+  },
   {
     "name": "Somoy TV",
     "image": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",
@@ -19,16 +29,6 @@
       "https://tvsen6.aynaott.com/BTVNews/index.m3u8",
       "https://tvsen6.aynaott.com/btv_world/index.m3u8",
       "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8"
-    ]
-  },
-  {
-    "name": "T Sports HD",
-    "image": "https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",
-    "servers": [
-      "https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1781086443&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5a675df2f459fd00fdbdd811bc125827",
-      "https://tvsen7.aynaott.com/tsports-hd/index.m3u8",
-      "https://tvsen7.aynaott.com/tsportsfhd/index.m3u8",
-      "https://edge2.roarzone.net:8447/roarzone/edge1/1/index.ll.m3u8?token=29a9864bf28be9572ec77862e1d149870778506e-72446962d2e66eb51956128f35e26b00-1781096108-1781085308"
     ]
   }
 ]
