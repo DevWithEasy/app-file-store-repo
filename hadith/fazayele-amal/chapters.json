@@ -1,0 +1,29 @@
+[
+  {
+    "id": 533,
+    "chapter_id": 1,
+    "book_id": 11,
+    "title": "ফাযায়েলে তাওহীদ",
+    "number": 1,
+    "hadis_range": "১ - ১৩",
+    "book_name": "fazayele-amal"
+  },
+  {
+    "id": 534,
+    "chapter_id": 2,
+    "book_id": 11,
+    "title": "ফাযায়িলে কালেমা",
+    "number": 2,
+    "hadis_range": "১৪ - ৭২",
+    "book_name": "fazayele-amal"
+  },
+  {
+    "id": 535,
+    "chapter_id": 3,
+    "book_id": 11,
+    "title": "ফাযায়িলে সলাত",
+    "number": 3,
+    "hadis_range": "৭৩ - ১৫১",
+    "book_name": "fazayele-amal"
+  }
+]

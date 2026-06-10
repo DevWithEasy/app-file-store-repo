@@ -1,0 +1,344 @@
+[
+  {
+    "id": 201,
+    "chapter_id": 0,
+    "book_id": 6,
+    "title": "ভূমিকা",
+    "number": 0,
+    "hadis_range": "১ - ২৬৬",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 202,
+    "chapter_id": 1,
+    "book_id": 6,
+    "title": "পবিত্রতা ও তার সুন্নাতসমূহ",
+    "number": 1,
+    "hadis_range": "২৬৭ - ৬৬৬",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 203,
+    "chapter_id": 2,
+    "book_id": 6,
+    "title": "সালাত (নামায)",
+    "number": 2,
+    "hadis_range": "৬৬৭ - ৭০৫",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 204,
+    "chapter_id": 3,
+    "book_id": 6,
+    "title": "আযান ও তার সুন্নাত",
+    "number": 3,
+    "hadis_range": "৭০৬ - ৭৩৪",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 205,
+    "chapter_id": 4,
+    "book_id": 6,
+    "title": "মসজিদ ও জামাআত",
+    "number": 4,
+    "hadis_range": "৭৩৫ - ৮০২",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 206,
+    "chapter_id": 5,
+    "book_id": 6,
+    "title": "সালাত আদায় করা ও তার নিয়ম কানুন",
+    "number": 5,
+    "hadis_range": "৮০৩ - ১৪৩২",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 207,
+    "chapter_id": 6,
+    "book_id": 6,
+    "title": "জানাযাহ",
+    "number": 6,
+    "hadis_range": "১৪৩৩ - ১৬৩৭",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 208,
+    "chapter_id": 7,
+    "book_id": 6,
+    "title": "সিয়াম বা রোজা",
+    "number": 7,
+    "hadis_range": "১৬৩৮ - ১৭৮২",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 209,
+    "chapter_id": 8,
+    "book_id": 6,
+    "title": "যাকাত",
+    "number": 8,
+    "hadis_range": "১৭৮৩ - ১৮৪৪",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 210,
+    "chapter_id": 9,
+    "book_id": 6,
+    "title": "বিবাহ",
+    "number": 9,
+    "hadis_range": "১৮৪৫ - ২০১৫",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 211,
+    "chapter_id": 10,
+    "book_id": 6,
+    "title": "তালাক",
+    "number": 10,
+    "hadis_range": "২০১৬ - ২০৮৯",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 212,
+    "chapter_id": 11,
+    "book_id": 6,
+    "title": "কাফফারা সমূহ",
+    "number": 11,
+    "hadis_range": "২০৯০ - ২১৩৬",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 213,
+    "chapter_id": 12,
+    "book_id": 6,
+    "title": "ব্যবসা-বাণিজ্য",
+    "number": 12,
+    "hadis_range": "২১৩৭ - ২৩০৭",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 214,
+    "chapter_id": 13,
+    "book_id": 6,
+    "title": "বিচার ও বিধান",
+    "number": 13,
+    "hadis_range": "২৩০৮ - ২৩৭৪",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 215,
+    "chapter_id": 14,
+    "book_id": 6,
+    "title": "হেবা",
+    "number": 14,
+    "hadis_range": "২৩৭৫ - ২৩৮৯",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 216,
+    "chapter_id": 15,
+    "book_id": 6,
+    "title": "দান খয়রাত",
+    "number": 15,
+    "hadis_range": "২৩৯০ - ২৪৩৫",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 217,
+    "chapter_id": 16,
+    "book_id": 6,
+    "title": "বন্ধক",
+    "number": 16,
+    "hadis_range": "২৪৩৬ - ২৪৯১",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 218,
+    "chapter_id": 17,
+    "book_id": 6,
+    "title": "অগ্র-ক্রয়াধিকার",
+    "number": 17,
+    "hadis_range": "২৪৯২ - ২৫০১",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 219,
+    "chapter_id": 18,
+    "book_id": 6,
+    "title": "হারানো প্রাপ্তি",
+    "number": 18,
+    "hadis_range": "২৫০২ - ২৫১১",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 220,
+    "chapter_id": 19,
+    "book_id": 6,
+    "title": "দাসমুক্তি",
+    "number": 19,
+    "hadis_range": "২৫১২ - ২৫৩২",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 221,
+    "chapter_id": 20,
+    "book_id": 6,
+    "title": "হদ্দ (দণ্ড)",
+    "number": 20,
+    "hadis_range": "২৫৩৩ - ২৬১৪",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 222,
+    "chapter_id": 21,
+    "book_id": 6,
+    "title": "রক্তপণ",
+    "number": 21,
+    "hadis_range": "২৬১৫ - ২৬৯৪",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 223,
+    "chapter_id": 22,
+    "book_id": 6,
+    "title": "ওসিয়ত",
+    "number": 22,
+    "hadis_range": "২৬৯৫ - ২৭১৮",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 224,
+    "chapter_id": 23,
+    "book_id": 6,
+    "title": "ওয়ারিসী স্বত্ব বণ্টন",
+    "number": 23,
+    "hadis_range": "২৭১৯ - ২৭৫২",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 225,
+    "chapter_id": 24,
+    "book_id": 6,
+    "title": "জিহাদ",
+    "number": 24,
+    "hadis_range": "২৭৫৩ - ২৮৮১",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 226,
+    "chapter_id": 25,
+    "book_id": 6,
+    "title": "হজ্জ",
+    "number": 25,
+    "hadis_range": "২৮৮২ - ৩১১৯",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 227,
+    "chapter_id": 26,
+    "book_id": 6,
+    "title": "কোরবানি",
+    "number": 26,
+    "hadis_range": "৩১২০ - ৩১৬১",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 228,
+    "chapter_id": 27,
+    "book_id": 6,
+    "title": "যবেহ করা",
+    "number": 27,
+    "hadis_range": "৩১৬২ - ৩১৯৯",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 229,
+    "chapter_id": 28,
+    "book_id": 6,
+    "title": "শিকার",
+    "number": 28,
+    "hadis_range": "৩২০০ - ৩২৫০",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 230,
+    "chapter_id": 29,
+    "book_id": 6,
+    "title": "আহার ও তার শিষ্টাচার",
+    "number": 29,
+    "hadis_range": "৩২৫১ - ৩৩৭০",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 231,
+    "chapter_id": 30,
+    "book_id": 6,
+    "title": "পানীয় ও পানপাত্র",
+    "number": 30,
+    "hadis_range": "৩৩৭১ - ৩৪৩৫",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 232,
+    "chapter_id": 31,
+    "book_id": 6,
+    "title": "চিকিৎসা",
+    "number": 31,
+    "hadis_range": "৩৪৩৬ - ৩৫৪৯",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 233,
+    "chapter_id": 32,
+    "book_id": 6,
+    "title": "পোশাক-পরিচ্ছেদ",
+    "number": 32,
+    "hadis_range": "৩৫৫০ - ৩৬৫৬",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 234,
+    "chapter_id": 33,
+    "book_id": 6,
+    "title": "শিষ্টাচার",
+    "number": 33,
+    "hadis_range": "৩৬৫৭ - ৩৮২৬",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 235,
+    "chapter_id": 34,
+    "book_id": 6,
+    "title": "দুআ",
+    "number": 34,
+    "hadis_range": "৩৮২৭ - ৩৮৯২",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 236,
+    "chapter_id": 35,
+    "book_id": 6,
+    "title": "স্বপ্নের ব্যাখ্যা",
+    "number": 35,
+    "hadis_range": "৩৮৯৩ - ৩৯২৬",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 237,
+    "chapter_id": 36,
+    "book_id": 6,
+    "title": "কলহ-বিপর্যয়",
+    "number": 36,
+    "hadis_range": "৩৯২৭ - ৪০৯৯",
+    "book_name": "ibn-majah"
+  },
+  {
+    "id": 238,
+    "chapter_id": 37,
+    "book_id": 6,
+    "title": "পার্থিব ভোগবিলাসের প্রতি অনাসক্তি",
+    "number": 37,
+    "hadis_range": "৪১০০ - ৪৩৪১",
+    "book_name": "ibn-majah"
+  }
+]
