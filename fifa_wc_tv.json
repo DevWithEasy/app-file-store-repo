@@ -1,5 +1,5 @@
 [
-    {
+  {
     "name": "T Sports HD",
     "image": "https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",
     "servers": [
@@ -29,6 +29,465 @@
       "https://tvsen6.aynaott.com/BTVNews/index.m3u8",
       "https://tvsen6.aynaott.com/btv_world/index.m3u8",
       "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8"
+    ]
+  },
+  {
+    "name": "FIFA World Cup 2026",
+    "image": "",
+    "servers": [
+      "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8",
+      "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "FIFA World Cup 2026 Argentina",
+    "image": "",
+    "servers": [
+      "http://cdn.tv-rds.workers.dev/TYCSPT.m3u8"
+    ]
+  },
+  {
+    "name": "FIFA World Cup 2026 Brazil",
+    "image": "",
+    "servers": [
+      "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8"
+    ]
+  },
+  {
+    "name": "FIFA World Cup 2026 India",
+    "image": "",
+    "servers": [
+      "http://66.102.126.10:8000/play/a076/index.m3u8",
+      "http://103.204.43.87:8080/live/1/1/266.m3u8"
+    ]
+  },
+  {
+    "name": "FIFA World Cup 2026 India (Alt)",
+    "image": "",
+    "servers": [
+      "http://66.102.126.10:8000/play/a022/index.m3u8",
+      "http://103.204.43.87:8080/live/1/1/264.m3u8"
+    ]
+  },
+  {
+    "name": "FIFA World Cup 2026 Pakistan",
+    "image": "",
+    "servers": [
+      "http://103.204.43.87:8080/live/1/1/313.m3u8"
+    ]
+  },
+  {
+    "name": "News 24 HD",
+    "image": "",
+    "servers": [
+      "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8"
+    ]
+  },
+  {
+    "name": "Star News",
+    "image": "",
+    "servers": [
+      "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8"
+    ]
+  },
+  {
+    "name": "SATV HD",
+    "image": "",
+    "servers": [
+      "https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8"
+    ]
+  },
+  {
+    "name": "Channel 9 HD",
+    "image": "",
+    "servers": [
+      "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8"
+    ]
+  },
+  {
+    "name": "DBC News",
+    "image": "",
+    "servers": [
+      "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728.m3u8"
+    ]
+  },
+  {
+    "name": "Ekattor TV",
+    "image": "",
+    "servers": [
+      "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8"
+    ]
+  },
+  {
+    "name": "Channel 24",
+    "image": "",
+    "servers": [
+      "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8"
+    ]
+  },
+  {
+    "name": "Independent TV",
+    "image": "",
+    "servers": [
+      "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8"
+    ]
+  },
+  {
+    "name": "Jamuna TV",
+    "image": "",
+    "servers": [
+      "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8"
+    ]
+  },
+  {
+    "name": "ATN News",
+    "image": "",
+    "servers": [
+      "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8"
+    ]
+  },
+  {
+    "name": "ATN Bangla",
+    "image": "",
+    "servers": [
+      "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/"
+    ]
+  },
+  {
+    "name": "Ananda TV",
+    "image": "",
+    "servers": [
+      "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/"
+    ]
+  },
+  {
+    "name": "NTV",
+    "image": "",
+    "servers": [
+      "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8"
+    ]
+  },
+  {
+    "name": "BanglaVision",
+    "image": "",
+    "servers": [
+      "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8"
+    ]
+  },
+  {
+    "name": "Asian TV",
+    "image": "",
+    "servers": [
+      "https://mtlivestream.com/hls/asian/ytlive/index.m3u8"
+    ]
+  },
+  {
+    "name": "Ekushey TV",
+    "image": "",
+    "servers": [
+      "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8"
+    ]
+  },
+  {
+    "name": "Channel I",
+    "image": "",
+    "servers": [
+      "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8"
+    ]
+  },
+  {
+    "name": "Deepto TV",
+    "image": "",
+    "servers": [
+      "https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8"
+    ]
+  },
+  {
+    "name": "Boishakhi TV",
+    "image": "",
+    "servers": [
+      "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8"
+    ]
+  },
+  {
+    "name": "Bijoy TV",
+    "image": "",
+    "servers": [
+      "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/581.ts"
+    ]
+  },
+  {
+    "name": "Jago News 24",
+    "image": "",
+    "servers": [
+      "https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Maasranga HD",
+    "image": "",
+    "servers": [
+      "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8"
+    ]
+  },
+  {
+    "name": "Desh TV",
+    "image": "",
+    "servers": [
+      "https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "name": "Bangla TV",
+    "image": "",
+    "servers": [
+      "http://116.204.149.16/banglatv/index.m3u8"
+    ]
+  },
+  {
+    "name": "RTV",
+    "image": "",
+    "servers": [
+      "http://116.204.149.16/rtvhd/index.m3u8"
+    ]
+  },
+  {
+    "name": "Green TV",
+    "image": "",
+    "servers": [
+      "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8"
+    ]
+  },
+  {
+    "name": "Duronto",
+    "image": "",
+    "servers": [
+      "http://103.204.43.87:8080/live/1/1/290.m3u8"
+    ]
+  },
+  {
+    "name": "Nick Bangla",
+    "image": "",
+    "servers": [
+      "http://103.204.43.87:8080/live/1/1/275.m3u8"
+    ]
+  },
+  {
+    "name": "Sonic Bangla",
+    "image": "",
+    "servers": [
+      "http://103.204.43.87:8080/live/1/1/274.m3u8"
+    ]
+  },
+  {
+    "name": "SRK TV",
+    "image": "",
+    "servers": [
+      "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Rongeen TV",
+    "image": "",
+    "servers": [
+      "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "name": "Makkah Live",
+    "image": "",
+    "servers": [
+      "http://m.live.net.sa:1935/live/quran/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Madinah Live",
+    "image": "",
+    "servers": [
+      "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Madani TV Bangla",
+    "image": "",
+    "servers": [
+      "http://103.204.43.87:8080/live/1/1/304.m3u8"
+    ]
+  },
+  {
+    "name": "Enter 10 Bangla",
+    "image": "",
+    "servers": [
+      "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8"
+    ]
+  },
+  {
+    "name": "Sony Aath",
+    "image": "",
+    "servers": [
+      "http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "name": "Sony Max HD",
+    "image": "",
+    "servers": [
+      "http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "name": "Sony Max 2",
+    "image": "",
+    "servers": [
+      "http://maxotts.maxdigitaltv.com/x-media/C111/master.m3u8"
+    ]
+  },
+  {
+    "name": "Gazi TV",
+    "image": "",
+    "servers": [
+      "https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8"
+    ]
+  },
+  {
+    "name": "Nagorik HD",
+    "image": "",
+    "servers": [
+      "http://198.195.239.50:8095/nagorik/index.m3u8"
+    ]
+  },
+  {
+    "name": "A Sports HD",
+    "image": "",
+    "servers": [
+      "http://103.204.43.87:8080/live/1/1/309.m3u8"
+    ]
+  },
+  {
+    "name": "PTV Sports",
+    "image": "",
+    "servers": [
+      "http://103.204.43.87:8080/live/1/1/313.m3u8"
+    ]
+  },
+  {
+    "name": "Willow",
+    "image": "",
+    "servers": [
+      "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/517.ts"
+    ]
+  },
+  {
+    "name": "Fox Sports 501 HD",
+    "image": "",
+    "servers": [
+      "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/19146/index.m3u8"
+    ]
+  },
+  {
+    "name": "Sky Sports Cricket",
+    "image": "",
+    "servers": [
+      "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8"
+    ]
+  },
+  {
+    "name": "Sony Sports 1 HD",
+    "image": "",
+    "servers": [
+      "http://stalker.hakunamata.workers.dev/play/1101/index.m3u8"
+    ]
+  },
+  {
+    "name": "Sony Sports 2 HD",
+    "image": "",
+    "servers": [
+      "http://103.204.43.87:8080/live/1/1/304.m3u8",
+      "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/513.ts"
+    ]
+  },
+  {
+    "name": "Sony Sports 5 HD",
+    "image": "",
+    "servers": [
+      "http://66.102.126.10:8000/play/a010/index.m3u8"
+    ]
+  },
+  {
+    "name": "Star Sports 1 HD",
+    "image": "",
+    "servers": [
+      "http://103.204.43.87:8080/live/1/1/258.m3u8"
+    ]
+  },
+  {
+    "name": "Star Sports 2 HD",
+    "image": "",
+    "servers": [
+      "http://103.204.43.87:8080/live/1/1/255.m3u8"
+    ]
+  },
+  {
+    "name": "Star Sports Select 1 HD",
+    "image": "",
+    "servers": [
+      "http://103.204.43.87:8080/live/1/1/244.m3u8"
+    ]
+  },
+  {
+    "name": "Star Sports Select 2 HD",
+    "image": "",
+    "servers": [
+      "http://103.204.43.87:8080/live/1/1/243.m3u8"
+    ]
+  },
+  {
+    "name": "Sangeet Bangla",
+    "image": "",
+    "servers": [
+      "https://cdn-4.pishow.tv/live/1143/master.m3u8"
+    ]
+  },
+  {
+    "name": "Discovery HD Bengali",
+    "image": "",
+    "servers": [
+      "http://103.159.180.34:5001/live/3428.m3u8"
+    ]
+  },
+  {
+    "name": "Discovery Bengali",
+    "image": "",
+    "servers": [
+      "http://103.159.180.34:5001/live/573.m3u8"
+    ]
+  },
+  {
+    "name": "Stable Sports TV",
+    "image": "",
+    "servers": [
+      "http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8"
+    ]
+  },
+  {
+    "name": "Toffee Premium",
+    "image": "",
+    "servers": [
+      "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/522.ts"
+    ]
+  },
+  {
+    "name": "Colors Bangla HD",
+    "image": "",
+    "servers": [
+      "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/532.ts"
+    ]
+  },
+  {
+    "name": "Zee Bangla HD",
+    "image": "",
+    "servers": [
+      "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts"
     ]
   }
 ]
